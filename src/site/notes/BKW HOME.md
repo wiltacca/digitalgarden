@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bkw-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/bkw-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-12T18:35:38.364+08:00"}
 ---
 
 ![bible.jpg|1500](/img/user/Attachments/bible.jpg)
