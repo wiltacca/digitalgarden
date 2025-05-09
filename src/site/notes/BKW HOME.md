@@ -114,7 +114,20 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
 
 # ✉️ Contact Us
 
-<form name="contact" netlify> <p> <label>Name <input type="text" name="name" /></label> </p> <p> <label>Email <input type="email" name="email" /></label> </p> <p> <button type="submit">Send</button> </p> </form>
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
 **_Copyright © 2025 Bible Knowledge Web. All rights reserved. Share this website click below._**
 
