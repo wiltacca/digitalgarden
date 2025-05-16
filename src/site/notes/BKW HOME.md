@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bkw-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-12T18:35:38.364+08:00"}
 ---
 
-![welcome_bkw_animated_banner.gif](/img/user/Attachments/welcome_bkw_animated_banner.gif)
+![bible_knowledge_banner.png](/img/user/Attachments/bible_knowledge_banner.png)
 # ⛪ HOME: Bible Knowledge Web (BKW)
 
 Mastering KJV Bible's archaic language, grammatical rules: learn personal pronouns, verbs and terminology upholding God's fundamental, biblical doctrines.
