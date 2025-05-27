@@ -19,7 +19,7 @@ The English of our King James Bible (New Testament) is translated from Greek - w
 
 💡The King James translators used the <font color="#de7802">Elizabethan pronoun system</font> to reflect the same pronoun distinctions that are used in the biblical Greek;
 
-Modern English Bibles that do not use the Elizabethan pronoun system fail to achieve the precision of the King James Bible.
+Modern English Bibles that do not use the [[Contents/KJV Bible/The Elizabethan Pronoun System\|Elizabethan pronoun system]] fail to achieve the precision of the King James Bible.
 
 # How Important Is This Distinction? 
 
