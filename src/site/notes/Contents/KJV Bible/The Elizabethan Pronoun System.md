@@ -6,13 +6,13 @@
 
 The Elizabethan pronoun system represents a sophisticated linguistic framework that distinguished between formal and informal address, singular and plural forms, and various grammatical cases in ways that modern English has largely abandoned. This system, prevalent during the Early Modern English period (roughly 1500-1700), was particularly evident in the works of William Shakespeare and the King James Version of the Bible.
 
-# **Core Structure and Forms**
+# **Core Structure & Forms**
 
 The Elizabethan pronoun system maintained distinct forms for different grammatical functions. The second-person pronouns were the most complex, featuring **thou** as the singular informal nominative form, **thee** as its objective counterpart, **thy** and **thine** as possessive forms, and **thyself** as the reflexive form. The plural and formal singular pronoun was **ye** in the nominative case, with **you** serving as its objective form, **your** and **yours** as possessive forms, and **yourself/yourselves** as reflexive forms.
 
 The distinction between **thy** and **thine** followed specific phonetic rules: **thy** preceded words beginning with consonant sounds, while **thine** preceded words beginning with vowel sounds or the letter 'h'. This pattern mirrored the first-person possessive pronouns **my** and **mine**, which followed identical phonetic distribution rules.
 
-# **Social and Contextual Usage**
+# **Social & Contextual Usage**
 
 The choice between **thou** and **you** forms carried significant social implications that extended far beyond mere grammatical correctness. **Thou** was typically employed when addressing social inferiors, expressing intimacy between equals, or conveying contempt or familiarity. Conversely, **you** was used when addressing superiors, showing respect to equals, or maintaining formal distance in social interactions.
 
@@ -24,13 +24,13 @@ The Elizabethan pronoun system required specific verb conjugations that have sin
 
 The second-person singular past tense was marked with **-st** or **-est** endings, creating forms like "walkedst" or "gav'st". These conjugation patterns provided grammatical consistency within the pronoun system while clearly distinguishing singular from plural address.
 
-# **Historical Development and Decline**
+# **Historical Development & Decline**
 
 The Elizabethan pronoun system emerged from earlier Germanic linguistic traditions, with **thou** deriving from Old English **þū** and ultimately from ancient Indo-European roots. During the Middle Ages, the system began incorporating social distinctions that paralleled similar developments in French (**tu/vous**) and other European languages.
 
 By the early 16th century, both **thou** and **ye** remained common in educated discourse, as evidenced in contemporary debates over biblical translation. However, by 1650, **thou** had begun to seem old-fashioned or literary, and it effectively disappeared from Modern Standard English except in specific religious, poetic, or regional contexts.
 
-# **Biblical and Literary Preservation**
+# **Biblical & Literary Preservation**
 
 The King James Version translators deliberately preserved the **thou/you** distinction to mirror the Hebrew and Ancient Greek differentiation between singular and plural second-person pronouns. This decision was made for translation accuracy rather than reverence, as God addresses individuals and even Satan as "thou" in the biblical text. However, the gradual disappearance of **thou** from common usage eventually gave these forms a special religious and poetic aura.
 

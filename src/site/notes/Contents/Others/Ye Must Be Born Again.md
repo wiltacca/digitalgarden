@@ -101,7 +101,7 @@ Many Jews faithfully attended synagogue, observed feasts, yet lacked a personal 
 
 ✅ **Example:** **Isaiah 1:13-15:** Israel observed God’s outward ordinances, but God rejected their worship because their hearts were far from Him.
 
-## ❌ **Rule-Keeping and Good Works**
+## ❌ **Rule-Keeping & Good Works**
 
 **Rule-keeping, charity, and religious devotion** are often mistaken for saving faith.
 
@@ -124,7 +124,7 @@ Saul of Tarsus (Paul) was zealous in devotion-praying, fasting, studying the law
 
 **Many people pray sincerely, yet do not have the new birth:** Matthew 6:7 – “But when ye pray, use not vain repetitions, as the heathen do…”
 
-## ❌ **Sacraments and Religious Rites (Including Baptism and Communion)**
+## ❌ **Sacraments & Religious Rites (Including Baptism & Communion)**
 
 **Baptism and the Lord’s Supper** are ordinances commanded of believers as expressions of faith, not as means of imparting spiritual life.
 
@@ -155,7 +155,7 @@ Saul of Tarsus (Paul) was zealous in devotion-praying, fasting, studying the law
 
 John 3:6-7, Jesus explains: "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit. Marvel not that I said unto thee, Ye must be born again."  This is not a change of behavior, but a supernatural work of God in the heart.
 
-## ✔️ **By the Word and the Spirit**
+## ✔️ **By the Word & the Spirit**
 
 "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God." John 3:5.
 
