@@ -17,7 +17,7 @@ Matthew 4:3 And when the tempter came to him, he said, If thou be the Son of God
 
 The English of our King James Bible (New Testament) is translated from Greek - which uses a <font color="#de7802">more precise </font>system of personal pronouns than we use in today's modern English;
 
-💡The King James translators used the ==Elizabethan pronoun system ==<!--Elizabethan pronoun system represents a sophisticated linguistic framework that distinguished between formal and informal address, singular and plural forms, and various grammatical cases in ways that modern English has largely abandoned.-->to reflect the same pronoun distinctions that are used in the biblical Greek;
+💡The King James translators used the <font color="#de7802">Elizabethan pronoun system</font> to reflect the same pronoun distinctions that are used in the biblical Greek;
 
 Modern English Bibles that do not use the Elizabethan pronoun system fail to achieve the precision of the King James Bible.
 
@@ -207,3 +207,4 @@ The careful attention to these pronoun forms reflects the KJV translators' commi
 Also see:
 - [[Contents/KJV Bible/Read & Understand KJV Bible English\|Read & Understand KJV Bible English]]
 - [[Contents/KJV Bible/Understand KJV Bible Personal Verbs\|Understand KJV Bible Personal Verbs]]
+- [[Contents/KJV Bible/The Elizabethan Pronoun System\|The Elizabethan Pronoun System]]

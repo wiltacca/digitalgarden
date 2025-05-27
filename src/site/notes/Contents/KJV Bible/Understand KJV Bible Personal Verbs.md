@@ -157,3 +157,4 @@ This precision reflects the translators’ commitment to faithfully rendering th
 Also see:
 - [[Contents/KJV Bible/Read & Understand KJV Bible English\|Read & Understand KJV Bible English]]
 - [[Contents/KJV Bible/Understand KJV Bible Personal Pronouns\|Understand KJV Bible Personal Pronouns]]
+- [[Contents/KJV Bible/The Elizabethan Pronoun System\|The Elizabethan Pronoun System]]
