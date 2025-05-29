@@ -339,6 +339,6 @@ Let every soul heed this solemn command, recognizing that salvation is God’s f
 
 ---
 Also see:
-- 
+- [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
 - 
 - 

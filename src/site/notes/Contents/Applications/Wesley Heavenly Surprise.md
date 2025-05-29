@@ -58,6 +58,6 @@ John Wesley’s Three Surprises of Heaven offer a transformative lens for contem
 
 ---
 Also see:
-- 
+- [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - 
 - 
