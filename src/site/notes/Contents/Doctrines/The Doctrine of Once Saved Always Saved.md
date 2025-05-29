@@ -97,13 +97,13 @@ In the larger context of the Once Saved Always Saved debate presented in the fil
 
 - Romans 11 is interpreted as Paul warning believers (Gentiles grafted into the olive tree) that they **can be cut off** if they do not continue in God's kindness, just as Israel was.
 
-- Hebrews 6 and 10 are cited as blunt statements that one can **lose salvation** after being enlightened, tasting the heavenly gift, and becoming partakers of the Holy Spirit. Falling away leads to a **fearful expectation of judgment and a fury of fire**, not merely a loss of rewards.
+- Hebrews 6 and Hebrews 10 are cited as blunt statements that one can **lose salvation** after being enlightened, tasting the heavenly gift, and becoming partakers of the Holy Spirit. Falling away leads to a **fearful expectation of judgment and a fury of fire**, not merely a loss of rewards.
 
 - 2 Peter 2 describes individuals who have escaped worldly pollutions through the knowledge of Christ but become entangled again, stating that their **latter end is worse than the beginning**, and it would have been better for them not to have known the way of righteousness. This is likened to a washed sow returning to wallowing in the mire.
 
 - James 5:19-20 is presented as teaching that if a believer **strays from the truth**, another can **save his soul from death** by bringing him back.
 
-- Jesus' teachings in Matthew 24:13 and 10:22 emphasize the necessity of **enduring to the end to be saved**. He also warns that if disciples deny Him before men, He will deny them before the Father, and that one should fear God who can destroy both soul and body in hell.
+- Jesus' teachings in Matthew 24:13 and Matthew 10:22 emphasize the necessity of **enduring to the end to be saved**. He also warns that if disciples deny Him before men, He will deny them before the Father, and that one should fear God who can destroy both soul and body in hell.
 
 - Revelation 3:5 is cited where Jesus promises not to erase the name of the one who overcomes from the book of life, implying that **names _can_ be erased** if one does not overcome.
 
@@ -170,7 +170,7 @@ Here are the main arguments presented against OSAS:
         
         - Hebrews 6:4-6 describes individuals who have been "enlightened," "tasted of the heavenly gift," "made partakers of the Holy Spirit," and "tasted the good word of God," but have **"fallen away"**. This "tasting" is argued to mean a real experience, not just a superficial one, similar to Christ "tasting death". The passage says it's impossible to renew such people **"again to repentance,"** implying they had repented initially.
         
-        - Hebrews 10:26-27, 29 warns that **"if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment and a fury of fire"**. This is said to apply to those sanctified by the blood of the covenant who have "trampled underfoot the Son of God". The author includes himself ("if _we_ go on sinning willfully"), reinforcing it's a warning to believers. This consequence (fearful judgment, fury of fire) is explicitly stated to rule out the OSAS view that falling away only results in loss of rewards, not salvation itself.
+        - Hebrews 10:26-27, Hebrews 29 warns that **"if we go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment and a fury of fire"**. This is said to apply to those sanctified by the blood of the covenant who have "trampled underfoot the Son of God". The author includes himself ("if _we_ go on sinning willfully"), reinforcing it's a warning to believers. This consequence (fearful judgment, fury of fire) is explicitly stated to rule out the OSAS view that falling away only results in loss of rewards, not salvation itself.
         
         - The argument that warnings are merely hypothetical to get believers to persevere, even though they cannot help but persevere, is called **"disingenuous"** and not "quite honest". Real warnings imply real possibility.
         
@@ -182,7 +182,7 @@ Here are the main arguments presented against OSAS:
     
     - **Jesus' Warnings:**
         
-		- Matthew 24:13 and 10:22: Jesus states that **"he who endures to the end will be saved"**. In context (Matthew 24), this follows warnings about many falling away and love growing cold, implying that not enduring means not being saved.
+		- Matthew 24:13 and Matthew 10:22: Jesus states that **"he who endures to the end will be saved"**. In context (Matthew 24), this follows warnings about many falling away and love growing cold, implying that not enduring means not being saved.
 		
         - Denying Christ: Jesus warns that if disciples deny Him before men, **He will deny them before the Father**.
         
@@ -272,7 +272,7 @@ Here's a breakdown of what the film say about these two views and the debate:
     
     - Romans 11 is highlighted for its clear declaration that believers can "absolutely forfeit your salvation," warning Gentiles that they stand by faith _if_ they "continue in his kindness, otherwise you also will be cut off," just like the natural branches (Israel) were. The use of "if" is seen as directly contradicting the idea of an unconditional guarantee.
     
-    - Hebrews chapter 6 and 10 are described as stating "bluntly" that salvation can be lost. Hebrews 6 speaks of those who have been "enlightened and have tasted of the heavenly gift and have been made partakers of the holy spirit and have tasted the good word of god and the powers of the age to come and then have fallen away," for whom it is impossible to renew again to repentance. This passage is seen as "categorically clear" proof of forfeiting salvation, describing people who were clearly genuine believers ("partakers of the Holy Spirit," "sanctified by the blood of Christ").
+    - Hebrews 6 and Hebrews 10 are described as stating "bluntly" that salvation can be lost. Hebrews 6 speaks of those who have been "enlightened and have tasted of the heavenly gift and have been made partakers of the holy spirit and have tasted the good word of god and the powers of the age to come and then have fallen away," for whom it is impossible to renew again to repentance. This passage is seen as "categorically clear" proof of forfeiting salvation, describing people who were clearly genuine believers ("partakers of the Holy Spirit," "sanctified by the blood of Christ").
     
     - Hebrews 10 warns that if believers "go on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins, but a fearful expectation of judgment and a fury of fire". This refutes the idea that warnings are only about losing rewards, as it speaks of judgment and fire. The author includes himself ("if _we_ go on sinning") in the warning, emphasising its reality for true believers.
     
@@ -280,7 +280,7 @@ Here's a breakdown of what the film say about these two views and the debate:
     
     - James 5:19-20, addressed to "brethren" (genuine believers), says that if any among them "turn from the truth," and one converts him back, "he'll save a soul from death". This indicates that spiritual salvation ("soul") can be lost.
     
-    - Jesus' own words in Matthew 24:13 and 10:22 ("the one who endures to the end, he will be saved") are presented as requiring perseverance for salvation. His warnings about denying Him before men resulting in Him denying them before the Father are seen as "salvific warnings".
+    - Jesus' own words in Matthew 24:13 and Matthew 10:22 ("the one who endures to the end, he will be saved") are presented as requiring perseverance for salvation. His warnings about denying Him before men resulting in Him denying them before the Father are seen as "salvific warnings".
     
     - Revelation 3:5's promise "I will not erase your name from the book of life" to those who overcome implies the possibility that names _can_ be erased for those who do not overcome.
     
@@ -327,7 +327,7 @@ Instead, the film argue that the Bible consistently warns believers about the po
 
 Key points leading to this conclusion include:
 
-- **Biblical Contradiction:** The doctrine of once saved, always saved is stated to fly in the face of the constant teaching of the Bible from Genesis 1 to Revelation. There are said to be over 80 passages in the New Testament that warn Christians not to lose what they have in Christ, and many, many warnings about the possibility of apostasy.
+- **Biblical Contradiction:** The doctrine of once saved, always saved is stated to fly in the face of the constant teaching of the Bible from Genesis 1 to Revelation 22. There are said to be over 80 passages in the New Testament that warn Christians not to lose what they have in Christ, and many, many warnings about the possibility of apostasy.
 
 - **Early Church History:** Absolutely no one in the early church before Augustine believed in once saved, always saved. The patristic fathers believed there was a possibility of turning from Christ, holding a position similar to modern Arminians on apostasy. The first generation of Christians, personally discipled by the apostles, knew only faithfulness over the long haul. The early church fathers warned against the doctrine, associating it with Gnostic heretics who believed they were inherently saved and could not be lost, leading some to practice forbidden deeds. Figures like Cyprian and Justin Martyr emphasised the necessity of preserving the faith received.
 
@@ -341,7 +341,7 @@ Key points leading to this conclusion include:
     
     - Paul's declaration in Romans 11 that believers are grafted into the olive tree and will be cut off if they do not continue in God's kindness. The use of "if" indicates conditionality.
     
-    - Hebrews 6 and 10, which are seen as stating bluntly that salvation can be lost. Hebrews 6 describes those who have been enlightened, tasted the heavenly gift, and partaken of the Holy Spirit, yet fall away, making restoration difficult. Hebrews 10 warns of no remaining sacrifice for those who go on sinning deliberately after receiving the knowledge of the truth, profaning the blood by which they were sanctified. These warnings are directed at real Christians and rule out the interpretation of merely losing rewards.
+    - Hebrews 6 and Hebrews 10, which are seen as stating bluntly that salvation can be lost. Hebrews 6 describes those who have been enlightened, tasted the heavenly gift, and partaken of the Holy Spirit, yet fall away, making restoration difficult. Hebrews 10 warns of no remaining sacrifice for those who go on sinning deliberately after receiving the knowledge of the truth, profaning the blood by which they were sanctified. These warnings are directed at real Christians and rule out the interpretation of merely losing rewards.
     
     - 2 Peter 2, describing those who have escaped world pollutions through the knowledge of Christ but turn away; their latter end is worse than the beginning, illustrating a former believer's lapsed state.
     
@@ -352,7 +352,7 @@ Key points leading to this conclusion include:
     - The promise in Revelation 3:5 not to erase the name of the overcomer from the book of life, implying the possibility that names can be erased if one does not overcome.
 
 - **Faithfulness and Obedience:** True faith is described as a living faith that results in good works. While works do not save, salvation that does not issue in a transformed life has missed the point. The Sermon on the Mount is presented as essential teaching for discipleship and holiness, not an impossible standard. Living a holy life is possible through the power of the Holy Spirit. Repentance involves a change of mind and heart leading to a change of lifestyle.
--
+
 - **Free Will and Responsibility:** God has given humanity free will, and missing heaven is ultimately the consequence of one's own choices and failure to heed warnings.
 
 - **The Role of Sin:** Sin is taken seriously; it can harden the heart and lead to falling away. Forgiveness of future sins is not automatic but requires repentance.
