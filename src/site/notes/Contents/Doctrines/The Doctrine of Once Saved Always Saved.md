@@ -23,7 +23,7 @@ The doctrine of "once saved, always saved," arguing that it contradicts the Bibl
 
 - **Various Historical Periods (Following the Reformation):** Various Protestant denominations and movements emerge that do not adhere to the doctrine of "once saved, always saved." These include Methodists, the Restoration Movement (Christian churches, Church of Christ), Pentecostal/charismatic circles, Anabaptists, Lutherans, and Episcopalians. The film material suggests that the vast majority of Christians throughout history and in various traditions have not believed in "once saved, always saved."
 
-- **Present Day:** The debate surrounding "once saved, always saved" continues. The film material presents arguments against the doctrine, citing numerous biblical passages (including 1 Corinthians 9 & 10, Romans 11, Hebrews 6 & 10, 2 Peter 2, James 5, Matthew 10, Revelation 3) as warning against or refuting the idea that salvation cannot be forfeited. Proponents of conditional security and those who believe in the possibility of apostasy emphasise the importance of faithfulness, perseverance, repentance, and ongoing holiness as necessary for salvation. They argue that biblical warnings are genuine and reflect a real possibility of falling away, not merely a means to ensure perseverance for the elect. They also challenge interpretations of passages often used to support "once saved, always saved," such as the sealing of the Holy Spirit (Ephesians 1 & 4) and being in the Father's hand (John 10), suggesting that seals can be broken, down payments can be lost, and individuals can choose to leave God's hand. The interpretation of Romans 7 is also discussed, with the early church view of it describing Paul's pre-conversion struggle contrasted with Augustine's later view of it describing the ongoing struggle of a believer. The film material strongly advocates for the necessity of ongoing repentance, confession, and living a holy life, rejecting the idea that future sins are pre-forgiven or that one can live a life of unrepentant sin and still be assured of salvation.
+- **Present Day:** The debate surrounding "once saved, always saved" continues. The film material presents arguments against the doctrine, citing numerous biblical passages including 1 Corinthians 9-10, Romans 11, Hebrews 6 , Hebrews 10, 2 Peter 2, James 5, Matthew 10, Revelation 3 as warning against or refuting the idea that salvation cannot be forfeited. Proponents of conditional security and those who believe in the possibility of apostasy emphasise the importance of faithfulness, perseverance, repentance, and ongoing holiness as necessary for salvation. They argue that biblical warnings are genuine and reflect a real possibility of falling away, not merely a means to ensure perseverance for the elect. They also challenge interpretations of passages often used to support "once saved, always saved," such as the sealing of the Holy Spirit Ephesians 1, Ephesians 4 and being in the Father's hand John 10, suggesting that seals can be broken, down payments can be lost, and individuals can choose to leave God's hand. The interpretation of Romans 7 is also discussed, with the early church view of it describing Paul's pre-conversion struggle contrasted with Augustine's later view of it describing the ongoing struggle of a believer. The film material strongly advocates for the necessity of ongoing repentance, confession, and living a holy life, rejecting the idea that future sins are pre-forgiven or that one can live a life of unrepentant sin and still be assured of salvation.
 
 ---
 # **The Cast of Characters**
@@ -52,15 +52,15 @@ The doctrine of "once saved, always saved," arguing that it contradicts the Bibl
 
 - **Lewis Sperry Chafer:** Mentioned as a strong advocate of "once saved, always saved." The film material notes his acknowledgment of the significant number of biblical passages cited by those holding the Arminian view (conditional security), indicating the scriptural weight behind the opposing view.
 
-- **Paul (the Apostle):** Author of many New Testament epistles. His writings are extensively discussed in the film material, with passages like 1 Corinthians 9 & 10, Romans 11, Romans 7 & 8, and Ephesians 1 & 4 being analysed in relation to the debate on eternal security and the possibility of apostasy. The film material strongly argues that Paul's writings support the idea of conditional security and the need for perseverance.
+- **Paul (the Apostle):** Author of many New Testament epistles. His writings are extensively discussed in the film material, with passages like 1 Corinthians 9-10, Romans 11, Romans 7-8, and Ephesians 1, Ephesians 4 being analysed in relation to the debate on eternal security and the possibility of apostasy. The film material strongly argues that Paul's writings support the idea of conditional security and the need for perseverance.
 
 - **James:** Author of the Epistle of James. The film material highlights James 5:19-20 as a clear passage demonstrating the possibility of a believer straying from the truth and the need for another believer to bring them back to save their soul from death.
 
 - **Peter (the Apostle):** Author of the Epistles of 1 and 2 Peter. The film material references 2 Peter 2 as a strong statement about the possibility of a believer being lost after escaping the pollutions of the world, comparing them to a dog returning to its vomit or a sow returning to wallowing in the mire.
 
-- **Jesus Christ:** The central figure of Christianity. His teachings in the Gospels and Revelation are cited as providing warnings against falling away and emphasising the need to endure to the end (Matthew 10), the possibility of names being erased from the Book of Life (Revelation 3), and the dangers of denying Him (Matthew 10). His death on the cross is affirmed as the basis for forgiveness.
+- **Jesus Christ:** The central figure of Christianity. His teachings in the Gospels and Revelation are cited as providing warnings against falling away and emphasising the need to endure to the end Matthew 10, the possibility of names being erased from the Book of Life Revelation 3, and the dangers of denying Him Matthew 10. His death on the cross is affirmed as the basis for forgiveness.
 
-- **John (the Apostle):** Author of the Gospel of John, the Epistles of 1, 2, and 3 John, and the Book of Revelation. The film material references his writings concerning Gnosticism (1 John 4), his teaching on forgiveness (1 John 1), the Shepherd discourse in John 10, and the warnings in the Book of Revelation regarding names in the Book of Life.
+- **John (the Apostle):** Author of the Gospel of John, the Epistles of 1, 2, and 3 John, and the Book of Revelation. The film material references his writings concerning Gnosticism 1 John 4, his teaching on forgiveness 1 John 1, the Shepherd discourse in John 10, and the warnings in the Book of Revelation regarding names in the Book of Life.
 
 - **Arminians:** A theological perspective that generally believes in conditional security, meaning that salvation can be lost. The film material identifies itself as largely aligning with this view and distinguishes between standard Arminianism and "Reformed Arminianism" regarding the relationship between sin and apostasy.
 
@@ -93,7 +93,7 @@ In the larger context of the Once Saved Always Saved debate presented in the fil
 
 **Biblical Arguments Against the Core Tenet:** The film argue that the Bible, from Genesis to Revelation, constantly teaches against this core tenet. Numerous passages are interpreted as **warnings to Christians about the possibility of falling away** or the necessity of continued faithfulness:
 
-- The Apostle Paul's concern about being **disqualified** (1 Corinthians 9:24-27) is seen as a clear example of a saved person acknowledging the possibility of forfeiting salvation.
+- The Apostle Paul's concern about being **disqualified** 1 Corinthians 9:24-27 is seen as a clear example of a saved person acknowledging the possibility of forfeiting salvation.
 
 - Romans 11 is interpreted as Paul warning believers (Gentiles grafted into the olive tree) that they **can be cut off** if they do not continue in God's kindness, just as Israel was.
 
@@ -125,7 +125,7 @@ In the larger context of the Once Saved Always Saved debate presented in the fil
 
 - It is seen as a major **explanation for hypocrisy** in the church, as people believe they don't have to live holy lives.
 
-- It can lead to people living **wicked lives** while quoting scripture (like Romans 7) as a license.
+- It can lead to people living **wicked lives** while quoting scripture like Romans 7 as a license.
 
 - It is said to **destroy the fear of God**, which is presented as essential for holiness and perseverance.
 
@@ -162,7 +162,7 @@ Here are the main arguments presented against OSAS:
     
     - **The Apostle Paul's Example:** Paul's words in 1 Corinthians 9:24-27 are cited as a clear passage where he expresses concern about being **"disqualified"** after preaching to others. The same Greek word (adokimos) is used in 2 Corinthians 13:5, which Paul uses to warn believers to examine themselves to see if they are in the faith, implying the possibility of not being in the faith (being without Christ). The film interpret this as Paul acknowledging the possibility that _he_, despite his service, could be "put out of this race".
     
-    - **Lessons from Israel:** Paul's reference to Israel perishing in the wilderness (1 Corinthians 10) is presented as an example written for the instruction of Christians, linking it to the possibility of being disqualified.
+    - **Lessons from Israel:** Paul's reference to Israel perishing in the wilderness 1 Corinthians 10 is presented as an example written for the instruction of Christians, linking it to the possibility of being disqualified.
     
     - **Romans 11:** This chapter is highlighted as containing **"very clear declarations that you can absolutely forfeit your salvation"**. Paul's warning to Gentile believers, grafted into the olive tree, is interpreted as teaching that they can be **"cut off"** if they do not continue in God's kindness, just as natural branches (Israel) were. The presence of the word **"if"** ("if you continue in his kindness") is seen as directly contradicting an unconditional guarantee. The warning is directed at those who "stand by their faith," indicating it's for believers.
     
@@ -174,7 +174,7 @@ Here are the main arguments presented against OSAS:
         
         - The argument that warnings are merely hypothetical to get believers to persevere, even though they cannot help but persevere, is called **"disingenuous"** and not "quite honest". Real warnings imply real possibility.
         
-        - The argument from the Mosaic law (death without mercy for disobedience) to the greater punishment for those who trample the Son of God and insult the Spirit (Hebrews 10:28-29) is presented as an **a fortiori argument**: if falling away was possible and severely punished under the Old Covenant, it is even worse under the New Covenant.
+        - The argument from the Mosaic law (death without mercy for disobedience) to the greater punishment for those who trample the Son of God and insult the Spirit Hebrews 10:28-29 is presented as an **a fortiori argument**: if falling away was possible and severely punished under the Old Covenant, it is even worse under the New Covenant.
         
     - **2 Peter 2:** This chapter is called a **"strong statement about the possibility of a believer being lost"**. It describes those who have **"escaped the pollutions of the world through the knowledge of the Lord and Savior Jesus Christ"** but are again entangled and overcome, stating their **"latter end is worse for them than the beginning,"** and it would have been **"better for them not to have known the way of righteousness"**. This "knowledge" is interpreted as deep, personal, experiential knowledge (epignosis), not just intellectual acquaintance. The analogy of the washed sow returning to wallowing in the mire is used to illustrate a former believer returning to sin, contrary to the Calvinist interpretation that a truly washed person could never return.
     
@@ -192,13 +192,13 @@ Here are the main arguments presented against OSAS:
         
 3. **Countering OSAS Proof Texts:**
     
-    - **Ephesians 1 (Sealing):** While OSAS proponents point to being "sealed with the promised Holy Spirit, who is the guarantee of our inheritance", the film argue that **seals can be broken**. The word translated "guarantee" (earnest) is better understood as an **"earnest money" or "down payment"** of the inheritance, not an unconditional guarantee regardless of behaviour. Paul's warning to the Ephesians against immorality, stating that those who practice such things **"will not inherit the kingdom of Christ,"** contradicts the idea that sealing guarantees salvation regardless of conduct. Ephesians 4:30 also warns against **"grieving the Holy Spirit,"** which is linked to historical examples (Isaiah 63) where grieving the Spirit led to God becoming an enemy. Grieving the Spirit is seen as grieving away "the means of our salvation".
+    - **Ephesians 1 (Sealing):** While OSAS proponents point to being "sealed with the promised Holy Spirit, who is the guarantee of our inheritance", the film argue that **seals can be broken**. The word translated "guarantee" (earnest) is better understood as an **"earnest money" or "down payment"** of the inheritance, not an unconditional guarantee regardless of behaviour. Paul's warning to the Ephesians against immorality, stating that those who practice such things **"will not inherit the kingdom of Christ,"** contradicts the idea that sealing guarantees salvation regardless of conduct. Ephesians 4:30 also warns against **"grieving the Holy Spirit,"** which is linked to historical examples Isaiah 63 where grieving the Spirit led to God becoming an enemy. Grieving the Spirit is seen as grieving away "the means of our salvation".
     
-    - **John 10 (Sheep in His Hand):** The promise that no one can "snatch them out of my hand" is acknowledged as true ("nobody can by force take us from his hand"). However, the film argue that the sheep **"can jump out of the Father's hand"**; God will not force anyone to stay. The promise applies to those who are _presently_ hearing Jesus' voice and _presently_ following Him (indicated by present tense verbs in Greek). If someone is "no longer following Christ," they "no longer have the promises of this verse". Taking the promise without the condition is seen as the problem. The example of the unfaithful servant who is "cut in pieces and thrown with the unbelievers" (Luke 12) is also used to show that a "sheep" can harden his heart and no longer hear the voice.
+    - **John 10 (Sheep in His Hand):** The promise that no one can "snatch them out of my hand" is acknowledged as true ("nobody can by force take us from his hand"). However, the film argue that the sheep **"can jump out of the Father's hand"**; God will not force anyone to stay. The promise applies to those who are _presently_ hearing Jesus' voice and _presently_ following Him (indicated by present tense verbs in Greek). If someone is "no longer following Christ," they "no longer have the promises of this verse". Taking the promise without the condition is seen as the problem. The example of the unfaithful servant who is "cut in pieces and thrown with the unbelievers" Luke 12 is also used to show that a "sheep" can harden his heart and no longer hear the voice.
     
     - **Romans 7:** This passage describing a struggle with sin ("I do the very thing I hate," "making me a prisoner of the law of sin") is **strongly argued to describe Paul's experience _before_ conversion**, living under the law, not the normal, Spirit-filled life of a believer. This was the understanding of the early church for centuries until Augustine. Romans 6 and 8 are presented as showing the believer's death to sin and victory over sin through the Holy Spirit, contradicting the idea that Romans 7 describes typical Christian life. Using Romans 7 to justify ongoing "wicked lives" is called a **"disastrous"** and "heartbreaking" misuse of scripture.
     
-    - **Romans 8 (Golden Chain/Separation):** The "golden chain" (foreknew, predestined, called, justified, glorified) is interpreted as showing God's saving process, but not a guarantee that everyone who experiences one step will inevitably reach glorification. The film cite John Wesley's view that Paul is not affirming the same number are in each category. They point out that **"many are called, but few are chosen"**, and that those justified must **"live by faith"** and not "draw back" (Hebrews 10), indicating conditions for continuing in the chain. The list of things that cannot separate believers from God's love (tribulation, persecution, etc.) are identified as **external circumstances**, not the believer's own sin or choice to turn away, which _can_ cause separation.
+    - **Romans 8 (Golden Chain/Separation):** The "golden chain" (foreknew, predestined, called, justified, glorified) is interpreted as showing God's saving process, but not a guarantee that everyone who experiences one step will inevitably reach glorification. The film cite John Wesley's view that Paul is not affirming the same number are in each category. They point out that **"many are called, but few are chosen"**, and that those justified must **"live by faith"** and not "draw back" Hebrews 10, indicating conditions for continuing in the chain. The list of things that cannot separate believers from God's love (tribulation, persecution, etc.) are identified as **external circumstances**, not the believer's own sin or choice to turn away, which _can_ cause separation.
     
 4. **Practical Arguments: Negative Consequences of Believing OSAS**
     
@@ -337,7 +337,7 @@ Key points leading to this conclusion include:
 
 - **Interpretation of Warning Passages:** The film heavily rely on specific biblical passages interpreted as explicit warnings to genuine believers about the possibility of losing salvation. These include:
     
-    - Paul's warning in 1 Corinthians 9:24-27 that he disciplines his body lest he be disqualified (adokimos), linking it to the example of Israel perishing in the wilderness (1 Corinthians 10).
+    - Paul's warning in 1 Corinthians 9:24-27 that he disciplines his body lest he be disqualified (adokimos), linking it to the example of Israel perishing in the wilderness 1 Corinthians 10.
     
     - Paul's declaration in Romans 11 that believers are grafted into the olive tree and will be cut off if they do not continue in God's kindness. The use of "if" indicates conditionality.
     
@@ -347,7 +347,7 @@ Key points leading to this conclusion include:
     
     - James 5:19-20, stating that if any brethren (genuine believers) turn from the truth and are brought back, the one who brings them back saves a soul from death.
     
-    - Jesus' teachings emphasizing the need to endure to the end to be saved (Matthew 24:13, 10:22) and the warning that denying Him before men will lead to Him denying them before the Father.
+    - Jesus' teachings emphasizing the need to endure to the end to be saved Matthew 24:13, Matthew 10:22 and the warning that denying Him before men will lead to Him denying them before the Father.
     
     - The promise in Revelation 3:5 not to erase the name of the overcomer from the book of life, implying the possibility that names can be erased if one does not overcome.
 
@@ -367,5 +367,3 @@ Therefore, the conclusion drawn from the various perspectives presented in the f
 Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
-- 
-- 
