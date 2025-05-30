@@ -325,41 +325,36 @@ Based on the information presented in the film, the overwhelming conclusion draw
 
 Instead, the film argues that the Bible consistently warns believers about the possibility of falling away from faith (apostasy) and teaches that continued faithfulness and perseverance are necessary for final salvation.
 
-Key points leading to this conclusion include:
+True faith produces good works, indicating that genuine salvation results in a transformed life. The Sermon on the Mount serves as essential teaching for discipleship, and living a holy life is achievable through the Holy Spirit. Repentance entails a change of mind and heart. The necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith.
 
-- **Biblical Contradiction:** The doctrine of once saved, always saved is stated to fly in the face of the constant teaching of the Bible from Genesis to Revelation. There are said to be over 80 passages in the New Testament that warn Christians not to lose what they have in Christ and many warnings about the possibility of apostasy.
+The parable of the wheat and tares is given in **Matthew 13:24-30**:
 
-- **Early Church History:** Absolutely no one in the early church before Augustine believed in once saved, always saved. The patristic fathers believed there was a possibility of turning from Christ, holding a position similar to modern Arminians on apostasy. The first generation of Christians, personally discipled by the apostles, knew only faithfulness over the long haul. The early church fathers warned against the doctrine, associating it with Gnostic heretics who believed they were inherently saved and could not be lost, leading some to practice forbidden deeds. Figures like Cyprian and Justin Martyr emphasised the necessity of preserving the faith received.
+> [!bible]+ [Matthew 13:24-30 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:24-30&version=kjv)
+> 24. Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:
+> 25. But while men slept, his enemy came and sowed tares among the wheat, and went his way.
+> 26. But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
+> 27. So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?
+> 28. He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?
+> 29. But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.
+> 30. Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
 
-- **Augustine and Calvin:** Augustine in the early 5th century is identified as laying the foundation for the modern doctrine, evolving from earlier views and potentially influenced by his Manichean Gnostic past. While Luther initially opposed OSAS, he believed the elect had the gift of perseverance, though certainty wasn't possible until death. John Calvin is presented as the one who developed OSAS as known today, teaching that all Christians have the gift of perseverance and will be inevitably saved, thus diverging from earlier tradition and other reformers.
+The parable of the wheat and tares is explained in **Matthew 13:36-43**:
 
-- **Current Christian Views:** The majority of Christians in America and elsewhere do not affirm the idea of eternal security, including major denominations and movements like Methodist, Restoration Movement, Pentecostal, and Anabaptist traditions.
+> [!bible]+ [Matthew 13:36-43 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:36-43&version=kjv)
+> 36. Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
+> 37. He answered and said unto them, He that soweth the good seed is the Son of man;
+> 38. The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;
+> 39. The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.
+> 40. As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.
+> 41. The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
+> 42. And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.
+> 43. Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
 
-- **Interpretation of Warning Passages:** The film heavily relies on specific biblical passages interpreted as explicit warnings to genuine believers about the possibility of losing salvation. These include:
-    
-    - Paul's warning in 1 Corinthians 9:24-27 that he disciplines his body lest he be disqualified (adokimos), linking it to the example of Israel perishing in the wilderness 1 Corinthians 10.
-    
-    - Paul's declaration in Romans 11 that believers are grafted into the olive tree and will be cut off if they do not continue in God's kindness. The use of "if" indicates conditionality.
-    
-    - Hebrews 6 and Hebrews 10, which are seen as stating bluntly that salvation can be lost. Hebrews 6 describes those who have been enlightened, tasted the heavenly gift, and partaken of the Holy Spirit, yet fall away, making restoration difficult. Hebrews 10 warns of no remaining sacrifice for those who go on sinning deliberately after receiving the knowledge of the truth, profaning the blood by which they were sanctified. These warnings are directed at real Christians and rule out the interpretation of merely losing rewards.
-    
-    - 2 Peter 2, describing those who have escaped world pollutions through the knowledge of Christ but turn away; their latter end is worse than the beginning, illustrating a former believer's lapsed state.
-    
-    - James 5:19-20, stating that if any brethren (genuine believers) turn from the truth and are brought back, the one who brings them back saves a soul from death.
-    
-    - Jesus' teachings emphasizing the need to endure to the end to be saved Matthew 24:13, Matthew 10:22 and the warning that denying Him before men will lead to Him denying them before the Father.
-    
-    - The promise in Revelation 3:5 not to erase the name of the overcomer from the book of life, implying the possibility that names can be erased if one does not overcome.
+The Parable of the Wheat and Tares Matthew 13:24-30, Matthew 36-43 affirms the eternal security of born-again Christians, demonstrating that genuine believers cannot lose their salvation, even amid struggles with sin. Christ’s interpretation reveals that the "wheat" represents true children of the kingdom, regenerated by God’s incorruptible seed 1 Peter 1:23, while the "tares" symbolize false professors, sown by Satan and destined for judgment. The parable underscores that the fundamental nature of wheat (true believers) and tares (counterfeits) remains unchanged; wheat cannot become tares, nor tares wheat.
 
-- **Faithfulness and Obedience:** True faith is described as a living faith that results in good works. While works do not save, salvation that does not issue in a transformed life has missed the point. The Sermon on the Mount is presented as essential teaching for discipleship and holiness, not an impossible standard. Living a holy life is possible through the power of the Holy Spirit. Repentance involves a change of mind and heart leading to a change of lifestyle.
+True conversion produces an immutable identity in Christ, secured by God’s sovereign power John 10:28-29. Though believers may falter, the Holy Spirit ensures their perseverance, progressively sanctifying them and prompting repentance Philippians 2:12-13. Those who abandon the faith, persisting in unrepentant sin, reveal they were never truly regenerated 1 John 2:19. The parable emphasizes God’s patience in delaying judgment until the harvest (the end of the age), when angels will separate the two groups. The righteous will be glorified, shining "as the sun" in God’s kingdom, while the unrepentant face eternal fire Matthew 13:43, 50.
 
-- **Free Will and Responsibility:** God has given humanity free will, and missing heaven is ultimately the consequence of one's own choices and failure to heed warnings.
-
-- **The Role of Sin:** Sin is taken seriously; it can harden the heart and lead to falling away. Forgiveness of future sins is not automatic but requires repentance.
-
-- **The Fear of God:** Believing in conditional security is said to help maintain a sensitive conscience and the fear of God, which plays a role in salvation and sanctification.
-
-Therefore, the conclusion drawn from the various perspectives presented in the film is that **salvation is conditional upon ongoing faith and faithfulness, and genuine believers face the real possibility of falling away from Christ if they deliberately and persistently reject Him or live in unrepentant sin.** This view emphasises the necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith.
+This teaching aligns with broader Scripture: Romans 8:28-39 confirms no force—including human failure—can sever believers from Christ’s love, and Ephesians 1:13-14 highlights the Spirit’s sealing as divine assurance. Thus, the parable assures that genuine believers, though imperfect, are eternally secure, while apostates expose their false nature, having never possessed the incorruptible seed of salvation.
 
 <script defer src="https://cdn.bibliatodo.com/assets/js/verselinker.js" lang="en" version="KJV"></script>
 
