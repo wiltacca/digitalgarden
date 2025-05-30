@@ -362,3 +362,4 @@ This teaching aligns with broader Scripture: Romans 8:28-39 confirms no force—
 Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
+
