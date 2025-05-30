@@ -158,7 +158,7 @@ Here are the main arguments presented against OSAS:
     
 2. **Biblical Arguments: Warnings Against Falling Away and the Necessity of Perseverance**
     
-    - The film argues that OSAS **"flies in the face of the constant teaching of the Bible from Genesis 1 to Revelations 22"**. There are said to be **over 80 passages in the New Testament that warn Christians not to lose what they've got**.
+    - The film argues that OSAS **"flies in the face of the constant teaching of the Bible from Genesis to Revelations"**. There are said to be **over 80 passages in the New Testament that warn Christians not to lose what they have gotten**.
     
     - **The Apostle Paul's Example:** Paul's words in 1 Corinthians 9:24-27 are cited as a clear passage where he expresses concern about being **"disqualified"** after preaching to others. The same Greek word (adokimos) is used in 2 Corinthians 13:5, which Paul uses to warn believers to examine themselves to see if they are in the faith, implying the possibility of not being in the faith (being without Christ). The film interprets this as Paul acknowledging the possibility that _he_, despite his service, could be "put out of this race".
     
@@ -327,7 +327,7 @@ Instead, the film argues that the Bible consistently warns believers about the p
 
 Key points leading to this conclusion include:
 
-- **Biblical Contradiction:** The doctrine of once saved, always saved is stated to fly in the face of the constant teaching of the Bible from Genesis 1 to Revelation 22. There are said to be over 80 passages in the New Testament that warn Christians not to lose what they have in Christ and many warnings about the possibility of apostasy.
+- **Biblical Contradiction:** The doctrine of once saved, always saved is stated to fly in the face of the constant teaching of the Bible from Genesis to Revelation. There are said to be over 80 passages in the New Testament that warn Christians not to lose what they have in Christ and many warnings about the possibility of apostasy.
 
 - **Early Church History:** Absolutely no one in the early church before Augustine believed in once saved, always saved. The patristic fathers believed there was a possibility of turning from Christ, holding a position similar to modern Arminians on apostasy. The first generation of Christians, personally discipled by the apostles, knew only faithfulness over the long haul. The early church fathers warned against the doctrine, associating it with Gnostic heretics who believed they were inherently saved and could not be lost, leading some to practice forbidden deeds. Figures like Cyprian and Justin Martyr emphasised the necessity of preserving the faith received.
 
