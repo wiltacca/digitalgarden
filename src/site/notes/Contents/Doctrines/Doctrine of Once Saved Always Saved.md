@@ -323,7 +323,7 @@ In summary, the film argues that Conditional Security, or the belief in the poss
 
 Based on the information presented in the film, the overwhelming conclusion drawn from the various views discussed is that the doctrine of OSAS, particularly as understood today to mean unconditional eternal security regardless of behaviour, is not supported by the Bible from Genesis to Revelation or by the teachings of the early church fathers.
 
-Instead, the film argues that the Bible consistently warns believers about the possibility of falling away from faith (apostasy) and teaches that continued faithfulness and perseverance are necessary for final salvation.
+instead, the film argues that the Bible consistently warns believers about the possibility of falling away from faith (apostasy) and teaches that continued faithfulness and perseverance are necessary for final salvation.
 
 True faith produces good works, indicating that genuine salvation results in a transformed life. The Sermon on the Mount serves as essential teaching for discipleship, and living a holy life is achievable through the Holy Spirit. Repentance entails a change of mind and heart. The necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith.
 
