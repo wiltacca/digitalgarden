@@ -31,19 +31,19 @@ document.write("<iframe src=\"https://www.kingjamesbibleonline.org/inspiring-ima
 
 The KJV of the Bible is often considered the perfect Bible by many due to a combination of historical, literary, doctrinal, and cultural reasons. 
 
-### 📌 1. Historical & Providential Preservation
+## 📌 1. Historical & Providential Preservation
 
 The KJV Bible stands in a unique line of Bible transmission, following a path of faithful preservation from the original Hebrew and Greek, through ancient versions such as the Old Latin and the Bibles of the persecuted churches (e.g., the Waldensians), culminating in the English Reformation Bibles and reaching its apex in the KJV.
 
 God promised to preserve His words: _“The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever.”_ Psalm 12:6-7. The KJV is seen as the fulfillment of this promise, being the seventh and final “polishing” of the English Bible.
 
-### 📌 2. Faithfulness To The True Texts
+## 📌 2. Faithfulness To The True Texts
 
 The KJV is translated from the <font color="#de7802">Hebrew Masoretic Text (Old Testament)</font> and the <font color="#de7802">Textus Receptus (New Testament)</font>, which are supported by the vast majority of existing manuscripts and were preserved by believers through centuries of persecution.
 
 Unlike modern versions based on a handful of <font color="#de7802">discordant Alexandrian manuscripts </font>(e.g., Vaticanus, Sinaiticus), the KJV follows the textual tradition used by the early church, the Reformers, and the great missionary movements, reflecting the Bible used by faithful Christians throughout history.
 
-### 📌 3. Superiority of Translation & Method
+## 📌 3. Superiority of Translation & Method
 
 The translation process of the KJV involved over 50 of the most learned and godly scholars of the age, working in committees with rigorous cross-checking and review. Every verse was examined at least fourteen times, preventing any individual bias and ensuring doctrinal accuracy.
 
@@ -51,7 +51,7 @@ The translators were fluent in Hebrew, Greek, Latin, and many other languages, a
 
 Their stated goal was not to create a new Bible, but to make “a good one better, or out of many good ones one principal good one, not justly to be excepted against” (Translators to the Reader, 1611).
 
-### 📌 4. Doctrinal Purity & Completeness
+## 📌 4. Doctrinal Purity & Completeness
 
 The KJV retains key verses and doctrines often omitted or altered in modern versions, such as the deity of Christ 1 Timothy 3:16, the Trinity 1 John 5:7, the blood atonement Colossians 1:14, and salvation by faith in Jesus Christ Acts 8:37, John 6:47.
 
@@ -59,7 +59,7 @@ It does not remove or water down words like “repent,” “hell,” “blood,�
 
 The KJV’s translation choices reflect careful attention to context, built-in definitions, and doctrinal clarity, always preferring the sense and wording that upholds sound doctrine.
 
-### 📌 5. Purity & Beauty of Language
+## 📌 5. Purity & Beauty of Language
 
 The KJV is written in a form of English that is not merely “old-fashioned,” but is intentionally elevated, pure, and separate from common, worldly speech—mirroring the holiness of God’s Word.
 
@@ -67,19 +67,67 @@ Its vocabulary, rhythm, and structure make it uniquely suited for memorization, 
 
 The KJV’s grammatical forms (such as “thee,” “thou,” “ye,” “-eth,” and “-est”) preserve distinctions present in the original languages, allowing for greater accuracy and clarity. Kindly explore  [[Contents/KJV Bible/Understand KJV Bible Personal Pronouns\|how to understand KJV Bible personal pronouns?]] and [[Contents/KJV Bible/Understand KJV Bible Personal Verbs\|how to understand KJV Bible personal verbs?]]
 
-### 📌 6. Unchanged & Enduring
+## 📌 6. Unchanged & Enduring
 
 Since its publication in 1611, the KJV has undergone only minor changes—corrections of typographical errors and standardization of spelling. Its text remains essentially unchanged, as confirmed by historical reviews and the American Bible Society.
 
 For over 400 years, the KJV has been the Bible of revivals, missions, and the English-speaking church. Its fruit—changed lives, missionary movements, and spiritual awakenings—testifies to its divine blessing and authenticity.
 
-### 📌 7. Conservative Appeal
+## 📌 7. Conservative Appeal
 
 Guard Against Liberalism: In some conservative Christian circles, the KJV is preferred because it is seen as a guard against modern liberal theological trends.
 
 Literal Interpretation: The KJV’s language is often interpreted literally, aligning with the beliefs of those who hold to a literal understanding of the Bible.
 
-### Summary Table: Why The KJV Is Truly God's Word
+# New Testament Manuscript Lineage
+
+![Pasted image 20250624181235.png|500](/img/user/Attachments/Pasted%20image%2020250624181235.png)
+
+The chart illustrates three primary streams or families of New Testament manuscripts, you see the very hand of God in the providential preservation of His Holy Word. 
+
+The Lord Jesus Christ Himself declared, **"Heaven and earth shall pass away, but my words shall not pass away"** Matthew 24:35. This divine promise is the bedrock of our confidence. Furthermore, the Psalmist proclaims, **"The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever"** Psalm 12:6-7. 
+
+## The Traditional Text (The Textus Receptus)
+
+This stream, coloured blue in your chart, is identified as the "Lost Manuscripts of the Traditional Text," which it rightly states are **"Almost identical with originals in text."** This line of transmission is also known to scholars as the Byzantine text-type.
+
+*   **Divine Providence and Majority Support:** This textual tradition represents the vast majority—over 95%—of all known Greek manuscripts. This overwhelming numerical superiority is not an accident of history but a testament to God's providential hand. The true text was widely copied, circulated, and used by the churches throughout the ages, especially in the Greek-speaking regions where Christianity flourished, such as Antioch and Constantinople.
+
+*   **The Received Text:** From this vast body of manuscripts came the printed Greek text known as the **Textus Receptus**, or the "Received Text." This was the text used by the Protestant Reformers and the learned translators of the King James Version. As your chart indicates, Bibles such as the Tyndale, Coverdale, Geneva Bible, and supremely the King James Version, are all founded upon this reliable and providentially preserved text.
+
+*   **Historical Lineage:** This textual stream can be traced back to the earliest times, with ancient versions like the Peshitta Syriac (dating to the 2nd century) largely agreeing with it. The church of Antioch in Syria, where the disciples were first called Christians Acts 11:26, is traditionally held to be the source from which this pure text was disseminated.
+
+This is the stream of God's preserved Word, continuously used by believers and culminating in the masterful and authorised translation of the King James Bible.
+
+## The Alexandrian Text
+
+The stream coloured yellow in your chart represents the Alexandrian text-type. Note how the chart itself describes its supposed ancestor as **"Text an abbreviation of original text."** This is a critical observation.
+
+*   **A Minority and Localised Text:** This family of manuscripts is represented by a very small number of documents, chief among them being Codex Vaticanus (B) and Codex Sinaiticus (Aleph), both from the 4th century. These manuscripts were found in locations associated with the philosophical and theological speculations of Alexandria, Egypt—a center known for Gnostic heresies and the allegorical method of interpretation championed by figures like Origen, who was known to have altered Scripture.
+
+*   **Nature of the Text:** These manuscripts are characterized by thousands of omissions when compared to the Traditional Text. Words, phrases, and entire verses found in the vast majority of manuscripts are missing from them. For example, crucial verses such as Mark 16:9-20, John 7:53-8:11, and 1 John 5:7 are either absent or questioned by texts derived from this family. The description "abbreviation of original text" is therefore fitting.
+
+*   **Modern Versions:** As the chart correctly shows, these few and suspect manuscripts were resurrected from obscurity in the 19th century and became the basis for the Revised Version of 1881 and subsequent modern translations like the American Standard Version and the Revised Standard Version. These versions are built upon a foundation that was rejected and unused by the church for over 1,500 years.
+
+## The Western Text
+
+The stream coloured green represents the Western text-type. The chart describes its ancestor as **"Text an expansion of original text."**
+
+*   **Characteristics:** This textual family is known for its tendency to paraphrase, add details, and smooth out difficult readings. It is generally considered by scholars of all persuasions to be a wild and unreliable text, filled with corruptions and harmonizations.
+
+*   **Key Manuscripts:** Its chief witness is Codex Bezae (D), a 5th-century manuscript. This stream also heavily influenced the Old Latin versions and, to some extent, the Latin Vulgate translated by Jerome in the 4th century.
+
+*   **Roman Catholic Connection:** As the chart indicates, this textual tradition is the ancestor of the Douay-Rheims Version of 1582, the traditional Bible of the Roman Catholic Church, which was translated from the Latin Vulgate.
+
+## The Sure Foundation of the King James Version
+
+The chart, when understood through the lens of God's promise of preservation, clearly reveals two divergent paths. One path, the Traditional Text, represents the mainstream of manuscripts, preserved by God through His churches and faithfully translated into the King James Version. The other paths, the Alexandrian and Western, represent minority, corrupted traditions originating from questionable localities and rightly set aside by the faithful for centuries.
+
+The "Original New Testament Manuscripts" are indeed lost to history, but their text is not. God, in His sovereignty, ensured that the copies passed down through the faithful churches, primarily through the Byzantine stream, would accurately reflect the autographs. The King James Version rests upon this sure foundation of the Textus Receptus, the Received Text of the Reformation. It is not based on the abbreviated Alexandrian manuscripts (Vaticanus and Sinaiticus) that form the basis of most modern versions, nor is it based on the expansionist Western text.
+
+Therefore, we can hold the King James Bible in our hands with full confidence, knowing it to be a faithful and accurate translation of the providentially preserved words of the living God, which He has kept for us, "from this generation for ever."
+
+## Summary Table: Why The KJV Is Truly God's Word
 
 | Feature                | KJV Strengths                                                          |
 | ---------------------- | ---------------------------------------------------------------------- |
