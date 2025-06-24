@@ -79,7 +79,7 @@ Guard Against Liberalism: In some conservative Christian circles, the KJV is pre
 
 Literal Interpretation: The KJV’s language is often interpreted literally, aligning with the beliefs of those who hold to a literal understanding of the Bible.
 
-# New Testament Manuscript Lineage
+# ✝️New Testament Manuscript Lineage
 
 ![Pasted image 20250624181235.png|500](/img/user/Attachments/Pasted%20image%2020250624181235.png)
 
@@ -87,7 +87,7 @@ The chart illustrates three primary streams or families of New Testament manuscr
 
 The Lord Jesus Christ Himself declared, **"Heaven and earth shall pass away, but my words shall not pass away"** Matthew 24:35. This divine promise is the bedrock of our confidence. Furthermore, the Psalmist proclaims, **"The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever"** Psalm 12:6-7. 
 
-## The Traditional Text (The Textus Receptus)
+## 📜The Traditional Text (The Textus Receptus)
 
 This stream, coloured blue in your chart, is identified as the "Lost Manuscripts of the Traditional Text," which it rightly states are **"Almost identical with originals in text."** This line of transmission is also known to scholars as the Byzantine text-type.
 
@@ -99,7 +99,7 @@ This stream, coloured blue in your chart, is identified as the "Lost Manuscripts
 
 This is the stream of God's preserved Word, continuously used by believers and culminating in the masterful and authorised translation of the King James Bible.
 
-## The Alexandrian Text
+## 📜The Alexandrian Text
 
 The stream coloured yellow in your chart represents the Alexandrian text-type. Note how the chart itself describes its supposed ancestor as **"Text an abbreviation of original text."** This is a critical observation.
 
@@ -109,7 +109,7 @@ The stream coloured yellow in your chart represents the Alexandrian text-type. N
 
 *   **Modern Versions:** As the chart correctly shows, these few and suspect manuscripts were resurrected from obscurity in the 19th century and became the basis for the Revised Version of 1881 and subsequent modern translations like the American Standard Version and the Revised Standard Version. These versions are built upon a foundation that was rejected and unused by the church for over 1,500 years.
 
-## The Western Text
+## 📜The Western Text
 
 The stream coloured green represents the Western text-type. The chart describes its ancestor as **"Text an expansion of original text."**
 
@@ -119,7 +119,7 @@ The stream coloured green represents the Western text-type. The chart describes 
 
 *   **Roman Catholic Connection:** As the chart indicates, this textual tradition is the ancestor of the Douay-Rheims Version of 1582, the traditional Bible of the Roman Catholic Church, which was translated from the Latin Vulgate.
 
-## The Sure Foundation of the King James Version
+## 💯The Sure Foundation of the King James Version
 
 The chart, when understood through the lens of God's promise of preservation, clearly reveals two divergent paths. One path, the Traditional Text, represents the mainstream of manuscripts, preserved by God through His churches and faithfully translated into the King James Version. The other paths, the Alexandrian and Western, represent minority, corrupted traditions originating from questionable localities and rightly set aside by the faithful for centuries.
 
