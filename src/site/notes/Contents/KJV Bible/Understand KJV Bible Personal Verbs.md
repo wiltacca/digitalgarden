@@ -151,7 +151,7 @@ Understanding these endings allows for a more precise reading of the KJV Bible, 
 
 This precision reflects the translators’ commitment to faithfully rendering the original languages into English, maintaining both accuracy and reverence in the text.
 
-<script defer src="https://cdn.bibliatodo.com/assets/js/verselinker.js" lang="en" version="KJV"></script>
+<script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
 Also see:

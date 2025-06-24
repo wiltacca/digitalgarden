@@ -36,7 +36,7 @@ The King James Version translators deliberately preserved the **thou/you** disti
 
 The Elizabethan pronoun system thus represents a linguistic bridge between medieval English complexity and modern English simplification, preserving social nuances and grammatical distinctions that provided speakers with precise tools for navigating the intricate social hierarchies of their time.
 
-<script defer src="https://cdn.bibliatodo.com/assets/js/verselinker.js" lang="en" version="KJV"></script>
+<script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
 Also see:

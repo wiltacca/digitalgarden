@@ -54,7 +54,7 @@ Wesley’s eschatology also informs his social ethics. In *The New Creation*, he
 
 John Wesley’s Three Surprises of Heaven offer a transformative lens for contemporary Christianity. By dismantling sectarian pride, warning against spiritual presumption, and affirming grace-driven assurance, Wesley invites believers to reorient their faith around Christ’s inclusive love. In an era of deepening denominational divides, his vision calls the church to unity in essentials, liberty in non-essentials, and charity in all things—a motto often misattributed to him but deeply resonant with his theology. As Wesley himself proclaimed, the mark of a true Christian is not institutional loyalty but a heart “strangely warmed” by the love of God, working tirelessly to reflect that love in a broken world.
 
-<script defer src="https://cdn.bibliatodo.com/assets/js/verselinker.js" lang="en" version="KJV"></script>
+<script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
 Also see:

@@ -356,7 +356,7 @@ True conversion produces an immutable identity in Christ, secured by God’s sov
 
 This teaching aligns with broader Scripture: Romans 8:28-39 confirms no force—including human failure—can sever believers from Christ’s love, and Ephesians 1:13-14 highlights the Spirit’s sealing as divine assurance. Thus, the parable assures that genuine believers, though imperfect, are eternally secure, while apostates expose their false nature, having never possessed the incorruptible seed of salvation.
 
-<script defer src="https://cdn.bibliatodo.com/assets/js/verselinker.js" lang="en" version="KJV"></script>
+<script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
 Also see:

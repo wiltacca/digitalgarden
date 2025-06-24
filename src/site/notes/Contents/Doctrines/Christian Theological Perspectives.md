@@ -169,7 +169,7 @@ The examination of these diverse theological perspectives reveals the complexity
 
 The variety of perspectives within evangelical Christianity suggests that faithful biblical interpretation can yield different conclusions on secondary doctrinal matters while maintaining unity on essential gospel truths. These theological discussions continue to shape Christian communities, influence pastoral practice, and inform individual believers' understanding of their faith. The ongoing dialogue between these various viewpoints contributes to the broader theological conversation that has characterized Christianity throughout its history, ensuring that each generation grapples seriously with the implications of biblical revelation for contemporary life and practice.
 
-<script defer src="https://cdn.bibliatodo.com/assets/js/verselinker.js" lang="en" version="KJV"></script>
+<script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
 Also see:
