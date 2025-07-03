@@ -83,17 +83,17 @@ Literal Interpretation: The KJV’s language is often interpreted literally, ali
 
 ![Pasted image 20250624181235.png|500](/img/user/Attachments/Pasted%20image%2020250624181235.png)
 
-The chart illustrates three primary streams or families of New Testament manuscripts, you see the very hand of God in the providential preservation of His Holy Word. 
+The chart illustrates three primary streams or families of New Testament manuscripts, you can see the very hand of God in the providential preservation of His Holy Word. 
 
 The Lord Jesus Christ Himself declared, **"Heaven and earth shall pass away, but my words shall not pass away"** Matthew 24:35. This divine promise is the bedrock of our confidence. Furthermore, the Psalmist proclaims, **"The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever"** Psalm 12:6-7. 
 
 ## 📜The Traditional Text (The Textus Receptus)
 
-This stream, coloured blue in your chart, is identified as the "Lost Manuscripts of the Traditional Text," which it rightly states are **"Almost identical with originals in text."** This line of transmission is also known to scholars as the Byzantine text-type.
+This stream, coloured blue in the chart, is identified as the "Lost Manuscripts of the Traditional Text," which it rightly states are **"Almost identical with originals in text."** This line of transmission is also known to scholars as the Byzantine text-type.
 
-*   **Divine Providence and Majority Support:** This textual tradition represents the vast majority—over 95%—of all known Greek manuscripts. This overwhelming numerical superiority is not an accident of history but a testament to God's providential hand. The true text was widely copied, circulated, and used by the churches throughout the ages, especially in the Greek-speaking regions where Christianity flourished, such as Antioch and Constantinople.
+*   **Divine Providence and Majority Support:** This textual tradition represents the vast majority (over 95%) of all known Greek manuscripts. This overwhelming numerical superiority is not an accident of history but a testament to God's providential hand. The true text was widely copied, circulated, and used by the churches throughout the ages, especially in the Greek-speaking regions where Christianity flourished, such as Antioch and Constantinople.
 
-*   **The Received Text:** From this vast body of manuscripts came the printed Greek text known as the **Textus Receptus**, or the "Received Text." This was the text used by the Protestant Reformers and the learned translators of the King James Version. As your chart indicates, Bibles such as the Tyndale, Coverdale, Geneva Bible, and supremely the King James Version, are all founded upon this reliable and providentially preserved text.
+*   **The Received Text:** From this vast body of manuscripts came the printed Greek text known as the **Textus Receptus**, or the "Received Text." This was the text used by the Protestant Reformers and the learned translators of the KJV. As the chart indicates, Bibles such as the Tyndale, Coverdale, Geneva Bible, and supremely the KJV, are all founded upon this reliable and providentially preserved text.
 
 *   **Historical Lineage:** This textual stream can be traced back to the earliest times, with ancient versions like the Peshitta Syriac (dating to the 2nd century) largely agreeing with it. The church of Antioch in Syria, where the disciples were first called Christians Acts 11:26, is traditionally held to be the source from which this pure text was disseminated.
 
@@ -101,7 +101,7 @@ This is the stream of God's preserved Word, continuously used by believers and c
 
 ## 📜The Alexandrian Text
 
-The stream coloured yellow in your chart represents the Alexandrian text-type. Note how the chart itself describes its supposed ancestor as **"Text an abbreviation of original text."** This is a critical observation.
+The stream coloured yellow in the chart represents the Alexandrian text-type. Note how the chart itself describes its supposed ancestor as **"Text an abbreviation of original text."** This is a critical observation.
 
 *   **A Minority and Localised Text:** This family of manuscripts is represented by a very small number of documents, chief among them being Codex Vaticanus (B) and Codex Sinaiticus (Aleph), both from the 4th century. These manuscripts were found in locations associated with the philosophical and theological speculations of Alexandria, Egypt—a center known for Gnostic heresies and the allegorical method of interpretation championed by figures like Origen, who was known to have altered Scripture.
 
@@ -121,9 +121,9 @@ The stream coloured green represents the Western text-type. The chart describes 
 
 ## 💯The Sure Foundation of the King James Version
 
-The chart, when understood through the lens of God's promise of preservation, clearly reveals two divergent paths. One path, the Traditional Text, represents the mainstream of manuscripts, preserved by God through His churches and faithfully translated into the King James Version. The other paths, the Alexandrian and Western, represent minority, corrupted traditions originating from questionable localities and rightly set aside by the faithful for centuries.
+The chart, when understood through the lens of God's promise of preservation, clearly reveals two divergent paths. One path, the Traditional Text, represents the mainstream of manuscripts, preserved by God through His churches and faithfully translated into the KJV. The other paths, the Alexandrian and Western, represent minority, corrupted traditions originating from questionable localities and rightly set aside by the faithful for centuries.
 
-The "Original New Testament Manuscripts" are indeed lost to history, but their text is not. God, in His sovereignty, ensured that the copies passed down through the faithful churches, primarily through the Byzantine stream, would accurately reflect the autographs. The King James Version rests upon this sure foundation of the Textus Receptus, the Received Text of the Reformation. It is not based on the abbreviated Alexandrian manuscripts (Vaticanus and Sinaiticus) that form the basis of most modern versions, nor is it based on the expansionist Western text.
+The "Original New Testament Manuscripts" are indeed lost to history, but their text is not. God, in His sovereignty, ensured that the copies passed down through the faithful churches, primarily through the Byzantine stream, would accurately reflect the autographs. The KJV rests upon this sure foundation of the Textus Receptus, the Received Text of the Reformation. It is not based on the abbreviated Alexandrian manuscripts (Vaticanus and Sinaiticus) that form the basis of most modern versions, nor is it based on the expansionist Western text.
 
 Therefore, we can hold the King James Bible in our hands with full confidence, knowing it to be a faithful and accurate translation of the providentially preserved words of the living God, which He has kept for us, "from this generation for ever."
 
