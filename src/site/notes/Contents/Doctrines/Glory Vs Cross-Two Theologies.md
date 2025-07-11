@@ -135,6 +135,7 @@ The theology of the cross thus provides both a **hermeneutical key** for underst
 
 ---
 Also see:
-- 
-- 
-- 
+- [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
+- [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
+- [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
+- [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]

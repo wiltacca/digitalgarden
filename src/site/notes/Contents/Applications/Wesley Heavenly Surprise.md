@@ -59,5 +59,6 @@ John Wesley’s Three Surprises of Heaven offer a transformative lens for contem
 ---
 Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
-- 
-- 
+- [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
+- [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
+- [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]
