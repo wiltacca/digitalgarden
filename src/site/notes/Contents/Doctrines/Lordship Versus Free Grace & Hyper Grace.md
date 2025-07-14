@@ -279,7 +279,7 @@ Hyper-Grace teaches the most absolute form of assurance. It is based on the unch
 
 The conflict is therefore between an assurance that requires introspection (Lordship) and an assurance that is based solely on proposition (Free Grace and Hyper-Grace).
 
-## Part V: Accusations of Promoting A License To Sin
+## Part V: Promoting A License To Sin
 
 While no major theological system explicitly endorses a "license to sin," some are more frequently accused of it than others, particularly those that emphasize grace to a high degree.
 
