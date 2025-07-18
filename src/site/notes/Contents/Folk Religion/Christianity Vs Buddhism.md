@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/folk-religion/christianity-vs-buddhism/","noteIcon":"","created":"2025-07-18T17:46:54.074+08:00"}
 ---
 
-![Pasted image 20240721000926.png|500](/img/user/Attachments/Pasted%20image%2020240721000926.png)
-
+![Pasted image 20250718180138.png|500](/img/user/Attachments/Pasted%20image%2020250718180138.png)
 # Christianity Versus Buddhism In Salvation
 
 ## **The Fundamental Distinction: Divine Grace Versus Self-Effort**
