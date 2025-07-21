@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/contents/kjv-bible/bible-books-and-abbreviations/","noteIcon":"","created":"2025-07-21T16:55:25.052+08:00"}
 ---
 
-# Bible With Their English & Chinese Books & Abbreviations (聖經各卷書中﹑英文名稱與縮寫)
+# Bible With Their English & Chinese Books & Abbreviations 
+# (聖經各卷書中﹑英文名稱與縮寫)
 
 ## Old Testament (舊約)
 
