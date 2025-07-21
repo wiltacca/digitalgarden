@@ -4,8 +4,6 @@
 
 # A Theological &  Biblical Analysis of The Four Agreements
 
-![Pasted image 20250705032801.png|500](/img/user/Attachments/Pasted%20image%2020250705032801.png)
-
 ## Introduction: Two Covenants, Two Paths To Freedom
 
 Don Miguel Ruiz's _The Four Agreements: A Practical Guide to Personal Freedom_ has achieved remarkable cultural penetration since its publication in 1997. Endorsed by prominent media figures such as Oprah Winfrey and Deepak Chopra, the book has become a perennial bestseller, promising to transform lives through a "powerful code of conduct". This code, as Ruiz explicitly states, is "based on ancient Toltec wisdom," a spiritual tradition of the indigenous peoples of Southern Mexico. Ruiz, identifying as a nagual (shaman) from the Eagle Knight lineage, presents these agreements as a path to "personal freedom, true happiness, and love" by revealing the source of self-limiting beliefs that create needless suffering.
@@ -137,7 +135,15 @@ In essence, _The Four Agreements_ proposes a gospel of self-reliance. It is a sy
 
 ### Table 1: Comparative Theological Frameworks: The Four Agreements Versus Biblical Christianity
 
-
+| Theological Category                | The Four Agreements (Toltec Wisdom)                                                                             | Biblical Christianity                                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Source of Authority**             | The Self; Personal "Agreements"                                                                                 | The Triune God and His Revealed Word (The Bible)                                                                  |
+| **Anthropology (View of Humanity)** | Naturally perfect, but corrupted by societal "domestication" and false beliefs.                                 | Created in God's image, but fallen in Adam; spiritually dead and enslaved to sin by nature.                       |
+| **Hamartiology (The Core Problem)** | "Sin" against oneself; living by external rules; self-limiting beliefs causing "needless suffering."            | Sin against a holy God; transgression of His law, resulting in guilt, separation, and eternal death.              |
+| **Soteriology (The Solution)**      | Self-liberation through personal discipline and adherence to the Four Agreements (Justification by Works).      | Salvation by God's grace through faith in the substitutionary atonement of Jesus Christ (Justification by Faith). |
+| **Telos (The Ultimate Goal)**       | Personal freedom, happiness, and the avoidance of suffering.                                                    | To glorify God and to enjoy Him forever.                                                                          |
+| **View of "The Word"**              | The individual's creative power to shape personal reality.                                                      | God's creative and redemptive power (The Logos, Jesus Christ); Scripture as divine revelation.                    |
+| **View of Community**               | A collection of separate individuals in their own "dreams"; potential sources of suffering to become immune to. | The Body of Christ; an interdependent covenant community called to mutual love, service, and accountability.      |
 
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
