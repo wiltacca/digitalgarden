@@ -3,17 +3,15 @@
 ---
 
 ![Pasted image 20250721162703.png](/img/user/Attachments/Pasted%20image%2020250721162703.png)
-
-
 # A Book Review of Unholy Alliance: The Dangers of Mixing Pop Psychology With Christian Truth
 
-**Secular psychological counseling theories and therapies have invaded the church way beyond what most Christians realize. And, since so many Christians continue to believe the myth that these counseling theories and therapies are scientific, they are not concerned. We have consistently demonstrated that these ideas are no more than the “wisdom of the world,” about which God warns (1 Corinthians 2) and “science falsely so-called” (1 Timothy 6:20). But, what if these theories and therapies were shown to be occult in nature? Would Christians be so accepting of them or so complacent about how they have compromised the Word of God?**
+**Secular psychological counseling theories and therapies have invaded the church way beyond what most Christians realize. And, since so many Christians continue to believe the myth that these counseling theories and therapies are scientific, they are not concerned. We have consistently demonstrated that these ideas are no more than the “wisdom of the world,” about which God warns 1 Corinthians 2 and “science falsely so-called” 1 Timothy 6:20. But, what if these theories and therapies were shown to be occult in nature? Would Christians be so accepting of them or so complacent about how they have compromised the Word of God?**
 
 **Lois Chan has written a book titled _Unholy Alliance: the dangers of mixing pop psychology with Christian Truth_. Chan is well aware and concerned “that one of the latest trends in the church is to integrate psychology with the Bible.” She translated our book _The End of “Christian Psychology”_ into Chinese and understands the seriousness of this problem. But, also being familiar with New Age teachings and having done research on the occult practice of channeling, Chan says in her Preface:**
 
 > I wanted to see the degree to which channeled teaching exists in both secular and Christian psychology. I discovered that most aspects of New Age channeled teachings can be found in secular psychology and over half of them are in Christian psychology (p. 7).
 
-**Chan describes channeling as “the act of receiving communication from the spirit worlds” and says, “As virtually all Christians understand, the Bible forbids us to communicate with the spirit world (Deuteronomy 18:10-2; 2 Chronicles 33:2-6; 2 Chronicles 6:14-16)” (p. 19). She therefore warns:**
+**Chan describes channeling as “the act of receiving communication from the spirit worlds” and says, “As virtually all Christians understand, the Bible forbids us to communicate with the spirit world Deuteronomy 18:10-2; 2 Chronicles 33:2-6; 2 Chronicles 6:14-16” (p. 19). She therefore warns:**
 
 > When we bring psychology into the church, we risk bringing in the New Age elements of psychology. If we bring in New Age psychology, we risk bringing in demonic (channeled) teachings. In that case, the integration of Bible and psychology will turn out to be the integration of biblical teachings and demonic teachings—an unholy alliance (p. 19).
 
