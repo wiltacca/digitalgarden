@@ -4,7 +4,8 @@
 
 ![Pasted image 20250720014748.png|380](/img/user/Attachments/Pasted%20image%2020250720014748.png)
 
-# The Ghost Festival of The Seventh Month - A Trick That Has Fooled People For Over Six Hundred Years (七月鬼节-唬弄人六百多年的诡计)
+# The Ghost Festival of The Seventh Month - A Trick That Has Fooled People For Over Six Hundred Years 
+# 七月鬼节-唬弄人六百多年的诡计
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4QuJ4P25UwA?si=eMNjnYVCAZthWl5H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
