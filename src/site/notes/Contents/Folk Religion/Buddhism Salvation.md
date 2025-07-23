@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/folk-religion/buddhism-salvation/","noteIcon":"","created":"2025-07-23T18:51:59.095+08:00"}
 ---
 
-# Grace Versus Awakening: A Comparative Analysis of Salvation in Christianity & Buddhism
+# Grace Versus Awakening: A Comparative Analysis of Salvation In Christianity & Buddhism
 
 # 恩典與覺醒：基督教與佛教救贖論的比較分析
 
