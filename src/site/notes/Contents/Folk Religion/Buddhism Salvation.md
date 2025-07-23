@@ -192,4 +192,4 @@ The KJV Bible affirm that salvation is by grace alone, through faith alone, in C
 Also see:
 - [[Contents/Folk Religion/Mahayana Vs Theravada\|Mahayana Vs Theravada]]
 - [[Contents/Folk Religion/Origin of Guanyin\|Origin of Guanyin]]
-- 
+- [[Contents/Folk Religion/Yiguandao\|Yiguandao]]

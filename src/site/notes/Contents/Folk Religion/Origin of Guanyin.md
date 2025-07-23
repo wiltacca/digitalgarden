@@ -325,4 +325,5 @@ The resulting figure is a perfect synthesis of wisdom (prajñā) and compassion 
 Also see:
 - [[Contents/Folk Religion/Mahayana Vs Theravada\|Mahayana Vs Theravada]]
 - [[Contents/Folk Religion/Buddhism Salvation\|Buddhism Salvation]]
+- [[Contents/Folk Religion/Yiguandao\|Yiguandao]]
 - 
