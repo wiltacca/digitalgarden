@@ -303,6 +303,6 @@ Evangelizing to Mahāyāna Buddhists requires building relationships, finding co
 
 ---
 Also see:
-- [[Contents/Folk Religion/Buddhism (Theravada) Salvation\|Buddhism (Theravada) Salvation]]
+- [[Contents/Folk Religion/Theravada Buddhism Salvation\|Theravada Buddhism Salvation]]
 - [[Contents/Folk Religion/Origin of Guanyin\|Origin of Guanyin]]
 - [[Contents/Folk Religion/Yiguandao\|Yiguandao]]
