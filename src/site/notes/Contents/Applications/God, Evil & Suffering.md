@@ -141,6 +141,6 @@ The ultimate resolution of theodicy awaits eschatological vindication when "God 
 
 ---
 Also see:
-- 
+- [[Contents/Applications/Who Killed Jesus\|Who Killed Jesus]]
 - 
 - 
