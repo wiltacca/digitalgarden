@@ -428,6 +428,6 @@ The Bible affirm that salvation is by grace alone, through faith alone, in Chris
 
 ---
 Also see:
-- [[Contents/Folk Religion/Mahayana Vs Theravada\|Mahayana Vs Theravada]]
+- [[Contents/Folk Religion/Origin of Pure Land Buddhism\|Origin of Pure Land Buddhism]]
 - [[Contents/Folk Religion/Origin of Guanyin\|Origin of Guanyin]]
-- [[Contents/Folk Religion/Yiguandao\|Yiguandao]]
+- [[Contents/Folk Religion/Mahayana Vs Theravada\|Mahayana Vs Theravada]]
