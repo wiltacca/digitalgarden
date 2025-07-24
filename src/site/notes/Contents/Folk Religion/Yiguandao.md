@@ -316,4 +316,4 @@ Yiguandao's philosophy of the "Unity of the Five Religions" is a powerful testam
 Also see:
 - [[Contents/Folk Religion/Origin of Guanyin\|Origin of Guanyin]]
 - [[Contents/Folk Religion/Mahayana Vs Theravada\|Mahayana Vs Theravada]]
-- [[Contents/Folk Religion/Theravada Buddhism Salvation\|Theravada Buddhism Salvation]]
+- [[Contents/Folk Religion/Buddhism Salvation\|Buddhism Salvation]]
