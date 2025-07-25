@@ -563,7 +563,7 @@ Therefore, the development of a devotional, faith-based path within Buddhism doe
 因此，在佛教內部發展出一條虔信的、以信仰為基礎的道路，並未改變該傳統整體的根本非神論前提。淨土宗仍然是一種精密且慈悲的佛教方便法門（_upāya_），它運用信心與依賴的框架，來引導眾生走向佛教經典的目標——智慧與從輪迴中解脫。它是廣闊佛教版圖中的一條獨特道路，而非與有神論的趨同。
 
 ---
-# Conclusion of Two Different Soteriology
+# Conclusion of Two Different Soteriologies
 
 # 两种不同救赎论的总结
 
