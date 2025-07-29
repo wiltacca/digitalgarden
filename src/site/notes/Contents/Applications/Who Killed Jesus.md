@@ -191,6 +191,23 @@ A nuanced understanding of the crucifixion requires holding both of these realit
 |**Events at Death**|Darkness, curtain torn, earthquake, tombs opened, saints resurrected.|Darkness, curtain torn.|Darkness, curtain torn.|None mentioned; focuses on the piercing of the side.|
 |**Piercing of Side**|Not mentioned.|Not mentioned.|Not mentioned.|A soldier pierces Jesus's side with a spear; blood and water flow out.|
 
+The convergence of these five forces—the political cowardice of Pilate, the religious envy of the Sanhedrin, the military brutality of the soldiers, the democratic fickleness of the crowd, and the cultural blindness of the age—created a perfect storm of human wickedness. Yet, through it all, we see the perfect will of God.
+
+For the Christian facing similar, albeit lesser, pressures, the Cross is the ultimate source of hope.
+
+- When faced with **political** injustice, we look to the King of Kings who was unjustly condemned.
+
+- When faced with **religious** hypocrisy, we look to the Great High Priest who was betrayed by His own.
+
+- When faced with brute **military** or physical force, we look to the one whose weakness was made perfect strength.
+
+- When faced with the rejection of the **crowd**, we look to the Saviour whom the masses chose to crucify.
+
+- When faced with a hostile **culture**, we look to the Lord who became a curse for us to redeem us.
+
+While these five forces—political, religious, military, public opinion (democracy), and cultural—each played a role in the events leading to Jesus' crucifixion, they must be understood in light of God’s sovereign plan. The Bible teaches that Jesus’ death was ultimately a fulfillment of God's redemptive plan for humanity. Isaiah 53:10 prophesied: "Yet it pleased the LORD to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin."
+
+Jesus Himself declared that no one took His life from Him, but that He laid it down willingly John 10:18. Thus, while human forces played their part in the physical crucifixion of Christ, His death was foreordained by God as a means to atone for the sins of the world.
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
