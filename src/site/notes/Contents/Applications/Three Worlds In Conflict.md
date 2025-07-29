@@ -76,6 +76,6 @@ This biblical paradigm ultimately reveals God's sovereign control over all cosmi
 
 ---
 Also see:
-- 
+- [[Contents/Applications/Satan Rebellion\|Satan Rebellion]]
 - 
 - 
