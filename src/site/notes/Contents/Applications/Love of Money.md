@@ -152,6 +152,6 @@ The Parable of the Mexican Fisherman invites us to reflect on our own values, co
 
 ---
 Also see:
-- [[Contents/Applications/Spiritual Poverty Amid Material Abundance\|Spiritual Poverty Amid Material Abundance]]
+- [[Contents/Applications/Spiritual Poverty\|Spiritual Poverty]]
 - 
 - 
