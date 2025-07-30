@@ -267,7 +267,7 @@ The Christian understanding of grace is rooted in biblical scripture and was sys
 
 ## 恩典即「不配得的恩惠」
 
-The core biblical definition of grace (Greek: _charis_) is "undeserved favor" or "unmerited gift". It is God's spontaneous, loving, and generous action on behalf of humanity, which cannot be earned, merited, or demanded. The classic articulation of this principle is found in the Pauline epistles, particularly Ephesians 2:8–9: "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast". This passage establishes the foundational tenets of salvation by grace: it is initiated by God, received through faith, and explicitly contrasted with any form of human meritorious works. This "Good News" (_Gospel_) is that salvation is not a wage to be earned but a gift to be received from a benevolent God who acts out of love to forgive sin and restore humanity to fellowship with Himself. 
+The core biblical definition of grace (Greek: _charis_) is "undeserved favor" or "unmerited gift". It is God's spontaneous, loving, and generous action on behalf of humanity, which cannot be earned, merited, or demanded. The classic articulation of this principle is found in the Pauline epistles, particularly Ephesians 2:8–9: "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast". This passage establishes the foundational tenets of salvation by grace: it is initiated by God, received through faith, and explicitly contrasted with any form of human meritorious works. This "Good News" (_Gospel_) is that salvation is not a wage to be earned but a gift to be received from a benevolent God who acts out of love to forgive sin and restore humanity to fellowship with Himself. 
 
 恩典（希臘文：_charis_）在聖經中的核心定義是「不配得的恩惠」或「非功而獲的禮物」。它是上帝為人類自發、慈愛、慷慨的行動，是無法賺取、贏得或要求的。這一原則的經典闡述見於保羅書信，特別是以弗所書2:8-9：「你們得救是本乎恩，也因著信；這並不是出於自己，乃是神所賜的； 也不是出於行為，免得有人自誇。」這段經文確立了恩典救贖的基本信條：它由上帝發起，藉由信心領受，並與任何形式的人類功德行為形成鮮明對比。這個「好消息」（福音）是，救贖並非掙來的工價，而是從一位仁慈的上帝那裡領受的禮物，祂出於愛而赦免罪惡，並恢復人類與祂自身的交通。
 
@@ -456,7 +456,7 @@ As established previously, the ontological status of the salvific agent represen
 
 如前所述，救贖動力的本體論地位代表了最深刻的分歧點。祂是一位通過無數世的巨大努力而證悟的存有，並出於慈悲，利用祂積累的功德創造了一個佛土。祂在非人格化的業力與緣起法則之內運作。祂是一位至高的引導者、一位慈悲的施恩者、一位幫助他人渡過娑婆之河的「擺渡人」。
 
-The Triune God of Christianity, however, is understood as the ultimate source of the cosmos. He is the uncreated, eternal, omnipotent Creator and Sustainer of all that is. His act of salvation is not the work of a being within the system but the intervention of the author of the system itself. Christ is not merely a guide who shows the way; Christians believe he is "the way, the truth, and the life" (John 14:6), the unique incarnation of God Himself. This ontological chasm—between an enlightened being and a creator God—is unbridgeable and ensures that "other-power" and "grace," despite their functional similarities, flow from fundamentally different sources.  
+The Triune God of Christianity, however, is understood as the ultimate source of the cosmos. He is the uncreated, eternal, omnipotent Creator and Sustainer of all that is. His act of salvation is not the work of a being within the system but the intervention of the author of the system itself. Christ is not merely a guide who shows the way; Christians believe he is "the way, the truth, and the life" John 14:6, the unique incarnation of God Himself. This ontological chasm—between an enlightened being and a creator God—is unbridgeable and ensures that "other-power" and "grace," despite their functional similarities, flow from fundamentally different sources.  
 
 然而，基督教的三一神被理解為宇宙的終極源頭。祂是自有永有、永恆、全能的萬物創造者與維繫者。祂的救贖之舉並非系統內某個存有的作為，而是系統創造者本身的介入。基督不僅僅是指路的引導者；基督徒相信祂就是「道路、真理、生命」（約翰福音14:6），是上帝自己獨一的道成肉身。這個本體論上的鴻溝——在一位覺者與一位創世神之間——是無法逾越的，並確保了「他力」與「恩典」，儘管在功能上有相似之處，卻源自根本不同的源頭。
 
@@ -574,6 +574,18 @@ The relationship between _tariki_ and grace challenges both facile syncretism an
 Both traditions democratize spiritual hope: whether through the simple _nembutsu_ or simple faith, salvation is portrayed as a gift for the powerless. Yet their metaphysical backdrops diverge—**cyclical rebirth vs. linear redemption, merit-transfer vs. grace-imputation—yielding distinctive understandings of what it ultimately means to be “saved"**.
 
 兩種傳統都使靈性希望變得普及：無論是通過簡單的念佛，還是簡單的信心，救贖都被描繪成一份給予無力者的禮物。然而，它們的形上學背景卻大相徑庭——「循環的輪迴對比線性的救贖，功德轉移對比恩典歸算」——從而對「得救」的最終意義產生了獨特的理解。
+
+In conclusion, while one may observe superficial structural similarities between the Gospel of grace and the religious systems devised by men, these comparisons are ultimately deceptive and spiritually fatal. The hope offered in the Lord Jesus Christ is unique, exclusive, and divinely wrought. It is rooted in the historical reality of His substitutionary death and bodily resurrection—events that proved He is God in the flesh.
+
+總而言之，雖然人們可能會觀察到恩典的福音與人所設計的宗教體系之間存在膚淺的結構相似之處，但這些比較終究是欺騙性的，並且在屬靈上是致命的。在主耶穌基督裡所提供的盼望是獨特的、排他的，並且是神所成就的。它根植於祂替代性的死亡和身體復活的歷史事實——這些事件證明了祂是道成肉身的神。
+
+The salvation offered in the Bible is not merely a different understanding of being "saved"; it is the only salvation that exists. All other systems, regardless of their philosophical complexity or superficial appeal to the "powerless," are "cunningly devised fables" 2 Peter 1:16 that lead away from the living God. They are built on foundations of sand—be it a "bodhisattva ethos" or the "vow" of a false god—while the Christian's hope is built on the Solid Rock, the Lord Jesus Christ.
+
+所有其他的體系，無論其哲學多麼複雜或對「無能者」有多膚淺的吸引力，都是「乖巧捏造的虛言」（彼得後書 1:16），引人遠離永生的神。它們建立在沙土的根基上——無論是「菩薩的理念」還是假神的「誓願」——而基督徒的盼望則建立在堅固的磐石，主耶穌基督之上。
+
+Let us therefore not be intrigued by facile comparisons but hold fast to the truth once delivered unto the saints, knowing that the Gospel of Christ "is the power of God unto salvation to every one that believeth" Romans 1:16. All other ground is sinking sand.
+
+因此，讓我們不要被膚淺的比較所吸引，而是要持守那一次交付聖徒的真道，因為知道基督的福音「本是神的大能，要救一切相信的」（羅馬書 1:16）。此外的一切都是下沉的沙土。
 
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
