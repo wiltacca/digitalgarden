@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/contents/folk-religion/yiguandao/","noteIcon":"","created":"2025-07-23T02:51:31.068+08:00"}
 ---
 
-# An Analysis of Yiguandao's Philosophy of Universal Religious Unity
+# Yiguandao's Philosophy of Universal Religious Unity
 
-# 一貫道普世宗教統一哲學之分析
+# 一貫道普世宗教統一哲學
 
 ![Pasted image 20250723185022.png|450](/img/user/Attachments/Pasted%20image%2020250723185022.png)
 

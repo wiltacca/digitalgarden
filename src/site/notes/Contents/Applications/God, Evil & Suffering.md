@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/applications/god-evil-and-suffering/","noteIcon":"","created":"2025-07-16T18:00:14.134+08:00"}
 ---
 
-
- ![Pasted image 20250526175344.png|500](/img/user/Attachments/Pasted%20image%2020250526175344.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/edxLjQhEk4g?si=KDBdtDkcKnjQst-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # The Questions About God, Evil & Suffering
 
