@@ -60,7 +60,7 @@ Theological frameworks explain the mechanism of the Atonement in several ways. T
 
 ## 領受的方式：恩典、信心和悔改的不可或缺之角色
 
-Christian theology is emphatic that salvation is initiated and accomplished entirely by God. It is offered to humanity as a gift of **grace**—unmerited, unearned, and undeserved favor. It is explicitly "not a result of works, so that no one may boast" Ephesians 2:9, a verse cited frequently across theological traditions.  
+Christian theology is emphatic that salvation is initiated and accomplished entirely by God. It is offered to humanity as a gift of **grace**—unmerited, unearned, and undeserved favor. It is explicitly "Not of works, lest any man should boast" Ephesians 2:9, a verse cited frequently across theological traditions.  
 
 基督教神學強調，救恩完全是由上帝發起和成就的。它作為**恩典**的禮物——不配得的、非賺取的、不應得的恩惠——提供給人類。這明確地「也不是出於行為，免得有人自誇」（以弗所書 2:9），這節經文在各種神學傳統中被頻繁引用。
 
