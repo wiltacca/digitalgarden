@@ -290,9 +290,9 @@ These iconic forms, along with others like the "Water-Moon Guanyin" and the "Sou
 這些標誌性形象，連同其他如「水月觀音」和「南海觀音」等，代表了將一個印度理想完全吸收並重新詮釋為一個獨特的中國宗教現實。它們是一千年文化與精神交流的視覺遺產。
 
 ---
-# Part V: Conclusion: A Multifaceted Embodiment of Compassion
+# Part V: A Multifaceted Embodiment of Compassion
 
-# 第五部分：結論：慈悲的多面體化身
+# 第五部分：慈悲的多面體化身
 
 The evolution of Guanyin Bodhisattva from the Indian Avalokiteśvara is a testament to the remarkable dynamism and adaptability of religious ideas as they traverse cultural and historical landscapes. The figure that is today revered across East Asia as the "Goddess of Mercy" is not a simple translation of a foreign deity but a complex, multi-layered synthesis, a spiritual tapestry woven from the diverse threads of Indian Mahāyāna doctrine, Hindu cosmology, and indigenous Chinese culture.
 
@@ -318,6 +318,24 @@ The resulting figure is a perfect synthesis of wisdom (prajñā) and compassion 
 
 最終形成的形象是智慧（prajn~aˉ）與慈悲（karuṇaˉ）的完美綜合體。她作為《心經》主角觀自在的身份，將她根植於對空性的深刻哲學了悟，正是這種智慧使無限的慈悲成為可能。她作為《法華經》救主觀音的身份，讓那份慈悲能夠以無數親切、有形的方式顯現——寧靜的白衣女子、母性的送子娘娘、全能的千手保護者。這種既能提供深刻哲學洞見又能給予即時、神奇幫助的雙重能力，解釋了她在東亞精神想像中無與倫比的地位。觀音的故事，歸根結底是一個成功本土化的故事，展示了一個強大的精神理想如何能夠在廣闊的時間和文化跨度中被不斷地重新詮釋、賦予活力並保持其時代意義。
 
+---
+# Conclusion
+
+The evolution of Guanyin Bodhisattva—the East Asian “Goddess of Mercy”—from the Indian Avalokiteśvara is indeed an example of how religious figures adapt to changing cultural needs and environments. In Mahāyāna Buddhism, Avalokiteśvara (meaning “Lord who looks down”) personifies universal compassion, akin to how the Bible frequently highlights the mercy and compassion of God. The shift of Avalokiteśvara into the female Guanyin in China—who becomes deeply associated with motherly care and the granting of children—parallels broad religious yearnings for a tangible, compassionate intermediary. This is somewhat reminiscent of the biblical longing for a merciful advocate, as seen in the roles assigned to Christ (our Advocate, 1 John 2:1) and the intercessors throughout Scripture Romans 8:26–27.
+
+觀音菩薩——東亞的「慈悲女神」——由印度的觀世音菩薩（Avalokitesˊvara）演變而來，這確實是宗教人物如何適應不斷變化的文化需求和環境的一個例子。在中國，觀世音菩薩（Avalokitesˊvara）轉變為女性形象的觀音，並與母親般的關懷和賜予子嗣緊密相連——這與廣泛存在的、對一位有形且慈悲的中介者的宗教渴望相呼應。這在某種程度上讓人聯想到《聖經》中對一位仁慈中保的渴望，正如基督所被賦予的角色（我們的中保，《約翰一書》2:1）以及《聖經》中代求者的角色一樣（《羅馬書》8:26-27）。
+
+The attributes of Guanyin—mercy, compassion, and responding to the cries of the suffering are significant themes in the Bible particularly in the Psalms, emphasizes God’s accessibility and compassionate nature. The “manifold wisdom of God” Ephesians 3:10 and the call to “bear one another’s burdens” Galatians 6:2 display how divine wisdom and mercy unite in practical ways, paralleling Guanyin’s dual aspects of prajñā (wisdom) and karuṇā (compassion).
+
+觀音的特質——憐憫、慈悲、以及回應受苦者的哭聲——也是《聖經》中的重要主題，尤其是在《詩篇》中，強調了上帝的親近性和祂慈悲的本質。《以弗所書》3:10中「神百般的智慧」以及《加拉太書》6:2中「你們各人的重擔要互相擔當」的呼召，都展示了神的智慧和憐憫如何以實際的方式結合，這與觀音在般若（prajn~aˉ，智慧）和慈悲（karuṇaˉ）上的雙重特質相似。
+
+The biblical God is consistently revealed as both transcendent and intimately compassionate, responding to His people’s needs directly rather than through numerous forms or incarnations. In the New Testament, the mediatory work of Jesus Christ is unique, for “there is one God, and one mediator between God and men, the man Christ Jesus” 1 Timothy 2:5, which stands in contrast to the Buddhist expansion of forms and intermediary bodhisattvas.
+
+《聖經》中的上帝一直被啟示為既是超然的，又是親密慈悲的，祂直接回應祂子民的需求，而不是透過多種形式或化身。在《新約》中，耶穌基督的中保工作是獨一無二的，因為「只有一位神，在神和人中間，只有一位中保，乃是降世為人的基督耶穌」（《提摩太前書》2:5），這與佛教中不斷擴展的各種形象和中介菩薩形成對比。
+
+The story of Guanyin demonstrates the powerful human drive to connect with divine mercy and compassion in forms adapted to cultural expectations. However, the Bible insists on the unchanging nature of God, His direct compassion, and the singular mediatorship of Christ. The Bible provides a consistent message: true compassion and mercy are found in the Lord alone, who hears and responds to the cries of His people without need of shifting forms or syncretistic transformation. The evolution of figures like Guanyin reflects a universal longing for mercy and intercession but, from a fundamentalist perspective, underscores the distinctiveness and sufficiency of the biblical revelation of God’s character and provision.
+
+觀音的故事展示了人類渴望以適應文化期望的形式，與神聖的憐憫和慈悲建立聯繫的強大驅動力。然而，《聖經》堅持上帝永不改變的本質、祂直接的慈悲以及基督獨一的中保身份。《聖經》提供了一個貫徹始終的信息：真正的慈悲和憐憫唯獨在於主，祂聆聽並回應祂子民的呼求，無需變換形體或進行融合主義的轉化。像觀音這樣的形象演變反映了對憐憫和代求的普世渴望，但從基要主義的角度來看，這反而凸顯了《聖經》關於上帝屬性和供應之啟示的獨特性和充足性。
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
