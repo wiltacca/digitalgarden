@@ -22,7 +22,7 @@ Admittedly, as you read through the Pentateuch much will seem to be outdated and
 
 ---
 
-# The First Book of Moses Called Genesis
+# The First Book of Moses Called Genesis | 創世記
 
 ## Authorship and Date
 
@@ -89,7 +89,7 @@ These four themes come to a focal point in Christ. As the eternal, divine Son, J
 
 ---
 
-# The Second Book of Moses Called Exodus
+# The Second Book of Moses Called Exodus | 出埃及記
 
 ## Authorship and Date
 
@@ -180,7 +180,7 @@ God designed Exodus to be a rich book, and yet an incomplete book in two senses.
 
 ---
 
-# The Third Book of Moses Called Leviticus
+# The Third Book of Moses Called Leviticus | 利未記
 
 ## Authorship
 
@@ -258,7 +258,7 @@ Leviticus is also set forth as “shadows,” as in Heb. 10:1, “a shadow of g
 
 ---
 
-# The Fourth Book of Moses Called Numbers
+# The Fourth Book of Moses Called Numbers | 民數記
 
 ## Authorship
 
