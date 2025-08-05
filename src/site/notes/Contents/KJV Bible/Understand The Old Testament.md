@@ -431,7 +431,6 @@ A parent’s love for offspring is demonstrated in careful guidance and discipli
     6. Blessing the Tribes (33:1–29)
 6. Conclusion: Moses’ Death and Joshua’s Succession (34:1–12)
 
----
 
 
 
