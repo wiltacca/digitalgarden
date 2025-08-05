@@ -49,7 +49,7 @@ The work was finished in 1611 and printed by the king’s own licensed printer, 
 
 From the first Wyclif Bible in 1384 to the publication of the King James Version in 1611, many scholars labored to produce the classic English translation of Scripture. A number of the translators even gave their lives so that the average English reader would be able to own and read God’s Word and His message in their language.
 
-> [!info]+ # A Time Line
+> [!info]+ A Time Line
 > 1384—The First Wyclif Bible (Middle English)
 1388—Second Wyclif Bible
 1455—Gutenberg prints the first Bible (Latin) from movable type.

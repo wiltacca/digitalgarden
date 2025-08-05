@@ -30,7 +30,7 @@ Such theories are chiefly built on the slim supports of (1) skepticism, which pr
 
 But this radical theory is firmly against the evidence. In reality, the early OT books consistently bear the mark of ancient contexts—contexts that suit times long before national Israel arose. For instance, the laws, customs, and political situations described in the Pentateuch fit very naturally with the second millennium b.c. and earlier. This is proven by the discovery of many nonbiblical texts and artifacts from that era. It is unlikely that unethical priests a thousand years or more removed from the historical situations described in the Pentateuch could have gotten things so right. Also, the concerns that dominated the Hebrew mindset during the Babylonian exile are not addressed by the Pentateuch. Hence, how could priests hope to encourage their downtrodden fellow Hebrews in Babylon by inventing stories that bore no semblance to their situation? Further, it is unimaginable that the mass of Hebrews would fall for such a ruse, choose to base their entire worldview on false histories passed off on them by a band of inventive clergymen, and then succeed in selling the hoax to their children for generations to come.
 
-So what should we conclude about the anachronisms? Simply this: in the years after the Pentateuch was written, inevitable changes in place names, vocabulary, and political situations made these old books harder to comprehend. To alleviate this problem, priestly guardians of the sacred oracles updated the texts at key junctures to reflect contemporary word usage and geopolitical situations. Such changes as these (e.g., Judg. 1:10; 1 Sam. 9:9) would have been undertaken soberly and with great care to preserve the meaning and intention of the holy text. Thus, under strict guidelines the books underwent helpful editing, with the result that the texts remained accessible with the passage of time.
+So what should we conclude about the anachronisms? Simply this: in the years after the Pentateuch was written, inevitable changes in place names, vocabulary, and political situations made these old books harder to comprehend. To alleviate this problem, priestly guardians of the sacred oracles updated the texts at key junctures to reflect contemporary word usage and geopolitical situations. Such changes as these Judg. 1:10; 1 Sam. 9:9 would have been undertaken soberly and with great care to preserve the meaning and intention of the holy text. Thus, under strict guidelines the books underwent helpful editing, with the result that the texts remained accessible with the passage of time.
 
 On the whole, however, virtually all the scribes who ever touched the sacred scrolls did so only to read them or copy them word for word. Literary copying was an important skill in the ancient world since there was no means of rapid duplication, such as modern printing presses or photocopiers. Believing that the writings in their care were authoritative and inspired by God, the Hebrew scribes took exceptional care when copying the scrolls.
 
@@ -61,22 +61,15 @@ Even the early Reformers included the Apocrypha in their English and German tran
 We have solid reasons for believing that the OT books include only true history and that they were written by men who were appointed by God to deliver Spirit-inspired writings to humanity. Further, it is clear that the Jews of old received these books with awe and a sense of responsibility. Hence, the sacred books were identified, collected, preserved, and transmitted through the generations by men approved for such high tasks. The 39 books of the Protestant OT are assuredly the books God would have us venerate as scriptural. The books of the Apocrypha are valuable (indeed, more valuable than most Protestants realize), but should be consulted for their historical value and not for instruction in doctrine or religious practice.
 
 
-> [!info]+ # Sources & Authorship For Genesis
+> [!info]+ Sources & Authorship For Genesis
 >
 Done under the care of God’s providence in the centuries after Moses wrote Genesis, mindful priests updated the text without modifying its meaning. This helped keep the text acces-sible to later generations of Hebrews, whose language and life situations differed significantly from those of Moses and the era about which he wrote.
->
 Drawing from the reliable histories available to him, and guided by God, Moses infallibly wrote a theologically driven early history of earth in the book of Genesis.
->
 Oral histories arose among early peoples who sought to preserve knowledge of key events. In the Patriarchal Age, Abraham and his descendants would have taken great care to pass down knowl-edge of God, His covenant promises, and key events in the lives of the Hebrew clan. God’s sovereign Spirit ensured that these histories were uncorrupted by error.
->
 >When elementary alphabets were invented, oral historieswere set down in writing. Under God’s guidance the biblical patriarchs would have taken great care to pass down accounts of their dealings with God. Through men such as Joseph, these records came down to Moses.
->
 Theologically significant events occurring from creation to roughly 1800 b.c.
->
 God commissioned Moses to write, guided his search through the histories, and supernaturally guided every word he wrote.
->
 The Apocryphal books were added to the Septuagint (Greek translation of the canonical OT) because Greek-speaking Jews wanted access to Jewish holy books plus important nonbiblical books. The Early Church widely used the Septuagint, and though the Apocrypha was rarely (and mistakenly) equated with inspired Scripture, it was rightly the Apocrypha, the Reformers elected to separate it from the canonical books. 
->
 Thus the Apocrypha came to be excluded from Protestant Bibles.
 
 
