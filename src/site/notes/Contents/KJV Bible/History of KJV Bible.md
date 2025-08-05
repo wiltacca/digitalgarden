@@ -51,39 +51,22 @@ From the first Wyclif Bible in 1384 to the publication of the King James Version
 
 > [!info]+ # A Time Line
 > 1384—The First Wyclif Bible (Middle English)
-> 
 1388—Second Wyclif Bible
->
 1455—Gutenberg prints the first Bible (Latin) from movable type.
->
 1480–90—First Hebrew Old Testaments printed in Italy and Spain.
->
 1514–16—First Greek New Testaments printed at Alcala, Spain and at Basel, Switzerland.
->
 1517–18—Luther in Germany and Zwingli in Zurich start the Reformation and the revolt from the Roman Church.
->
 1522—Luther’s German New Testament printed.
->
 1531—Entire German Bible printed in Zurich.
->
 1525/1526—Tyndale’s first edition of the New Testament translated from the Greek into English and published; Final version 1534.
->
 1535/1537—Coverdale Bibles printed.
->
 1537—Matthew’s Bible printed (John Rogers).
->
 1539—The Great Bible printed.
->
 1539—Taverner’s Bible printed.
->
 1560—The Geneva Bible published, the first English Bible divided into verses and printed in roman type.
->
 1568/1602—The Bishops’ Bible printed, a revision of the Great Bible.
->
 1582—English Roman Catholics in exile translate from the Latin the New Testament at Reims and in 1610 the Old Testament at Douay, France.
->
 1604—The Hampton Court Conference held by King James where he calls for a new translation into English.
->
 1611—The King James Version published.
 
 
