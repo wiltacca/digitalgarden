@@ -62,7 +62,6 @@ We have solid reasons for believing that the OT books include only true history 
 
 
 > [!info]+ Sources & Authorship For Genesis
->
 Done under the care of God’s providence in the centuries after Moses wrote Genesis, mindful priests updated the text without modifying its meaning. This helped keep the text acces-sible to later generations of Hebrews, whose language and life situations differed significantly from those of Moses and the era about which he wrote.
 Drawing from the reliable histories available to him, and guided by God, Moses infallibly wrote a theologically driven early history of earth in the book of Genesis.
 Oral histories arose among early peoples who sought to preserve knowledge of key events. In the Patriarchal Age, Abraham and his descendants would have taken great care to pass down knowl-edge of God, His covenant promises, and key events in the lives of the Hebrew clan. God’s sovereign Spirit ensured that these histories were uncorrupted by error.
