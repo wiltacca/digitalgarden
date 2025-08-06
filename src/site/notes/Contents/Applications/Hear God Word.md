@@ -6,7 +6,7 @@
 
 Let us delve into the Word of God, relying solely upon the authority of the KJV Bible to examine on the matter of hearing, for how a man heareth is of eternal consequence and to illuminate these distinct levels of hearing.
 
-# 1. Superficial Hearing: The Wayside Hearer (听听)
+# 1. Superficial Hearing: The Wayside Hearer  | 听听
 
 This initial level describes a hearing that is merely physical. The sound of the words enters the ear, but there is no engagement of the heart or mind. The Lord Jesus Christ Himself provides the most vivid illustration of this in the Parable of the Sower.
 
@@ -26,7 +26,7 @@ This initial level describes a hearing that is merely physical. The sound of the
 
 **Theological Implication:** A person at this level may sit in a church service or read the Bible, but their heart remains a public thoroughfare for every passing thought and temptation. There is no personal application, no contemplation, and thus, no possibility of salvation or spiritual growth. This is the hearing of apathy and spiritual deadness.
 
-# 2. Listening: The Forgetful Hearer (听闻)
+# 2. Listening: The Forgetful Hearer | 听闻
 
 This level is a step above the first, in that the information is received and perhaps even momentarily acknowledged. However, it fails to move from the mind to the will. It is a passive reception without any corresponding action, leading to self-deception.
 
@@ -44,7 +44,7 @@ This level is a step above the first, in that the information is received and pe
 
 **Theological Implication:** This individual may be able to discuss doctrine and quote scripture, but their life remains unchanged by the power of the Word they hear. Their religion is a form without power **2 Timothy 3:5**. This level of hearing produces hypocrites, not disciples.
 
-# 3. Hearing &  Recognizing: The Shepherd's Sheep (听见)
+# 3. Hearing &  Recognizing: The Shepherd's Sheep | 听见
 
 Here we transition from passive hearing to relational hearing. This level involves not just processing sounds or information, but recognizing the voice of the speaker, implying a relationship of trust and familiarity.
 
@@ -64,7 +64,7 @@ Here we transition from passive hearing to relational hearing. This level involv
 
 **Theological Implication:** This is the beginning of true discipleship. Hearing is now personal. God is not an abstract concept, but the Good Shepherd whose voice guides, comforts, and directs. This recognition is a gift of the Holy Spirit and a mark of genuine salvation **Romans 8:14**.
 
-# 4. Hearing & Internalizing: The Pondering Heart (听进)
+# 4. Hearing & Internalizing: The Pondering Heart | 听进
 
 This level moves beyond recognition to deep meditation and reflection. The Word is not merely heard or identified, but is taken into the heart to be cherished, examined, and pondered.
 
@@ -84,7 +84,7 @@ This level moves beyond recognition to deep meditation and reflection. The Word 
 
 **Theological Implication:** This is the practice of biblical meditation **Joshua 1:8**, **Psalm 1:2**. It is how the Word of God transforms a believer from the inside out. By internalizing scripture, it becomes part of our very being, informing our thoughts, shaping our desires, and renewing our minds **Romans 12:2**.
 
-# 5. Understanding: The Fruitful Ground (听明白)
+# 5. Understanding: The Fruitful Ground | 听明白
 
 This level is the cognitive and spiritual breakthrough where the internalized Word is fully comprehended. It is the "aha!" moment of the soul, where the Holy Spirit illuminates the meaning and application of the text.
 
@@ -104,7 +104,7 @@ This level is the cognitive and spiritual breakthrough where the internalized Wo
 
 **Theological Implication:** Spiritual understanding is a divine gift **1 Corinthians 2:14** sought through prayerful study. It bridges the gap between knowing what the Bible says and knowing what it means for me, here and now. Without this level, the Word remains a dead letter; with it, the Word becomes living and powerful **Hebrews 4:12**.
 
-# 6. Obeying: The Wise Builder (听从)
+# 6. Obeying: The Wise Builder | 听从
 
 This is the final and highest level of hearing, where understanding culminates in action. It is the ultimate purpose of all communication from God to man. To hear, recognize, internalize, and understand the will of God is of no profit unless it is obeyed.
 
