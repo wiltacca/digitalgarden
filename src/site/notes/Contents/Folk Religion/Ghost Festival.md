@@ -265,6 +265,6 @@ Original Source: [https://malaccagospelhall.org.my/2014/11/七月鬼节-唬弄�
 
 ---
 Also see:
-- 
+- [[Contents/Folk Religion/Understand Spirit World of Mortals\|Understand Spirit World of Mortals]]
 - 
 - 
