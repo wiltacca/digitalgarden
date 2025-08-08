@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/contents/folk-religion/mahayana-vs-theravada/","noteIcon":"","created":"2025-07-21T17:47:55.650+08:00"}
 ---
 
-![Pasted image 20250718180138.png|500](/img/user/Attachments/Pasted%20image%2020250718180138.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfWrna46tMA?si=pdQa1vYAJ2HlMunx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Mahayana Buddhism & Theravada Buddhism 
 
 # 大乘佛教与原始佛教
