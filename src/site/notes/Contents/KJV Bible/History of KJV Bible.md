@@ -74,6 +74,6 @@ From the first Wyclif Bible in 1384 to the publication of the King James Version
 
 ---
 Also see:
-- 
-- 
+- [[Contents/KJV Bible/Epistle Dedicatory-Translators To The Reader\|Epistle Dedicatory-Translators To The Reader]]
+- [[Contents/Doctrines/Textual Preservation\|Textual Preservation]]
 - 
