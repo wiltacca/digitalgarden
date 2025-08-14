@@ -9,9 +9,13 @@ Verbal Plenary Preservation is the teaching that God has supernaturally preserve
 <u>Key scriptural texts and confessions often cited by VPP advocates include:</u>
 
 •	Psalm 12:6-7  “The words of the Lord are pure words… Thou shalt keep them, O Lord; thou shalt preserve them…for ever”.
+
 •	Matthew 5:18 “Not one jot or tittle…shall in no wise pass from the law” (taken literally as a promise of preservation.
+
 •	Matthew 24:35; Mark 13:31 “Heaven and earth shall pass away: but my words shall not pass away”.
+
 •	1 Peter 1:25; Isaiah 40:8 “the word of the Lord endureth for ever”, “the word of our God shall stand for ever” (implying God’s Word remains unchanged).
+
 •	Westminster Confession 1.8 “Hebrew…Greek… by his singular care and providence, kept pure in all ages” (often seen as echoing the biblical promises).
 
 These passages are interpreted to mean that God Himself has miraculously supervised the copying and transmission of Scripture (both ordinary scribal copying and special providential oversight) so that His words survive without any textual loss. In effect, supporters hold that inerrancy applies not only to the autographs but to the preserved text available to the church today.
@@ -27,12 +31,19 @@ In the mid–late 20th century VPP became a self-conscious doctrine among some c
 <u>Timeline of key developments:</u>
 
 - 1646: Westminster Confession I.8 – Scripture “by his singular care… kept pure in all ages”.
+
 - 1675: Helvetic Consensus – affirms God kept Scripture “so that… not one jot or tittle shall in no wise pass”.
+
 - 1673: John Owen’s Vindiciae – “the whole Scripture… is preserved in the copies… in them all… every letter and tittle”.
+
 - Early 1900s: John Burgon (England) and others defend Textus Receptus/Masoretic text.
+
 - 1920s: William Aberhart (Calgary) teaches a perfectly preserved Bible.
+
 - 1970s: Edward F. Hills publishes King James Version Defended (1976). Ian Paisley and others push the idea in pulpits.
+
 - 1962–present: Far Eastern Bible College (Singapore) espouses VPP, publishing articles and books on it.
+
 - 2011: Singapore Court of Appeal upholds VPP as compatible with Reformed confession, effectively ending a church schism.
 
 # Verbal Plenary Inspiration Versus Preservation
