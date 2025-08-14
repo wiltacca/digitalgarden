@@ -108,5 +108,5 @@ Many other things we might give thee warning of (gentle Reader) if we had not ex
 ---
 Also see:
 - [[Contents/KJV Bible/History of KJV Bible\|History of KJV Bible]]
-- [[Contents/Doctrines/Textual Preservation\|Textual Preservation]]
+- [[Contents/KJV Bible/Textual Preservation\|Textual Preservation]]
 - 
