@@ -48,11 +48,11 @@ If justification is the work God does _for_ us, sanctification is the work God d
 
 Salvation is the overarching biblical term that encompasses the entirety of God's redemptive plan, from its beginning to its final consummation. It is not a single event but a comprehensive process that is often described in three tenses.
 
-- **Past Tense:** Believers _have been saved_ (Ephesians 2:8) from the penalty of sin. This refers to the past, completed action of justification and regeneration, where the believer was delivered from condemnation and given new life in Christ.  
+- **Past Tense:** Believers _have been saved_ Ephesians 2:8 from the penalty of sin. This refers to the past, completed action of justification and regeneration, where the believer was delivered from condemnation and given new life in Christ.  
 
-- **Present Tense:** Believers _are being saved_ (1 Corinthians 1:18) from the power of sin. This refers to the ongoing process of sanctification, where the believer is progressively delivered from the dominion of their sinful nature and is being conformed to Christ's likeness.  
+- **Present Tense:** Believers _are being saved_ 1 Corinthians 1:18 from the power of sin. This refers to the ongoing process of sanctification, where the believer is progressively delivered from the dominion of their sinful nature and is being conformed to Christ's likeness.  
 
-- **Future Tense:** Believers _will be saved_ (Romans 5:9) from the very presence of sin. This refers to the future event of glorification, when believers will be with the Lord, receive resurrected bodies, and be made perfectly holy, free from sin and its effects forever.  
+- **Future Tense:** Believers _will be saved_ Romans 5:9 from the very presence of sin. This refers to the future event of glorification, when believers will be with the Lord, receive resurrected bodies, and be made perfectly holy, free from sin and its effects forever.  
 
 Understanding these three tenses is crucial. To speak of salvation only as a past event is to risk neglecting the present reality of sanctification and the future hope of glorification.
 
