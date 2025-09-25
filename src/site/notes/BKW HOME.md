@@ -87,6 +87,8 @@ The chart illustrates three primary streams or families of New Testament manuscr
 
 The Lord Jesus Christ Himself declared, **"Heaven and earth shall pass away, but my words shall not pass away"** Matthew 24:35. This divine promise is the bedrock of our confidence. Furthermore, the Psalmist proclaims, **"The words of the LORD are pure words: as silver tried in a furnace of earth, purified seven times. Thou shalt keep them, O LORD, thou shalt preserve them from this generation for ever"** Psalm 12:6-7. 
 
+![Good Fruit Tree.png|500](/img/user/Attachments/Good%20Fruit%20Tree.png)
+
 ## 📜The Traditional Text (The Textus Receptus)
 
 This stream, coloured blue in the chart, is identified as the "Lost Manuscripts of the Traditional Text," which it rightly states are **"Almost identical with originals in text."** This line of transmission is also known to scholars as the Byzantine text-type.
@@ -98,6 +100,8 @@ This stream, coloured blue in the chart, is identified as the "Lost Manuscripts 
 *   **Historical Lineage:** This textual stream can be traced back to the earliest times, with ancient versions like the Peshitta Syriac (dating to the 2nd century) largely agreeing with it. The church of Antioch in Syria, where the disciples were first called Christians Acts 11:26, is traditionally held to be the source from which this pure text was disseminated.
 
 This is the stream of God's preserved Word, continuously used by believers and culminating in the masterful and authorised translation of the King James Bible.
+
+![Evil Fruit Tree.png|500](/img/user/Attachments/Evil%20Fruit%20Tree.png)
 
 ## 📜The Alexandrian Text
 
