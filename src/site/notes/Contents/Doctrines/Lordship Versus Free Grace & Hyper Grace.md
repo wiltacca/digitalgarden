@@ -313,3 +313,4 @@ Also see:
 - [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
 - [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
+- [[Contents/Doctrines/Salvation, Work , Faith & Repentance\|Salvation, Work , Faith & Repentance]]

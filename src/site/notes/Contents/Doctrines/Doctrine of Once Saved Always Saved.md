@@ -327,6 +327,8 @@ instead, the film argues that the Bible consistently warns believers about the p
 
 True faith produces good works, indicating that genuine salvation results in a transformed life. The Sermon on the Mount serves as essential teaching for discipleship, and living a holy life is achievable through the Holy Spirit. Repentance entails a change of mind and heart. The necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith.
 
+![Pasted image 20250925155912.png|500](/img/user/Attachments/Pasted%20image%2020250925155912.png)
+
 The parable of the wheat and tares is given in **Matthew 13:24-30**:
 
 > [!bible]+ [Matthew 13:24-30 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:24-30&version=kjv)
@@ -362,4 +364,4 @@ This teaching aligns with broader Scripture: Romans 8:28-39 confirms no force—
 Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
-
+- [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]

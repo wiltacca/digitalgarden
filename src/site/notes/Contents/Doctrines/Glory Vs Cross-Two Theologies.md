@@ -139,3 +139,4 @@ Also see:
 - [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]
+- [[Contents/Doctrines/Salvation, Work , Faith & Repentance\|Salvation, Work , Faith & Repentance]]

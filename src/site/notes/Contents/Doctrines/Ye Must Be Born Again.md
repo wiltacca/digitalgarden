@@ -343,3 +343,4 @@ Also see:
 - [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]
 - [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
 - [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
+- [[Contents/Doctrines/Salvation, Work , Faith & Repentance\|Salvation, Work , Faith & Repentance]]
