@@ -20,6 +20,8 @@ The very genesis and continued persistence of a term such as "Hyper-Calvinism" s
 
 The ensuing analysis will employ a multi-faceted methodological framework. This approach will integrate a historical examination of the developmental trajectories of these theological currents, a comparative investigation of their core doctrinal tenets, and a meticulous consideration of the hermeneutical approaches each applies to key scriptural passages pertinent to their points of divergence. The theological perspectives of influential historical figures associated with both Mainstream Calvinism and Hyper-Calvinism will be subjected to scrutiny, alongside theological critiques, particularly those emanating from within the broader Calvinistic tradition itself. This comprehensive methodology is intended to furnish a nuanced and exhaustive understanding of the complexities inherent in the subject matter.
 
+---
+
 ## II. The Foundations of Mainstream Calvinism
 
 **A. The Theological Architecture: TULIP & Core Principles**
@@ -84,6 +86,8 @@ An immensely influential English Baptist preacher of the nineteenth century, Cha
 
 The pronounced evangelistic zeal exhibited by seminal figures of mainstream Calvinism, such as John Calvin himself and Charles Spurgeon, furnishes a significant historical and theological counter-narrative to the anti-evangelistic posture characteristic of many expressions of Hyper-Calvinism. This internal precedent within mainstream Calvinism serves as a potent critique of any interpretation of Calvinistic doctrine that would logically culminate in a cessation or minimization of missionary and evangelistic activities. If John Calvin, whose name is synonymous with the theological system, oversaw a substantial missionary enterprise from Geneva, and if Charles Spurgeon, one of its most renowned preachers, was a fervent evangelist who publicly importuned all sinners to come to Christ, it establishes a substantial historical argument that robust Calvinistic theology is not inherently antithetical to evangelism. This historical praxis challenges the Hyper-Calvinist assertion that a consistent application of doctrines such as election necessitates a restriction of the gospel call or a passive disposition toward missions. It suggests that Hyper-Calvinism may represent a deviation from, rather than a consistent elaboration of, the spirit and practice of these influential Calvinistic figures.
 
+---
+
 ## III. An Examination of Hyper-Calvinism: An Extreme Emphasis
 
 ![Pasted image 20250612024429.png|500](/img/user/Attachments/Pasted%20image%2020250612024429.png)
@@ -131,6 +135,8 @@ The historical emergence of Hyper-Calvinism as a reactive movement, particularly
 - **William Gadsby (1773-1844):** A prominent pastor within the Strict Baptist movement in nineteenth-century England, William Gadsby was a powerful preacher and hymnographer. His ministry consistently emphasized the sovereign and particular calling of the elect by God in salvation. In so doing, he often diminished or even negated the necessity for human response or effort in evangelism, placing the emphasis squarely on the divine work with minimal allowance for human agency. His influential "Gadsby's Hymnal" included numerous of his own compositions and other hymns that reflected his strong Calvinistic (and arguably Hyper-Calvinistic) convictions, celebrating divine sovereignty, human depravity, and the particularity of God's grace to the elect.
 
 It is important to acknowledge that certain later theologians and denominations (e.g., Herman Hoeksema and the Protestant Reformed Churches in America), who repudiate the "well-meant offer of the gospel," have been designated "Hyper-Calvinist" by their critics. These groups, however, frequently contest this label, viewing their position as the most consistent expression of historic Calvinism rather than an "excess" thereof. David Engelsma, for example, argues against the "well-meant offer" while concurrently rejecting what he defines as true Hyper-Calvinism (which he delineates as the denial that God, in the preaching of the gospel, calls every individual who hears to repent and believe, or that the church should extend such a call to all, or that the unregenerate have a duty to repent and believe).
+
+---
 
 ## IV. Comparative Analysis: Points of Divergence & Convergence
 
@@ -203,6 +209,8 @@ Although both theological systems claim John Calvin as a significant progenitor,
 | **Doctrine of Justification (Timing and Nature)**                | A forensic declaration by God at the moment of faith, whereby Christ's righteousness is imputed to the believer.                                                                                     | Certain proponents (e.g., Gill) have taught a doctrine of "eternal justification," wherein the elect were justified from eternity, with faith serving as the temporal manifestation thereof. |
 | **Relation Between God's Secret and Revealed Will**              | Distinguishes between God's secret (decretive) will and His revealed (preceptive) will, affirming both. Human duty is derived from the revealed will.                                                | Tends to prioritize the secret will or to interpret the revealed will exclusively through its lens, sometimes deducing a lack of human duty from eternal decrees.                            |
 
+---
+
 ## V. Mainstream Calvinist Critiques of Hyper-Calvinism
 
 Mainstream Calvinism, while sharing foundational tenets with Hyper-Calvinism, has historically advanced significant critiques of its more extreme expressions. These critiques frequently center upon matters of biblical interpretation, theological equilibrium, and the practical implications for Christian existence and the ecclesiastical mission.
@@ -236,6 +244,8 @@ Beyond direct scriptural arguments, mainstream Calvinists also raise theological
 **6. The "No Offer" Position and Antinomian Tendencies:** James Attebury critiques the Hyper-Calvinist denial of the gospel offer and duty-faith by arguing that it can lead to antinomianism—the belief that the moral law is not binding on believers or, in this context, that the unregenerate are not truly responsible for their sin and unbelief. If the non-elect are condemned merely for not being elect, rather than for their actual sins and rejection of Christ, this would undermine the biblical basis of judgment.
 
 These critiques highlight a perception within mainstream Calvinism that Hyper-Calvinism, in its zeal to protect divine sovereignty, inadvertently creates a theological system that is biblically imbalanced, logically problematic in its conclusions, and pastorally detrimental, particularly concerning the church's evangelistic mission and the believer's understanding of God's character. The charge is essentially that Hyper-Calvinism represents a deviation from, rather than a consistent extension of, historic and biblically grounded Calvinism.
+
+---
 
 ## VI. Practical Implications For Ecclesiastical Life
 
@@ -276,6 +286,8 @@ The prevailing theological ethos can significantly impact the spiritual atmosphe
 - **Hyper-Calvinism:** It is argued by critics that this system can lead to spiritual frigidity, fatalism, a lack of compassion for the lost, and an overly critical or judgmental spirit. The intense focus on divine decrees, to the exclusion of God's universal calls and expressions of love, can create an environment that is perceived as deficient in warmth, joy, and evangelistic dynamism. It may also suppress prayer, based on the reasoning that if God has decreed all things, prayer cannot alter them, thereby neglecting God's command to pray and His use of prayer as a means to accomplish His purposes. Furthermore, it can foster a "grim and sour stoicism" rather than a spirit of gratitude in response to God's providence.
 
 These practical sequelae demonstrate that the debate between Mainstream Calvinism and Hyper-Calvinism is not merely of academic interest. The theological choices that are made have direct consequences for the manner in which the Christian faith is lived, proclaimed, and experienced within the community of believers and in its engagement with the world. The potential for spiritual stagnation, or conversely, for evangelistic dynamism, is closely tethered to these differing theological emphases. The believer's experience of the character of God—whether He is perceived primarily as a distant, decreeing sovereign or also as a loving, inviting Savior—is profoundly shaped by the theological lens through which Scripture is interpreted and applied.
+
+---
 
 ## VII. Conclusion: The Equipoise of Sovereignty & Responsibility
 
