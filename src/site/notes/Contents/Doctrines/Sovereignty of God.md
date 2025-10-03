@@ -4,7 +4,7 @@
 
 ![Pasted image 20250711033505.png|500](/img/user/Attachments/Pasted%20image%2020250711033505.png)
 
-## **The Absolute Sovereignty of God Over All Nations & Events**
+# **The Absolute Sovereignty of God Over All Nations & Events**
 
 The KJV Bible presents an unwavering testimony to God's absolute dominion over all historical events and world affairs. This fundamental doctrine, known as **divine sovereignty**, establishes that the LORD God reigns supreme over every nation, kingdom, and ruler throughout history. The Scriptures declare unequivocally that "**The LORD hath prepared his throne in the heavens; and his kingdom ruleth over all**" Psalm 103:19, demonstrating that God's sovereign rule extends to every corner of the earth and every moment of time.
 
