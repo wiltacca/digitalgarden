@@ -319,7 +319,7 @@ Here's a breakdown of what the film says about these two views and the debate:
 In summary, the film argues that Conditional Security, or the belief in the possibility of apostasy for genuine believers, is the view supported by the consistent teaching of the Bible, numerous New Testament warnings, the historical stance of the early church, and the majority of Christian denominations today. They contend that OSAS, while prevalent in some evangelical circles, is a dangerous doctrine that undermines the need for ongoing faithfulness, holiness, repentance, and the fear of God, potentially leading believers down a path that results in eternal judgment despite an initial experience of salvation.
 
 ---
-# Conclusion
+# Overall Assessment
 
 Based on the information presented in the film, the overwhelming conclusion drawn from the various views discussed is that the doctrine of OSAS, particularly as understood today to mean unconditional eternal security regardless of behaviour, is not supported by the Bible from Genesis to Revelation or by the teachings of the early church fathers.
 
@@ -327,36 +327,48 @@ Instead, the film argues that the Bible consistently warns believers about the p
 
 True faith produces good works, indicating that genuine salvation results in a transformed life. The Sermon on the Mount serves as essential teaching for discipleship, and living a holy life is achievable through the Holy Spirit. Repentance entails a change of mind and heart. The necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith. True faith is an internal reality, but its evidence is external. Works are the visible manifestation of an invisible grace from the true believers.
 
-![Pasted image 20250925155912.png|500](/img/user/Attachments/Pasted%20image%2020250925155912.png)
+# The Nature of Dead Faith
 
-The parable of the wheat and tares is given in **Matthew 13:24-30**:
+In the Epistle of James, chapter 2. The apostle James poses a foundational question to dismantle the notion of a faith that bears no fruit.
 
-> [!bible]+ [Matthew 13:24-30 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:24-30&version=kjv)
-> 24. Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:
-> 25. But while men slept, his enemy came and sowed tares among the wheat, and went his way.
-> 26. But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
-> 27. So the servants of the householder came and said unto him, Sir, didst not thou sow good seed in thy field? from whence then hath it tares?
-> 28. He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?
-> 29. But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them.
-> 30. Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
+- **James 2:14-17:** "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him? If a brother or sister be naked, and destitute of daily food, And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit? Even so faith, if it hath not works, is dead, being alone."
 
-The parable of the wheat and tares is explained in **Matthew 13:36-43**:
+James argues that a mere verbal profession of faith is worthless if it is not accompanied by corresponding action. He uses the practical example of charity. To wish a needy person well without providing for their physical needs is an empty gesture. In the same way, to claim to have faith in God while living a life barren of the works that please Him is to possess a "dead" faith. It is a faith that is solitary, isolated, and without the life of God flowing through it. It is not that works are added to faith to accomplish salvation, but that works are the necessary evidence that saving faith is present at all.
 
-> [!bible]+ [Matthew 13:36-43 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:36-43&version=kjv)
-> 36. Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
-> 37. He answered and said unto them, He that soweth the good seed is the Son of man;
-> 38. The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked one;
-> 39. The enemy that sowed them is the devil; the harvest is the end of the world; and the reapers are the angels.
-> 40. As therefore the tares are gathered and burned in the fire; so shall it be in the end of this world.
-> 41. The Son of man shall send forth his angels, and they shall gather out of his kingdom all things that offend, and them which do iniquity;
-> 42. And shall cast them into a furnace of fire: there shall be wailing and gnashing of teeth.
-> 43. Then shall the righteous shine forth as the sun in the kingdom of their Father. Who hath ears to hear, let him hear.
+# The Visibility of True Faith
 
-The Parable of the Wheat and Tares Matthew 13:24-30, Matthew 36-43 affirms the eternal security of born-again Christians, demonstrating that genuine believers cannot lose their salvation, even amid struggles with sin. Christ’s interpretation reveals that the "wheat" represents true children of the kingdom, regenerated by God’s incorruptible seed 1 Peter 1:23, while the "tares" symbolize false professors, sown by Satan and destined for judgment. The parable underscores that the fundamental nature of wheat (true believers) and tares (counterfeits) remains unchanged; wheat cannot become tares, nor tares wheat.
+James continues by establishing that works are the sole method by which one's faith can be demonstrated to others.
 
-True conversion produces an immutable identity in Christ, secured by God’s sovereign power John 10:28-29. Though believers may falter, the Holy Spirit ensures their perseverance, progressively sanctifying them and prompting repentance Philippians 2:12-13. Those who abandon the faith, persisting in unrepentant sin, reveal they were never truly regenerated 1 John 2:19. The parable emphasizes God’s patience in delaying judgment until the harvest (the end of the age), when angels will separate the two groups. The righteous will be glorified, shining "as the sun" in God’s kingdom, while the unrepentant face eternal fire Matthew 13:43, Matthew 13:50.
+- **James 2:18:** "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
 
-This teaching aligns with broader Scripture: Romans 8:28-39 confirms no force—including human failure—can sever believers from Christ’s love, and Ephesians 1:13-14 highlights the Spirit’s sealing as divine assurance. Thus, the parable assures that genuine believers, though imperfect, are eternally secure, while apostates expose their false nature, having never possessed the incorruptible seed of salvation.
+ Faith, being an internal reality of the heart, is invisible to the human eye. No man can look upon another and see the state of his soul or the presence of faith. However, one's actions—the "works"—are external and visible. Therefore, James issues a challenge: it is impossible to show faith without works. The only way to provide evidence for the invisible reality of faith is through the visible manifestation of a changed life and righteous deeds. This aligns with our Lord's own teaching in **Matthew 7:16**, "Ye shall know them by their fruits."
+
+The apostle concludes his argument with a powerful analogy:
+
+- **James 2:26:** "For as the body without the spirit is dead, so faith without works is dead also."
+
+A human body that has no spirit is a corpse; it has the form of a person but lacks the essential life. Likewise, a profession of faith that is not animated by the "spirit" of good works is a spiritual corpse. It has the outward form of religion but lacks the vital, life-giving power of God's grace.
+
+# Harmony With Salvation By Grace
+
+This teaching does not contradict the doctrine of salvation by grace through faith alone, as taught extensively by the apostle Paul. Rather, it complements it. Paul establishes the foundation, and James builds upon it, showing the result.
+
+- **Ephesians 2:8-9:** "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God: Not of works, lest any man should boast."
+
+These verses unequivocally declare that our salvation is a free gift, received through faith and not earned by any works we perform. This is the moment of **justification**, when a sinner is declared righteous before God solely on account of Christ's finished work.
+
+However, Paul immediately follows this with a statement that explains the purpose of this salvation:
+
+- **Ephesians 2:10:** "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+
+Here is the perfect harmony. We are not saved _by_ good works, but we are saved _unto_ good works. God's act of saving us through faith is a creative act; He makes us a new "workmanship" in Christ. The purpose of this new creation is to walk in the good works that He has prepared for us. The invisible grace that saves us (Ephesians 2: 8-9) is the direct cause of the visible works that we then perform (Ephesians 2: 10). The works are the fruit, not the root, of salvation.
+
+This is further confirmed in **Titus 2:14**, which states that Christ "gave himself for us, that he might redeem us from all iniquity, and purify unto himself a peculiar people, **zealous of good works**." The very goal of redemption is to create a people characterized by their zeal for good works.
+
+# Conclusion
+
+True faith is an internal reality, a gift of grace planted in the heart by the Holy Spirit. However, this faith is not dormant. It is a living, active, and powerful principle. As a good tree naturally and inevitably produces good fruit, so a heart truly regenerated by God's grace will naturally and inevitably produce the fruit of good works. These works do not save; they are not the cause of our justification. Instead, they are the external, visible, and irrefutable evidence that an internal, invisible work of grace has indeed taken place. They are the visible manifestation of an invisible grace.
+
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
