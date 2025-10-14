@@ -325,7 +325,7 @@ Based on the information presented in the film, the overwhelming conclusion draw
 
 Instead, the film argues that the Bible consistently warns believers about the possibility of falling away from faith (apostasy) and teaches that continued faithfulness and perseverance are necessary for final salvation.
 
-True faith produces good works, indicating that genuine salvation results in a transformed life. The Sermon on the Mount serves as essential teaching for discipleship, and living a holy life is achievable through the Holy Spirit. Repentance entails a change of mind and heart. The necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith.
+True faith produces good works, indicating that genuine salvation results in a transformed life. The Sermon on the Mount serves as essential teaching for discipleship, and living a holy life is achievable through the Holy Spirit. Repentance entails a change of mind and heart. The necessity of perseverance, obedience, and a transformed life as indicators and requirements of true, enduring faith. True faith is an internal reality, but its evidence is external. Works are the visible manifestation of an invisible grace from the true believers.
 
 ![Pasted image 20250925155912.png|500](/img/user/Attachments/Pasted%20image%2020250925155912.png)
 
