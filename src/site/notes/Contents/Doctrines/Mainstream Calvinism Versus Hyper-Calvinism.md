@@ -305,6 +305,6 @@ The perennial quest for theological coherence, while maintaining fidelity to the
 
 ---
 Also see:
-- [[Contents/Doctrines/TULIP\|TULIP]]
+- [[Contents/Doctrines/TULIP VS FACTS\|TULIP VS FACTS]]
 - [[Contents/Doctrines/Sovereignty of God\|Sovereignty of God]]
 - 
