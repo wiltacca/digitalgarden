@@ -148,14 +148,6 @@ Therefore, we can hold the King James Bible in our hands with full confidence, k
 
 Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how to read and understand KJV Bible's English?]]
 
-# 📚 Biblical Dictionary
-
-<iframe width="60%" scrolling="no" height="150" frameborder="0" src="https://www.bibliatodo.com/en/online/diccionario"></iframe>
-
-# 📚 Biblical Concordance
-
-<iframe width="60%" scrolling="no" height="150" frameborder="0" src="https://www.bibliatodo.com/en/online/concordancia"></iframe>
-
 # 🔎 Bible Verse Finder
 
 <script type="text/javascript" src="https://www.kingjamesbibleonline.org/biblesearchwidget.js"></script>
