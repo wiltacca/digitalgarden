@@ -311,6 +311,6 @@ The enduring debate among these positions highlights the profound theological te
 Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
-- [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]
+- [[Contents/Doctrines/Once Saved Always Saved\|Contents/Doctrines/Once Saved Always Saved]]
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
 - [[Contents/Doctrines/Salvation, Work , Faith & Repentance\|Salvation, Work , Faith & Repentance]]

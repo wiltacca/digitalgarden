@@ -338,7 +338,7 @@ Let every soul heed this solemn command, recognizing that salvation is God’s f
 ---
 Also see:
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
-- [[Contents/Doctrines/Doctrine of Once Saved Always Saved\|Doctrine of Once Saved Always Saved]]
+- [[Contents/Doctrines/Once Saved Always Saved\|Contents/Doctrines/Once Saved Always Saved]]
 - [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
 - [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
 - [[Contents/Doctrines/Salvation, Work , Faith & Repentance\|Salvation, Work , Faith & Repentance]]
