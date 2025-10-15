@@ -322,8 +322,6 @@ Faithful attendance at worship, rule-keeping, charity, acts of devotion, Bible r
 
 **This doctrine underlies Jesus’ gospel:** Salvation is by grace alone, through faith alone, in Christ alone, by the operation of the Spirit Ephesians 2:8-9; Titus 3:5.
 
-**Irresistible, sovereign grace:** The wind blows “where it listeth” John 3:8-salvation is God’s initiative, not man's John 1:13.
-
 ---
 ## **Conclusion**
 
