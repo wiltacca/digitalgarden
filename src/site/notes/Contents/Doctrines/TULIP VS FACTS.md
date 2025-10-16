@@ -314,6 +314,6 @@ The enduring nature of this debate is a testament to the fact that Scripture con
 
 ---
 Also see:
+- [[Contents/Doctrines/TULIP VS LOTUS\|TULIP VS LOTUS]]
 - [[Contents/Doctrines/Mainstream Calvinism Versus Hyper-Calvinism\|Mainstream Calvinism Versus Hyper-Calvinism]]
 - [[Contents/Doctrines/Sovereignty of God\|Sovereignty of God]]
-- 

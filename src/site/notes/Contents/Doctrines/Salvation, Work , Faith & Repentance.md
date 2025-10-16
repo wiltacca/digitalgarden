@@ -323,4 +323,4 @@ Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
 - [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
-- [[Contents/Doctrines/Once Saved Always Saved\|Contents/Doctrines/Once Saved Always Saved]]
+- [[Contents/Doctrines/Once Saved Always Saved\|Once Saved Always Saved]]
