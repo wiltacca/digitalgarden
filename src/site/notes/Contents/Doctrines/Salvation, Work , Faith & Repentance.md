@@ -165,7 +165,7 @@ The Lordship Salvation view, articulated by theologians like John MacArthur, arg
 
 The Free Grace position, represented by theologians like Zane Hodges and Charles Ryrie, emphasizes a sharp distinction between salvation and discipleship.
 
-- **Core Argument:** The sole condition for receiving the free gift of eternal life is faith (trust) in Jesus Christ as Savior. Repentance is understood primarily as a change of mind about who Christ is, not necessarily a turning from sinful behavior. Submission to Christ's Lordship and the production of good works are considered aspects of discipleship, which is a subsequent and separate issue from justification.
+- **Core Argument:** The sole condition for receiving the free gift of eternal life is faith (trust) in Jesus Christ as Savior. Repentance is understood primarily as a change of mind about who Christ is (from unbelief to belief), not necessarily a turning from sinful behavior. Submission to Christ's Lordship and the production of good works are considered aspects of discipleship, which is a subsequent and separate issue from justification.
 
 - **Implication:** This view allows for the possibility of a "carnal Christian", a person who is genuinely saved and possesses eternal life but who lives in persistent sin and produces little to no spiritual fruit. According to this position, such a believer will not lose their salvation but may face divine temporal discipline, loss of fellowship with God, and a loss of rewards at the future judgment seat of Christ, but not the loss of heaven itself. Charles Ryrie famously stated, "Every Christian will bear spiritual fruit. Somewhere, sometime, somehow. Otherwise that person is not a believer," which moderates the most extreme forms of this view, but the core distinction between salvation and its results remains. 
 
@@ -175,7 +175,7 @@ The chasm between these two positions is rooted in their differing definitions o
 
 - **Faith:** Is faith simply trust in a promise, or does it entail surrender and commitment?
 
-- **Repentance:** Is it a change of mind about facts, or a change of direction in life?
+- **Repentance:** Is it a change of mind from unbelief to belief, or a change of direction in life?
 
 This debate has profound pastoral consequences. The Lordship position is sometimes criticized for potentially undermining a believer's assurance, causing them to look to their imperfect works for confidence rather than to Christ alone. The Free Grace position is often criticized for promoting a "cheap grace" that offers a license to sin and detaches the Gospel from its inherent call to holiness. 
 
@@ -201,7 +201,7 @@ Godly sorrow is a deep grief and contrition of heart that arises from seeing one
 
 True biblical repentance involves the whole person: the intellect, the emotions, and the will.
 
-- **A Change of Mind:** This is an intellectual change, a new way of thinking about sin, oneself, and God. The sinner who once loved his sin now sees it as vile and detestable. He agrees with God's judgment against his sin. Isaiah 55:7 declares, "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon".
+- **A Change of Mind:** This is an intellectual change from unbelief to belief, a new way of thinking about sin, oneself, and God. The sinner who once loved his sin now sees it as vile and detestable. He agrees with God's judgment against his sin. Isaiah 55:7 declares, "Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon".
 
 - **A Change of Heart:** This is an emotional change, involving genuine sorrow and shame for one's sin. It is the "broken and a contrite heart" that God will not despise Psalm 51:17. David's cry in Psalm 51 after his sin with Bathsheba is the very model of a repentant heart: "Against thee, thee only, have I sinned, and done this evil in thy sight" Psalm 51:4.
 
