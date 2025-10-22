@@ -15,7 +15,7 @@ Bible Knowledge Web (BKW) is dedicated to providing a comprehensive and literal 
 >3. **Biblical Teaching**: Provide detailed and structured Bible study topics that cater to all levels of understanding, from young to mature Christians, fostering a deeper comprehension of biblical truths.
 >4. **Spiritual Growth**: Encourage personal and communal spiritual development through the study of Scripture, and the application of biblical principles in daily life.
 >5. **Proclaim the Gospel:** Share the message of Jesus Christ and the hope of salvation with people from all walks of life.
->6. **Unraveling Chinese folk religions and superstitious beliefs from a Christian perspective.**
+>6. **Unraveling Chinese religions and superstitious beliefs from a Christian perspective.**
 
 💡By adhering to these principles, BKW seeks to glorify God, edify the body of Christ, and reach out to the world with the transformative power of the Gospel!
 
