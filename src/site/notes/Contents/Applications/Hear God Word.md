@@ -132,6 +132,6 @@ The Holy Scriptures  presents a clear and challenging progression in the act of 
 
 ---
 Also see:
-- 
+- [[Contents/Applications/The Armor of God\|The Armor of God]]
 - 
 - 

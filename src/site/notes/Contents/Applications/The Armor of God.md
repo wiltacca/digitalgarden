@@ -64,6 +64,6 @@ The phrase "above all" signifies that this piece covers and protects all the oth
 
 ---
 Also see:
-- 
+- [[Contents/Applications/Hear God Word\|Hear God Word]]
 - 
 - 
