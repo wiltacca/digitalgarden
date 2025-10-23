@@ -87,6 +87,6 @@ The Sermon on the Mount is a call to a radical discipleship, a life lived in sub
 
 ---
 Also see:
+- [[Contents/Applications/Jesus' Parables\|Jesus' Parables]]
 - [[Contents/Applications/Voyage of Life\|Voyage of Life]]
-- 
 - 
