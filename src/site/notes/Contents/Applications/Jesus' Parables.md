@@ -14,6 +14,8 @@ This is a comprehensive analysis of eleven of these pivotal narratives. The meth
 ---
 # Part I: Parables of Social & Religious Confrontation
 
+---
+
 # Chapter 1: The Neighbor As Enemy: Confronting Prejudice In The Parable of The Good Samaritan (Luke 10:25-37)
 
 > [!bible]+ [Luke 10:25-37 - KJV](https://www.biblegateway.com/passage/?search=Luke+10:25-37&version=kjv)
@@ -222,6 +224,8 @@ Furthermore, the Pharisee's primary sin is not simply pride in his own actions, 
 ---
 # Part II: Parables of The Kingdom's Disruptive Nature
 
+---
+
 # Chapter 5: The Uncontrollable Weed: The Subversive Growth of The Kingdom In The Parable of The Mustard Seed (Matthew 13:31-32)
 
 > [!bible]+ [Matthew 13:31-32 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:31-32&version=kjv)
@@ -368,6 +372,8 @@ The extreme violence depicted in the parable, the murder of servants, the burnin
 
 ---
 # Part III: Parables of Authentic Discipleship
+
+---
 
 # Chapter 8: The Fearful Servant: Misunderstanding God's Character In The Parable of The Talents (Matthew 25:14-30)
 
