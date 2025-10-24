@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/applications/jesus-parables/","noteIcon":"","created":"2025-10-24T03:19:21.392+08:00"}
 ---
 
-![Pasted image 20251021174934.png](/img/user/Attachments/Pasted%20image%2020251021174934.png)
+![Pasted image 20251021174934.png|500](/img/user/Attachments/Pasted%20image%2020251021174934.png)
 # A Theological & Historical Analysis of Jesus' Parables
 
 ## Introduction
@@ -16,6 +16,7 @@ This is a comprehensive analysis of eleven of these pivotal narratives. The meth
 
 ---
 
+![Pasted image 20251024161111.png|500](/img/user/Attachments/Pasted%20image%2020251024161111.png)
 # Chapter 1: The Neighbor As Enemy: Confronting Prejudice In The Parable of The Good Samaritan (Luke 10:25-37)
 
 > [!bible]+ [Luke 10:25-37 - KJV](https://www.biblegateway.com/passage/?search=Luke+10:25-37&version=kjv)
@@ -71,7 +72,9 @@ Furthermore, the narrative forces a radical shift in perspective. The victim in 
 
 ---
 
+![Pasted image 20251024161238.png|500](/img/user/Attachments/Pasted%20image%2020251024161238.png)
 # Chapter 2: The Righteous & The Resentful: Exposing Self-Righteousness In The Parable of the Prodigal Son (Luke 15:11-32)
+
 
 > [!bible]+ [Luke 15:11-32 - KJV](https://www.biblegateway.com/passage/?search=Luke+15:11-32&version=kjv)
 > 11. And he said, A certain man had two sons:
@@ -132,6 +135,7 @@ The father's final statement to the older son, "all that I have is thine" functi
 
 ---
 
+![Pasted image 20251024161523.png|500](/img/user/Attachments/Pasted%20image%2020251024161523.png)
 # Chapter 3: The Scandal of Extravagant Grace: Deconstructing Merit In The Parable of The Workers In The Vineyard (Matthew 20:1-16)
 
 > [!bible]+ [Matthew 20:1-16 - KJV](https://www.biblegateway.com/passage/?search=Matthew+20:1-16&version=kjv)
@@ -183,6 +187,8 @@ This story serves as a potent critique of a "meritocracy of salvation." The firs
 The landowner's decision to pay the workers in reverse order is a deliberate piece of theater designed to force this very confrontation. He could have paid each worker privately to avoid conflict. Instead, he stages the payment sequence as a public, pedagogical act. This public display is not for administrative efficiency but for theological instruction. It forces the all-day workers to watch the economy of grace unfold before their eyes, causing their expectation to build ("they expected to receive more") and making their subsequent grumbling an inevitability. Jesus structures the narrative this way to provoke the exact human reaction he wishes to address. The parable is not merely _about_ grace; it is designed to make the listener _feel_ the deep offense of grace when it is viewed through the limited lens of human fairness, thereby exposing the listener's own internal resistance to the sovereign and scandalous generosity of God.
 
 ---
+
+![Pasted image 20251024161708.png|500](/img/user/Attachments/Pasted%20image%2020251024161708.png)
 # Chapter 4: The Great Reversal: Redefining Justification In The Parable of The Pharisee & Tax Collector (Luke 18:9-14)
 
 > [!bible]+ [Luke 18:9-14 - KJV](https://www.biblegateway.com/passage/?search=Luke+18:9-14&version=kjv)
@@ -226,7 +232,8 @@ Furthermore, the Pharisee's primary sin is not simply pride in his own actions, 
 
 ---
 
-# Chapter 5: The Uncontrollable Weed: The Subversive Growth of The Kingdom In The Parable of The Mustard Seed (Matthew 13:31-32)
+![Pasted image 20251024162319.png|500](/img/user/Attachments/Pasted%20image%2020251024162319.png)
+# Chapter 5: The Uncontrollable Mustard Seed: The Subversive Growth of The Kingdom In The Parable of The Mustard Seed (Matthew 13:31-32)
 
 > [!bible]+ [Matthew 13:31-32 - KJV](https://www.biblegateway.com/passage/?search=Matthew+13:31-32&version=kjv)
 > 31. Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
@@ -262,6 +269,7 @@ This suggests that the very nature of the Kingdom is to be an invasive presence 
 
 ---
 
+![Pasted image 20251024162447.png|500](/img/user/Attachments/Pasted%20image%2020251024162447.png)
 # Chapter 6: The King's Emissaries: Re-identifying "The Least of These" In The Parable of The Sheep & Goats (Matthew 25:31-46)
 
 > [!bible]+ [Matthew 25:31-46 - KJV](https://www.biblegateway.com/passage/?search=Matthew+25:31-46&version=kjv)
@@ -322,6 +330,7 @@ The genuine surprise of both the sheep and the goats is theologically crucial. T
 
 ---
 
+![Pasted image 20251024162545.png|500](/img/user/Attachments/Pasted%20image%2020251024162545.png)
 # Chapter 7: The Open Door & The Proper Attire: Inclusion & Transformation In The Parable of The Wedding Banquet (Matthew 22:1-14)
 
 > [!bible]+ [Matthew 22:1-14 - KJV](https://www.biblegateway.com/passage/?search=Matthew+22:1-14&version=kjv)
@@ -375,6 +384,7 @@ The extreme violence depicted in the parable, the murder of servants, the burnin
 
 ---
 
+![Pasted image 20251024162704.png|500](/img/user/Attachments/Pasted%20image%2020251024162704.png)
 # Chapter 8: The Fearful Servant: Misunderstanding God's Character In The Parable of The Talents (Matthew 25:14-30)
 
 > [!bible]+ [Matthew 25:14-30 - KJV](https://www.biblegateway.com/passage/?search=Matthew+25:14-30&version=kjv)
@@ -428,6 +438,7 @@ The master's initial distribution, "according to his several ability" is a cruci
 
 ---
 
+![Pasted image 20251024162802.png|500](/img/user/Attachments/Pasted%20image%2020251024162802.png)
 # Chapter 9: The Unpayable Debt: The Logic of Forgiveness In The Parable of The Unforgiving Servant (Matthew 18:21-35)
 
 > [!bible]+ [Matthew 18:21-35 - KJV](https://www.biblegateway.com/passage/?search=Matthew+18:21-35&version=kjv)
@@ -493,6 +504,7 @@ Jesus constructs the argument using the inescapable logic of economics and mathe
 
 ---
 
+![Pasted image 20251024163152.png|500](/img/user/Attachments/Pasted%20image%2020251024163152.png)
 # Chapter 10: Hearing &  Doing: The Foundational Ethic of The Parable of The Two Builders (Matthew 7:24-27)
 
 > [!bible]+ [Matthew 7:24-27 - KJV](https://www.biblegateway.com/passage/?search=Matthew+7:24-27&version=kjv)
@@ -535,6 +547,7 @@ Crucially, the parable emphasizes that the storm is identical for both builders.
 
 ---
 
+![Pasted image 20251024163334.png|500](/img/user/Attachments/Pasted%20image%2020251024163334.png)
 # Chapter 11: The Personal Flame: Individual Responsibility In The Parable of The Ten Virgins (Matthew 25:1-13)
 
 > [!bible]+ [Matthew 25:1-13 - KJV](https://www.biblegateway.com/passage/?search=Matthew+25:1-13&version=kjv)
