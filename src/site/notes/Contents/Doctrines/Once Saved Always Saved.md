@@ -401,3 +401,4 @@ Also see:
 - [[Contents/Doctrines/Ye Must Be Born Again\|Ye Must Be Born Again]]
 - [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
 - [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
+- [[Contents/Doctrines/The Anatomy of Apostasy\|The Anatomy of Apostasy]]
