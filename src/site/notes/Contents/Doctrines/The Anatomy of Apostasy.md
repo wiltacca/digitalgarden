@@ -6,6 +6,12 @@
 ![Pasted image 20251029174927.png|350](/img/user/Attachments/Pasted%20image%2020251029174927.png)
 # An Exegetical & Theological Analysis of Hebrews 10:26-29
 
+> [!bible]+ [Hebrews 10:26-29 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+10:26-29&version=kjv)
+> 26. For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
+> 27. But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
+> 28. He that despised Moses’ law died without mercy under two or three witnesses:
+> 29. Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
+
 ## Introduction: The Gravest Warning
 
 Within the canon of the New Testament, few passages carry the theological weight and pastoral gravity of Hebrews 10:26-29. It stands as one of the most sobering and challenging texts, issuing a stark warning against the deliberate rejection of Christian faith. For centuries, these verses have served as a focal point for intense theological debate, particularly concerning the doctrines of salvation, apostasy, and the perseverance of the saints. The passage functions as the rhetorical and theological climax of a series of warnings woven throughout the Epistle to the Hebrews, each designed to address a specific and urgent crisis of faith confronting its original audience.
@@ -81,7 +87,8 @@ With the contextual framework established, a detailed examination of the passage
 
 ## The Point of No Return: Defining "Willful Sin" in Hebrews 10:26
 
-> _"For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,"_
+> [!bible]+ [Hebrews 10:26 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+10:26&version=kjv)
+> 26. For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 
 The passage begins with the crucial phrase that defines the specific transgression in view. The meaning hinges on the precise nature of this "willful sin."
 
@@ -97,7 +104,8 @@ This sin is critically different from the unintentional sins for which the Old C
 
 ## The Finality of the Cross: "No More Sacrifice for Sins" in Hebrews 10:27
 
-> _"But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries."_
+> [!bible]+ [Hebrews 10:27 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+10:27&version=kjv)
+> 27. But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
 
 The consequence of this willful apostasy is stark and absolute. The author declares that for such a person, there no longer remains a sacrifice for sins.
 
@@ -115,7 +123,9 @@ With the door to atonement having been slammed shut by the apostate themself, al
 
 ## From Lesser to Greater: The A Fortiori Argument in Hebrews 10:28-29
 
-> _"He that despised Moses' law died without mercy under two or three witnesses: Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?"_
+> [!bible]+ [Hebrews 10:28-29 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+10:28-29&version=kjv)
+> 28. He that despised Moses’ law died without mercy under two or three witnesses:
+> 29. Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 
 To impress upon his readers the extreme gravity of this apostasy, the author employs a powerful rhetorical device common in Jewish reasoning.
 
