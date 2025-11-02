@@ -86,7 +86,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 # **Objection 7: Free Grace Theology Cheapens Grace By Not Requiring Commitment & Good Works.**
 
-- Grace cannot be cheap—or costly—because it is absolutely and unconditionally free (Rom. 3:24 and Rom. 11:6).
+- Grace cannot be cheap—or costly—because it is absolutely and unconditionally free Rom. 3:24 and Rom. 11:6.
 
 - Requiring commitment and good works at the front end or at the back end of the gospel is contrary to grace, which makes no demands.
 
