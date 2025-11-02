@@ -9,7 +9,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 ---
 
-# **Objection #1: Free Grace Is Easy Believism.**
+# **Objection 1: Free Grace Is Easy Believism.**
 
 - No one purposely teaches that believing is easy. The truth is, it isn't always easy to believe. Easy means without difficulty. For many, it is difficult, not easy, to believe. For example, it is not easy to believe   . . . that my sinfulness deserves eternal separation from God.  
       . . . that God loves me in spite of my sin.  
@@ -20,13 +20,13 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 - It may not be easy to believe, but it is simple to believe. Simple means singular, as in there is only one condition for salvation: believe in Jesus Christ as Savor.
 
-- How difficult is [John 3:16](https://ref.ly/John%203.16;nkjv?t=biblia), [Acts 16:31](https://ref.ly/Acts%2016.31;nkjv?t=biblia), and many other verses that say we must only believe to be saved? We must not add to the Scriptures more than they say.
+- How difficult is John 3:16, Acts 16:31, and many other verses that say we must only believe to be saved? We must not add to the Scriptures more than they say.
 
-- Why would God make it difficult? The "God of all grace" ([1 Peter 5:10](https://ref.ly/1%20Pet%205.10;nkjv?t=biblia)) wants all people to be saved ([1 Tim. 2:4](https://ref.ly/1%20Tim.%202.4;nkjv?t=biblia)). He does not make salvation a test of commitment, obedience, or endurance. Christ died for the world ([John 3:16](https://ref.ly/John%203.16;nkjv?t=biblia)) and paid for all sins ([John 1:29](https://ref.ly/John%201.29;nkjv?t=biblia); [1 John 2:2](https://ref.ly/1%20John%202.2;nkjv?t=biblia)). If God gave up His Son for us, why wouldn't He give us everything else we need for our salvation, beginning with a simple condition: believe ([Rom. 8:32](https://ref.ly/Rom.%208.32;nkjv?t=biblia))?
+- Why would God make it difficult? The "God of all grace" 1 Peter 5:10 wants all people to be saved 1 Tim. 2:4. He does not make salvation a test of commitment, obedience, or endurance. Christ died for the world John 3:16 and paid for all sins John 1:29 and 1 John 2:2. If God gave up His Son for us, why wouldn't He give us everything else we need for our salvation, beginning with a simple condition: believe Rom. 8:32?
 
 ---
 
-# **Objection #2: Free Grace Believes A Person Can Reject Jesus As Lord But Still Be Saved.**
+# **Objection 2: Free Grace Believes A Person Can Reject Jesus As Lord But Still Be Saved.**
 
 - No one teaches that a person can reject Jesus as Master but believe in Him for salvation. This is an unfair criticism based on inference. It would be contrary to logic to believe in Jesus as Savior but reject Him as Lord and Master. Free Grace simply teaches that believing in Jesus as Savior is a separate issue from committing to Him as Lord and Master.
 
@@ -38,7 +38,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 ---
 
-# **Objection #3: Free Grace Does Not Teach That An Unbeliever Must Turn From Sins (Repent) To Be Saved.**
+# **Objection 3: Free Grace Does Not Teach That An Unbeliever Must Turn From Sins (Repent) To Be Saved.**
 
 - This charge is true if repent is defined as turning from sins, because that would add human effort.
 
@@ -48,7 +48,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 ---
 
-# **Objection #4: Free Grace Believes A Saved Person Does Not Have To Show Evidence of Good Works, Which Is Contrary To [James 2:14-26](https://ref.ly/James%202.14-26;nkjv?t=biblia).**
+# **Objection 4: Free Grace Believes A Saved Person Does Not Have To Show Evidence of Good Works, Which Is Contrary To James 2:14-26.**
 
 - No one says this. Rather, Free Grace teaches that good works can be evidence but not proof of salvation. Probably all Free Grace teachers agree that all believers have good works. However, these works cannot always be seen so it is impossible to use them as final proof of salvation.
 
@@ -56,11 +56,11 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 - If works can prove salvation, then we must ask how many works, how often, and how long? There is no objective standard that answers these questions; it is up to the subjective opinion and partial knowledge of another's conduct and motives by the one passing judgment. No one can judge these things except God. Believing in the objective reality of the Lord Jesus Christ as one's Savior can be known by the believer.
 
-- [James 2:14-26](https://ref.ly/James%202.14-26;nkjv?t=biblia) is not discussing salvation from hell. In the context, James is telling his saved readers how to be delivered (saved) from the uselessness of faith that does not work. Faith that does not help others is useless to those in need and useless in the assessment of the believer's life at the Judgment Seat of Christ. 
+- James 2:14-26 is not discussing salvation from hell. In the context, James is telling his saved readers how to be delivered (saved) from the uselessness of faith that does not work. Faith that does not help others is useless to those in need and useless in the assessment of the believer's life at the Judgment Seat of Christ. 
 
 ---
 
-# **Objection #5: Free Grace Leads To False Assurance of Salvation.**
+# **Objection 5: Free Grace Leads To False Assurance of Salvation.**
 
 - Only salvation by grace through faith (a conviction or persuasion that something is true) allows one to have full assurance, because it is based on objective realities—Christ's death as payment for sin, His resurrection for life, and the veracity of His promise to save those who believe.
 
@@ -70,7 +70,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 ---
 
-# **Objection #6: Free Grace Leads To License To Sin.**
+# **Objection 6: Free Grace Leads To License To Sin.**
 
 - This is a misleading charge based on conjecture more than reality. Rarely can the critic give an example of someone who uses grace as an excuse to live licentiously. The objector should be asked to cite examples.
 
@@ -78,19 +78,19 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 - This objection is answered conclusively in Romans chapters 6-8 which explain that God's grace gives believers a new life, a new position, and a new power to live righteously.
 
-- Grace trains us to live righteously ([Titus 2:11-13](https://ref.ly/Titus%202.11-13;nkjv?t=biblia)); we do not earn grace by living righteously ([Titus 3:5](https://ref.ly/Titus%203.5;nkjv?t=biblia)). Training to live a godly life is a lifetime process for every believer.
+- Grace trains us to live righteously Titus 2:11-13; we do not earn grace by living righteously Titus 3:5. Training to live a godly life is a lifetime process for every believer.
 
-- Believers are held accountable for how they live. Those who teach Free Grace also teach responsibility and accountability. At the Judgment Seat of Christ, all believers will have to give an account of how they lived. They will be rewarded in this life and in eternity or suffer the loss of rewards ([Rom. 14:10](https://ref.ly/Rom.%2014.10;nkjv?t=biblia); [2 Cor. 5:10](https://ref.ly/2%20Cor.%205.10;nkjv?t=biblia)).
+- Believers are held accountable for how they live. Those who teach Free Grace also teach responsibility and accountability. At the Judgment Seat of Christ, all believers will have to give an account of how they lived. They will be rewarded in this life and in eternity or suffer the loss of rewards Rom. 14:10 and 2 Cor. 5:10.
 
 ---
 
-# **Objection #7: Free Grace Theology Cheapens Grace By Not Requiring Commitment & Good Works.**
+# **Objection 7: Free Grace Theology Cheapens Grace By Not Requiring Commitment & Good Works.**
 
-- Grace cannot be cheap—or costly—because it is absolutely and unconditionally free ([Rom. 3:24](https://ref.ly/Rom.%203.24;nkjv?t=biblia); [11:6](https://ref.ly/Rom%2011.6;nkjv?t=biblia)).
+- Grace cannot be cheap—or costly—because it is absolutely and unconditionally free (Rom. 3:24 and Rom. 11:6).
 
 - Requiring commitment and good works at the front end or at the back end of the gospel is contrary to grace, which makes no demands.
 
-- Though grace does not demand commitment and good works, grace motivates and teaches us to live godly lives ([Romans 12:1-2](https://ref.ly/Rom%2012.1-2;nkjv?t=biblia); [Eph. 2:8-10](https://ref.ly/Eph.%202.8-10;nkjv?t=biblia); [Titus 2:11-13](https://ref.ly/Titus%202.11-13;nkjv?t=biblia)).
+- Though grace does not demand commitment and good works, grace motivates and teaches us to live godly lives Romans 12:1-2 and Eph. 2:8-10 and Titus 2:11-13.
 
 - The gospel of grace is about eternal salvation provided by Jesus Christ's work; discipleship and the Christian life is about our commitment and good works.
 
@@ -98,27 +98,27 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 ---
 
-# **Objection #8: Free Grace Teaches That Faith Is Merely Mental Assent.**
+# **Objection 8: Free Grace Teaches That Faith Is Merely Mental Assent.**
 
 - Though some Free Grace proponents teach this, not all do.
 
 - Obviously, if someone believes a propositional truth, there has to be mental agreement to it.
 
-- Sometimes the offer of salvation emphasizes mental assent while at other times it appeals to the will also ([John 4:10](https://ref.ly/John%204.10;nkjv?t=biblia); [8:24](https://ref.ly/John%208.24;nkjv?t=biblia); [1 John 3:23](https://ref.ly/1%20John%203.23;nkjv?t=biblia); [5:1](https://ref.ly/1%20John%205.1;nkjv?t=biblia)).
+- Sometimes the offer of salvation emphasizes mental assent while at other times it appeals to the will also John 4:10 and John 8:24; 1 John 3:23;  1 John 5:1.
 
 - It is questionable whether we can psychologize how and why a person appropriates the offer of salvation.
 
 ---
 
-# **Objection #9: Free Grace Is Antinomian.**
+# **Objection 9: Free Grace Is Antinomian.**
 
-- Since antinomian means no law or without law, we have to define what law is in view. If the Mosaic Law, then yes, Free Grace teaches that Christians are not under that Law ([Rom. 6:14](https://ref.ly/Rom.%206.14;nkjv?t=biblia); [7:4](https://ref.ly/Rom%207.4;nkjv?t=biblia); [10:4](https://ref.ly/Rom%2010.4;nkjv?t=biblia)). That does not mean that Free Grace teaches license because the New Testament says believers are under the Royal Law ([James 2:8](https://ref.ly/James%202.8;nkjv?t=biblia)), the Law of Christ ([Gal. 6:2](https://ref.ly/Gal.%206.2;nkjv?t=biblia)), and a new commandment ([John 13:34](https://ref.ly/John%2013.34;nkjv?t=biblia); [1 John 3:18](https://ref.ly/1%20John%203.18;nkjv?t=biblia)), which are commands to love one another. This fulfills the essence of the Mosaic Law ([Gal. 5:14](https://ref.ly/Gal.%205.14;nkjv?t=biblia)).
+- Since antinomian means no law or without law, we have to define what law is in view. If the Mosaic Law, then yes, Free Grace teaches that Christians are not under that Law (Rom. 6:14 and Rom. 7:4 and Rom. 10:4). That does not mean that Free Grace teaches license because the New Testament says believers are under the Royal Law James 2:8, the Law of Christ Gal. 6:2, and a new commandment John 13:34; 1 John 3:18, which are commands to love one another. This fulfills the essence of the Mosaic Law Gal. 5:14.
 
-- Contrary to teaching lawlessness, Free Grace teaches responsibility and accountability with consequences of divine discipline ([Heb. 12:5-11](https://ref.ly/Heb.%2012.5-11;nkjv?t=biblia)).
+- Contrary to teaching lawlessness, Free Grace teaches responsibility and accountability with consequences of divine discipline Heb. 12:5-11.
 
 ---
 
-# **Objection #10: Free Grace Believes A Person Can Apostatize (Fall Away From The Christian Faith) & Still Be Saved.**
+# **Objection 10: Free Grace Believes A Person Can Apostatize (Fall Away From The Christian Faith) & Still Be Saved.**
 
 - We should first try to determine whether the person understood and believed the biblical gospel. It is possible that the assumed or professed Christian was never saved.
 
@@ -126,13 +126,13 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 - The book of Hebrews warns of severe consequences for believers who fall away from the faith.
 
-- The grace of God covers every sin. Salvation that cannot be earned by what one does cannot be lost by what one does. Even if one no longer believes, God is faithful to His promise to save ([2 Tim. 2:11-13](https://ref.ly/2%20Tim.%202.11-13;nkjv?t=biblia)).
+- The grace of God covers every sin. Salvation that cannot be earned by what one does cannot be lost by what one does. Even if one no longer believes, God is faithful to His promise to save 2 Tim. 2:11-13.
 
 ---
 
-# **Objection # 11: Free Grace Is A Recent Historical & Theological Aberration.**
+# **Objection 11: Free Grace Is A Recent Historical & Theological Aberration.**
 
-- Salvation by God's free grace has always been taught by the timeless Scriptures. No one has ever been saved apart from God's free grace ([Gen. 15:6](https://ref.ly/Gen.%2015.6;nkjv?t=biblia); [Rom. 4:3-4](https://ref.ly/Rom.%204.3-4;nkjv?t=biblia); [Gal. 3:5-9](https://ref.ly/Gal.%203.5-9;nkjv?t=biblia)).
+- Salvation by God's free grace has always been taught by the timeless Scriptures. No one has ever been saved apart from God's free grace Gen. 15:6 and  Rom. 4:3-4 and Gal. 3:5-9.
 
 - Grace as a free unconditional gift of God has been controversial since the beginning of the church as seen in the legalists' opposition to the Apostle Paul.
 
@@ -144,7 +144,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 ---
 
-# **Objection #12: The Free Grace Movement Is An Irrelevant Minority Movement**
+# **Objection 12: The Free Grace Movement Is An Irrelevant Minority Movement**
 
 - It may well be a minority movement, but isn't that always part and parcel of most movements?
 
