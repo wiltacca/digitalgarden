@@ -112,7 +112,7 @@ Since the gospel was first preached, people have objected to the Free Grace teac
 
 # **Objection 9: Free Grace Is Antinomian.**
 
-- Since antinomian means no law or without law, we have to define what law is in view. If the Mosaic Law, then yes, Free Grace teaches that Christians are not under that Law (Rom. 6:14 and Rom. 7:4 and Rom. 10:4). That does not mean that Free Grace teaches license because the New Testament says believers are under the Royal Law James 2:8, the Law of Christ Gal. 6:2, and a new commandment John 13:34; 1 John 3:18, which are commands to love one another. This fulfills the essence of the Mosaic Law Gal. 5:14.
+- Since antinomian means no law or without law, we have to define what law is in view. If the Mosaic Law, then yes, Free Grace teaches that Christians are not under that Law Rom. 6:14 and Rom. 7:4 and Rom. 10:4. That does not mean that Free Grace teaches license because the New Testament says believers are under the Royal Law James 2:8, the Law of Christ Gal. 6:2, and a new commandment John 13:34; 1 John 3:18, which are commands to love one another. This fulfills the essence of the Mosaic Law Gal. 5:14.
 
 - Contrary to teaching lawlessness, Free Grace teaches responsibility and accountability with consequences of divine discipline Heb. 12:5-11.
 
@@ -160,7 +160,7 @@ When we preach the gospel of God's free grace we will encounter objections. We h
 
 The final verdict on any theological system must be an accurate interpretation of Scripture. Many objections to the gospel of God's free grace come from poor interpretations of the Bible, misunderstandings of Free Grace teaching, or rhetorical canards. Free Grace exalts the God of all grace, the Lordship of Jesus Christ, and the total sufficiency of Christ's work on behalf of all people. Only a proper understanding of God's grace and salvation can give people full assurance of salvation and free them to love, grow in that grace, and share it with others.
 
-Original Sources: https://www.gracelife.org/resources/gracenotes/?id=90&lang=eng & https://www.gracelife.org/resources/gracenotes/?lang=eng&id=91#top
+Original Sources: https://www.gracelife.org/resources/gracenotes/?id=90&lang=eng
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
