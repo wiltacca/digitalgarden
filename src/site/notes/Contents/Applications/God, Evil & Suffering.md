@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/applications/god-evil-and-suffering/","noteIcon":"","created":"2025-07-16T18:00:14.134+08:00"}
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/edxLjQhEk4g?si=KDBdtDkcKnjQst-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+![Pasted image 20251106163939.png|500](/img/user/Attachments/Pasted%20image%2020251106163939.png)
 # The Questions About God, Evil & Suffering
 
 The question concerning the nature of God in light of the existence of evil and suffering is one of the most profound and vexing inquiries that has beset the hearts of men throughout the ages. It is a query that probes the very depths of faith and wrestles with the character of our Almighty Creator. To address this, we must turn not to the philosophies of men, but to the unerring and complete revelation of God in the Holy Scripture.
