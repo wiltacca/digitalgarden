@@ -620,6 +620,5 @@ When read with historical and theological integrity, the parables cease to be re
 
 ---
 Also see:
-- [[Contents/Applications/Sermon On The Mount\|Sermon On The Mount]]
 - [[Contents/Applications/Voyage of Life\|Voyage of Life]]
 - 

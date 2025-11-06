@@ -83,6 +83,5 @@ In conclusion, Thomas Cole's "Voyage of Life" is a profound allegorical series t
 
 ---
 Also see:
-- [[Contents/Applications/Sermon On The Mount\|Sermon On The Mount]]
 - [[Contents/Applications/Jesus' Parables\|Jesus' Parables]]
 - 
