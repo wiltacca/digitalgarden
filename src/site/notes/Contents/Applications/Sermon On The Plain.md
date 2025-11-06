@@ -40,7 +40,7 @@ Perhaps the most distinctive theological motif in Luke's Gospel is that of the "
 
 Flowing directly from the theme of reversal is Luke's persistent and profound concern for social justice and God's preferential care for the poor, the oppressed, and social outsiders. Jesus' inaugural sermon in his hometown of Nazareth in Luke 4:16-30 sets the stage for his entire ministry. There, he reads from the prophet Isaiah, proclaiming his mission as one of bringing "gospel to the poor" "deliverance to the captives" and "to set at liberty them that are bruised". This programmatic declaration finds its most detailed ethical application in the Sermon on the Plain. The sermon's focus on literal, material poverty and hunger is not incidental; it is central to Luke's portrayal of a Messiah whose kingdom brings tangible liberation and restoration to those most in need.
 
-In this way, the Sermon on the Plain functions as a "Lukan Manifesto." It is the carefully crafted theological and ethical core of his entire narrative. The prophetic overture of the Magnificat announces the theme of reversal, the Nazareth sermon declares Jesus' mission in relation to it, and the Sermon on the Plain provides the definitive ethical framework for what it means to live as a citizen of this upside-down kingdom. It is the lens through which the rest of the Gospel, including the unique Lukan parables of the Good Samaritan, the Rich Fool, the Prodigal Son, and the Rich Man and Lazarus, as well as the encounter with Zacchaeus—must be interpreted.
+In this way, the Sermon on the Plain functions as a "Lukan Manifesto." It is the carefully crafted theological and ethical core of his entire narrative. The prophetic overture of the Magnificat announces the theme of reversal, the Nazareth sermon declares Jesus' mission in relation to it, and the Sermon on the Plain provides the definitive ethical framework for what it means to live as a citizen of this upside-down kingdom. It is the lens through which the rest of the Gospel, including the unique Lukan parables of the Good Samaritan, the Rich Fool, the Prodigal Son, and the Rich Man and Lazarus, as well as the encounter with Zacchaeus must be interpreted.
 
 ---
 
@@ -48,7 +48,7 @@ In this way, the Sermon on the Plain functions as a "Lukan Manifesto." It is the
 
 The sermon unfolds in a logical progression, moving from a foundational declaration of the kingdom's values to the radical ethics that flow from them, and culminating in an urgent call to embodied obedience. A close exegetical reading reveals a masterfully constructed discourse designed to reorient the disciple's entire way of being in the world.
 
-## The Setting: A Theology of the "Level Place" in Luke 6:17-19
+## The Setting: A Theology of the "in the plain" in Luke 6:17-19
 
 > [!bible]+ [Luke 6:17-19 - KJV](https://www.biblegateway.com/passage/?search=Luke+6:17-19&version=kjv)
 > 17. And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
