@@ -173,7 +173,7 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
   </p>
 </form>
 
-**_Copyright © 2025 Bible Knowledge Web. All rights reserved. Share this website click below._**
+**_Copyright © 2026 Bible Knowledge Web. All rights reserved. Share this website click below._**
 
 <!-- AddToAny BEGIN -->
 <div class="a2a_kit a2a_kit_size_32 a2a_default_style" data-a2a-url="https://bkw.netlify.app/" data-a2a-title="Bible Knowledge Web">
