@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/read-and-understand-kjv-bible-english/","noteIcon":"","created":"2025-04-25T23:35:59.344+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/read-and-understand-kjv-bible-english/","noteIcon":"","created":"2025-04-25T23:35:59.344+08:00","dg-note-properties":{"aliases":["how to read and understand KJV Bible's English?"]}}
 ---
 
 ![Pasted image 20250426175619.png](/img/user/Attachments/Pasted%20image%2020250426175619.png)
@@ -30,7 +30,7 @@ Reading it with faith and respect will help foster better understanding and appl
 
 # **3. Familiarize Yourself With KJV-Specific Language**
 
-![Pasted image 20250421023843.png|200](/img/user/Attachments/Pasted%20image%2020250421023843.png)
+![Pasted image 20250421023843.png\|200](/img/user/Attachments/Pasted%20image%2020250421023843.png)
 
 💡The KJV uses older forms of English that include vocabulary and grammar uncommon today. 
 

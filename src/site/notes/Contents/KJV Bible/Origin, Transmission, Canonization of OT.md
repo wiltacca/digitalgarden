@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/origin-transmission-canonization-of-ot/","noteIcon":"","created":"2025-08-05T17:39:10.572+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/origin-transmission-canonization-of-ot/","noteIcon":"","created":"2025-08-05T17:39:10.572+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # The Origin, Transmission & Canonization of The Old Testament Books

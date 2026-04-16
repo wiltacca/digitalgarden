@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/tithing-in-the-new-testament-church/","noteIcon":"","created":"2025-05-01T02:39:55.031+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/tithing-in-the-new-testament-church/","noteIcon":"","created":"2025-05-01T02:39:55.031+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 
-![Pasted image 20250501023644.png|450](/img/user/Attachments/Pasted%20image%2020250501023644.png)
+![Pasted image 20250501023644.png\|450](/img/user/Attachments/Pasted%20image%2020250501023644.png)
 
 # 1. The Origin & Practice of Tithing In The Old Testament
 

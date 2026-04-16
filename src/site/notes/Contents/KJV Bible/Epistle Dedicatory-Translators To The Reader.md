@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/epistle-dedicatory-translators-to-the-reader/","noteIcon":"","created":"2025-08-05T16:56:30.537+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/epistle-dedicatory-translators-to-the-reader/","noteIcon":"","created":"2025-08-05T16:56:30.537+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250805164320.png|400](/img/user/Attachments/Pasted%20image%2020250805164320.png)
+![Pasted image 20250805164320.png\|400](/img/user/Attachments/Pasted%20image%2020250805164320.png)
 
 The 1611 King James Bible was prefaced by two articles, “The Epistle Dedicatory” and “The Translators to the Reader.” These articles are presented here in their entirety.
 

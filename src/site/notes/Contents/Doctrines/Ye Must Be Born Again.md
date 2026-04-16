@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/ye-must-be-born-again/","noteIcon":"","created":"2025-04-29T18:57:49.016+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/ye-must-be-born-again/","noteIcon":"","created":"2025-04-29T18:57:49.016+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250430025108.png|300](/img/user/Attachments/Pasted%20image%2020250430025108.png)
+![Pasted image 20250430025108.png\|300](/img/user/Attachments/Pasted%20image%2020250430025108.png)
 # The Story of Nicodemus
 
 John 3:1-8 is one of the central passages in all of Scripture regarding the doctrine of the **new birth** or **regeneration**.

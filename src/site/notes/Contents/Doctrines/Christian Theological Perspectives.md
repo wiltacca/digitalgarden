@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/christian-theological-perspectives/","noteIcon":"","created":"2025-05-29T17:25:34.022+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/christian-theological-perspectives/","noteIcon":"","created":"2025-05-29T17:25:34.022+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 

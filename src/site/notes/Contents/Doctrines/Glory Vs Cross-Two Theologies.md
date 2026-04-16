@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/glory-vs-cross-two-theologies/","noteIcon":"","created":"2025-07-10T17:04:44.882+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/glory-vs-cross-two-theologies/","noteIcon":"","created":"2025-07-10T17:04:44.882+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 ![Pasted image 20250709185606.png](/img/user/Attachments/Pasted%20image%2020250709185606.png)
@@ -37,7 +37,7 @@ This passage reveals that **human wisdom**, whether Jewish demand for miraculous
 
 ## Fundamental Distinctions Between The Two Theologies
 
-![Pasted image 20250709185859.png|800](/img/user/Attachments/Pasted%20image%2020250709185859.png)
+![Pasted image 20250709185859.png\|800](/img/user/Attachments/Pasted%20image%2020250709185859.png)
 
 The theology of glory and the theology of the cross represent fundamentally different approaches to understanding God, salvation, and Christian living. These distinctions extend far beyond mere theological preference to encompass entirely different worldviews.
 ### Source of Knowledge & Revelation

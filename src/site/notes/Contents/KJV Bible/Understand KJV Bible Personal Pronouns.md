@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-kjv-bible-personal-pronouns/","noteIcon":"","created":"2025-04-24T19:00:45.918+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-kjv-bible-personal-pronouns/","noteIcon":"","created":"2025-04-24T19:00:45.918+08:00","dg-note-properties":{"aliases":["how to understand KJV Bible personal pronouns?"]}}
 ---
 
 # Why You Need To Understand KJV Personal Pronouns?
@@ -30,7 +30,7 @@ The English of our King James Bible (New Testament) is translated from Greek - w
 ---
 # All KJV Pronouns Are Either Singular or Plural 
 
-![Pasted image 20250421023843.png|200](/img/user/Attachments/Pasted%20image%2020250421023843.png)
+![Pasted image 20250421023843.png\|200](/img/user/Attachments/Pasted%20image%2020250421023843.png)
 
 | <font color="#00b0f0">All the "T" pronouns are SINGULAR</font> | <font color="#00b0f0">All the "Y" pronouns are PLURAL</font> |
 | -------------------------------------------------------------- | ------------------------------------------------------------ |

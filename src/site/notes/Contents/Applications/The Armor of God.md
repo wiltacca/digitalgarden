@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/the-armor-of-god/","noteIcon":"","created":"2025-10-23T02:55:58.821+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/the-armor-of-god/","noteIcon":"","created":"2025-10-23T02:55:58.821+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20251023025817.png|350](/img/user/Attachments/Pasted%20image%2020251023025817.png)
+![Pasted image 20251023025817.png\|350](/img/user/Attachments/Pasted%20image%2020251023025817.png)
 
 Ephesians 6:10–18, is one of the most vital instructions given to the church by the Apostle Paul. It is a divine directive for spiritual warfare, providing the believer with a complete understanding of the nature of our conflict and the heavenly provision for our victory. 
 # Introduction To The Spiritual Warfare

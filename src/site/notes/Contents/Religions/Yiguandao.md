@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/yiguandao/","noteIcon":"","created":"2025-07-23T02:51:31.068+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/yiguandao/","noteIcon":"","created":"2025-07-23T02:51:31.068+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Yiguandao's Philosophy of Universal Religious Unity
 
 # 一貫道普世宗教統一哲學
 
-![Pasted image 20250723185022.png|450](/img/user/Attachments/Pasted%20image%2020250723185022.png)
+![Pasted image 20250723185022.png\|450](/img/user/Attachments/Pasted%20image%2020250723185022.png)
 
 # Part I: Theological & Philosophical Foundations
 

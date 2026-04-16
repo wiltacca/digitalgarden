@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/hear-god-word/","noteIcon":"","created":"2025-07-21T17:09:15.975+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/hear-god-word/","noteIcon":"","created":"2025-07-21T17:09:15.975+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 ![Pasted image 20250721171010.png](/img/user/Attachments/Pasted%20image%2020250721171010.png)

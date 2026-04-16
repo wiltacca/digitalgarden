@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/who-killed-jesus/","noteIcon":"","created":"2025-07-24T03:31:29.691+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/who-killed-jesus/","noteIcon":"","created":"2025-07-24T03:31:29.691+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # The Crucifixion of Jesus of Nazareth: The Five Convergent Forces
 
-![Pasted image 20250724152826.png|500](/img/user/Attachments/Pasted%20image%2020250724152826.png)
+![Pasted image 20250724152826.png\|500](/img/user/Attachments/Pasted%20image%2020250724152826.png)
 ## Introduction
 
 The execution of Jesus of Nazareth by crucifixion stands as a pivotal moment in Western history. It was not the result of a single cause but a nexus event, a historical singularity where multiple, powerful, and interlocking forces converged at a precise moment in 1st-century Judea. The event's historicity is nearly universally accepted by scholars, confirmed not only by Christian sources but also by Roman and Jewish historians like Tacitus and Josephus, who record that Pontius Pilate, the Roman governor, condemned Jesus to death. This report posits that the crucifixion can be best understood as the violent outcome of a perfect storm of political pragmatism, religious anxiety, military protocol, popular agitation, and profound cultural misunderstanding.  

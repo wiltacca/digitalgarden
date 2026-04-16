@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/buddhism-salvation/","noteIcon":"","created":"2025-07-23T18:51:59.095+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/buddhism-salvation/","noteIcon":"","created":"2025-07-23T18:51:59.095+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Grace Versus Awakening: A Comparative Analysis of Salvation In Christianity & Buddhism
 
 # 恩典與覺醒：基督教與佛教救贖論的比較分析
 
-![Pasted image 20250718180138.png|500](/img/user/Attachments/Pasted%20image%2020250718180138.png)
+![Pasted image 20250718180138.png\|500](/img/user/Attachments/Pasted%20image%2020250718180138.png)
 # Part I: The Christian Paradigm of Salvation: Redemption By Grace
 
 # 第一部分：基督教的救贖範式：藉恩典得救贖

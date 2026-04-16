@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/once-saved-always-saved/","noteIcon":"","created":"2025-05-30T03:15:27.567+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/once-saved-always-saved/","noteIcon":"","created":"2025-05-30T03:15:27.567+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVN7NXqwjro?si=aHho4Z8Md124-DAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

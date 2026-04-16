@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/sermon-on-the-plain/","noteIcon":"","created":"2025-11-06T16:16:24.041+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/sermon-on-the-plain/","noteIcon":"","created":"2025-11-06T16:16:24.041+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20251030175108.png|500](/img/user/Attachments/Pasted%20image%2020251030175108.png)
+![Pasted image 20251030175108.png\|500](/img/user/Attachments/Pasted%20image%2020251030175108.png)
 
 # The Manifesto of The Level Place: The Sermon On The Plain
 

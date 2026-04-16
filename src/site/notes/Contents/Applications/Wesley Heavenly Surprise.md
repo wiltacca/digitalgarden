@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/wesley-heavenly-surprise/","noteIcon":"","created":"2025-05-29T18:23:17.760+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/wesley-heavenly-surprise/","noteIcon":"","created":"2025-05-29T18:23:17.760+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250529181405.png|330](/img/user/Attachments/Pasted%20image%2020250529181405.png)
+![Pasted image 20250529181405.png\|330](/img/user/Attachments/Pasted%20image%2020250529181405.png)
 
 # John Wesley’s Vision of Heavenly Surprises: A Theological Exploration of Unity, Grace, & Assurance  
 

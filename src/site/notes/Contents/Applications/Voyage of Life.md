@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/voyage-of-life/","noteIcon":"","created":"2025-07-21T16:59:33.716+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/voyage-of-life/","noteIcon":"","created":"2025-07-21T16:59:33.716+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # The Voyage of Life
@@ -11,7 +11,7 @@ These allegorical paintings depict the stages of human life: Childhood, Youth, M
 ---
 # Childhood
 
-![Pasted image 20250721170034.png|600](/img/user/Attachments/Pasted%20image%2020250721170034.png)
+![Pasted image 20250721170034.png\|600](/img/user/Attachments/Pasted%20image%2020250721170034.png)
 
 In the first painting, "Childhood," we see a small, golden boat emerging from a dark, mysterious cave, symbolizing the birth of a human being. The boat is guided by an angel, representing divine protection and guidance. The river is calm and the landscape is lush, filled with blooming flowers and vibrant greenery, signifying the innocence and purity of childhood. The child, full of wonder and joy, reaches out towards the world, symbolizing the curiosity and potential inherent in every new life.
 
@@ -25,7 +25,7 @@ In the first painting, "Childhood," we see a small, golden boat emerging from a 
 ---
 # Youth
 
-![Pasted image 20250721170119.png|600](/img/user/Attachments/Pasted%20image%2020250721170119.png)
+![Pasted image 20250721170119.png\|600](/img/user/Attachments/Pasted%20image%2020250721170119.png)
 
 In the second painting, "Youth," the river becomes wider and more turbulent, symbolizing the increasing challenges and adventures of adolescence. The young man now steers the boat himself, filled with ambition and dreams. In the distance, we see a magnificent castle in the sky, representing the aspirations and ideals of youth. The angel watches from the shore, signifying that while divine guidance is still present, the individual must now navigate life's journey more independently.
 
@@ -39,7 +39,7 @@ In the second painting, "Youth," the river becomes wider and more turbulent, sym
 ---
 # Manhood
 
-![Pasted image 20250721170205.png|600](/img/user/Attachments/Pasted%20image%2020250721170205.png)
+![Pasted image 20250721170205.png\|600](/img/user/Attachments/Pasted%20image%2020250721170205.png)
 
 
 The third painting, "Manhood," portrays a stormy and perilous river, reflecting the trials and tribulations of adulthood. The man struggles to navigate the treacherous waters, surrounded by dark, foreboding cliffs and a tempestuous sky. The angel, now barely visible, prays for the man's safety from the heavens, illustrating the idea that divine assistance is always present, even if not immediately apparent. The man is depicted with a determined expression, facing the harsh realities of life with courage and resilience.
@@ -54,7 +54,7 @@ The third painting, "Manhood," portrays a stormy and perilous river, reflecting 
 ---
 # Old Age
 
-![Pasted image 20250721170237.png|600](/img/user/Attachments/Pasted%20image%2020250721170237.png)
+![Pasted image 20250721170237.png\|600](/img/user/Attachments/Pasted%20image%2020250721170237.png)
 
 In the final painting, "Old Age," the river has calmed once more, leading to the vast, open sea, symbolizing the end of life's journey and the transition to the afterlife. The old man, now frail, is seated in the boat, gazing upwards toward the heavens where angels await him, ready to receive his soul. The ethereal light breaking through the clouds represents divine glory and eternal peace. The man's journey is complete, and he is about to enter the realm of eternal rest and salvation.
 

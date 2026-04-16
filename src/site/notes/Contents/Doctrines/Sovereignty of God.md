@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/sovereignty-of-god/","noteIcon":"","created":"2025-07-16T18:21:31.204+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/sovereignty-of-god/","noteIcon":"","created":"2025-07-16T18:21:31.204+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250711033505.png|500](/img/user/Attachments/Pasted%20image%2020250711033505.png)
+![Pasted image 20250711033505.png\|500](/img/user/Attachments/Pasted%20image%2020250711033505.png)
 
 # **The Absolute Sovereignty of God Over All Nations & Events**
 

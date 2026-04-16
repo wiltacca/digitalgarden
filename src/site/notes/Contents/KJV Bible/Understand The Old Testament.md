@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-the-old-testament/","noteIcon":"","created":"2025-08-05T18:02:30.680+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-the-old-testament/","noteIcon":"","created":"2025-08-05T18:02:30.680+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Introduction To The Pentateuch

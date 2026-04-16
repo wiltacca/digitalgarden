@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/tulip-vs-facts/","noteIcon":"","created":"2025-10-02T18:31:52.097+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/tulip-vs-facts/","noteIcon":"","created":"2025-10-02T18:31:52.097+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 ![Pasted image 20251001025901.png](/img/user/Attachments/Pasted%20image%2020251001025901.png)

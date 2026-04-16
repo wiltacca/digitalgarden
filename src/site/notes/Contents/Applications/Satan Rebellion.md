@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/satan-rebellion/","noteIcon":"","created":"2025-07-29T16:43:48.365+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/satan-rebellion/","noteIcon":"","created":"2025-07-29T16:43:48.365+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Satan's Rebellion Against God: A Theological Analysis of Divine Hierarchy & Angelic Submission In Hebrews 1:3-9
 
-![Pasted image 20250729164703.png|350](/img/user/Attachments/Pasted%20image%2020250729164703.png)
+![Pasted image 20250729164703.png\|350](/img/user/Attachments/Pasted%20image%2020250729164703.png)
 
 The rebellion of Satan against the Almighty God represents one of the most profound theological mysteries in Christian doctrine, revealing the catastrophic consequences of pride and the rejection of divine authority. Through careful examination of Hebrews 1:3-9, we discover that <u>Satan's rebellion fundamentally stems from his refusal to acknowledge and worship Jesus Christ as the divine Son of God, who possesses inherent superiority over all angelic beings</u>. The passage illuminates the eternal hierarchy established by God, wherein Christ, as "the brightness of his glory, and the express image of his person," holds an exalted position that demands absolute submission and worship from all created beings, including the highest-ranking angels. Satan's rebellion, therefore, emerges not merely as disobedience, but as a direct challenge to the divine order that places Christ above all angelic hosts. This theological framework provides the essential context for understanding why the angel who became Satan chose the path of rebellion, ultimately leading to his expulsion from heaven and his continued opposition to God's kingdom.
 

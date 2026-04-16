@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/spiritual-poverty/","noteIcon":"","created":"2025-07-18T02:35:53.672+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/spiritual-poverty/","noteIcon":"","created":"2025-07-18T02:35:53.672+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250716183207.png|500](/img/user/Attachments/Pasted%20image%2020250716183207.png)
+![Pasted image 20250716183207.png\|500](/img/user/Attachments/Pasted%20image%2020250716183207.png)
 
 ## **Spiritual Poverty Among the Materially Rich: A Biblical Exposition**
 

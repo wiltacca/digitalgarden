@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/ghost-festival/","noteIcon":"","created":"2025-07-20T01:47:17.891+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/ghost-festival/","noteIcon":"","created":"2025-07-20T01:47:17.891+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250720014748.png|380](/img/user/Attachments/Pasted%20image%2020250720014748.png)
+![Pasted image 20250720014748.png\|380](/img/user/Attachments/Pasted%20image%2020250720014748.png)
 
 # The Ghost Festival of The Seventh Month - A Trick That Has Fooled People For Over Six Hundred Years 
 # 七月鬼节-唬弄人六百多年的诡计

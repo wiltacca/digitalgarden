@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/four-agreements/","noteIcon":"","created":"2025-07-15T18:22:11.184+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/four-agreements/","noteIcon":"","created":"2025-07-15T18:22:11.184+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # A Theological &  Biblical Analysis of The Four Agreements

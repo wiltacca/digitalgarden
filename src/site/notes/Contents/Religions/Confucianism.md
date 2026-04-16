@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/confucianism/","noteIcon":"","created":"2025-07-31T16:47:06.062+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/confucianism/","noteIcon":"","created":"2025-07-31T16:47:06.062+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # The Path To Perfection: Salvation In Christianity &  Self-Cultivation In Confucianism

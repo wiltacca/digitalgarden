@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/taoism/","noteIcon":"","created":"2025-07-31T17:03:57.825+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/taoism/","noteIcon":"","created":"2025-07-31T17:03:57.825+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Redemption & Return: Soteriology of Christianity & Taoism

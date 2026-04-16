@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/magna-carta-of-the-kingdom-of-heaven/","noteIcon":"","created":"2025-07-25T16:32:53.739+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/magna-carta-of-the-kingdom-of-heaven/","noteIcon":"","created":"2025-07-25T16:32:53.739+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # The Manifesto of The King
 
-![Pasted image 20250725163402.png|500](/img/user/Attachments/Pasted%20image%2020250725163402.png)
+![Pasted image 20250725163402.png\|500](/img/user/Attachments/Pasted%20image%2020250725163402.png)
 
 # **Introduction**
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/love-of-money/","noteIcon":"","created":"2025-07-16T16:53:09.659+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/love-of-money/","noteIcon":"","created":"2025-07-16T16:53:09.659+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 
-![Pasted image 20250416174816.png|400](/img/user/Attachments/Pasted%20image%2020250416174816.png)
+![Pasted image 20250416174816.png\|400](/img/user/Attachments/Pasted%20image%2020250416174816.png)
 
 > [!bible]+ [1 Timothy 6:10 - KJV](https://www.biblegateway.com/passage/?search=1+Timothy+6:10&version=kjv)
 > 10. For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
@@ -98,7 +98,7 @@ As we meditate upon these solemn words, let us examine our own hearts and ensure
 
 # The Parable of The Mexican Fisherman
 
-![Pasted image 20250716164200.png|400](/img/user/Attachments/Pasted%20image%2020250716164200.png)
+![Pasted image 20250716164200.png\|400](/img/user/Attachments/Pasted%20image%2020250716164200.png)
 
 The **Parable of the Mexican Fisherman** is a well-known modern tale that explores themes of happiness, success, and the true meaning of wealth and fulfillment. Though its origins are uncertain, the story is often attributed to American writer Heinrich Böll or inspired by similar folktales. 
 

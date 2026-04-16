@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/tulip-vs-lotus/","noteIcon":"","created":"2025-10-16T18:45:12.070+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/tulip-vs-lotus/","noteIcon":"","created":"2025-10-16T18:45:12.070+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20251014184521.png|300](/img/user/Attachments/Pasted%20image%2020251014184521.png)
+![Pasted image 20251014184521.png\|300](/img/user/Attachments/Pasted%20image%2020251014184521.png)
 
 # TULIP To LOTUS: A Comparative Analysis of Calvinist & Free Grace Soteriology
 

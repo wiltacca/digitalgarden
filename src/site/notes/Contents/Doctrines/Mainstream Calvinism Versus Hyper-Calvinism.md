@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/mainstream-calvinism-versus-hyper-calvinism/","noteIcon":"","created":"2025-07-14T18:34:59.487+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/mainstream-calvinism-versus-hyper-calvinism/","noteIcon":"","created":"2025-07-14T18:34:59.487+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # A Comparative Theological Analysis of Mainstream Calvinism & Hyper-Calvinism
@@ -66,7 +66,7 @@ Notwithstanding the paramountcy of divine sovereignty, mainstream Calvinism typi
 
 **B. Historical Antecedents & Key Proponents**
 
-![Pasted image 20250612023853.png|500](/img/user/Attachments/Pasted%20image%2020250612023853.png)
+![Pasted image 20250612023853.png\|500](/img/user/Attachments/Pasted%20image%2020250612023853.png)
 
 **1. John Calvin (1509-1564)**
 
@@ -90,7 +90,7 @@ The pronounced evangelistic zeal exhibited by seminal figures of mainstream Calv
 
 ## III. An Examination of Hyper-Calvinism: An Extreme Emphasis
 
-![Pasted image 20250612024429.png|500](/img/user/Attachments/Pasted%20image%2020250612024429.png)
+![Pasted image 20250612024429.png\|500](/img/user/Attachments/Pasted%20image%2020250612024429.png)
 
 **A. Defining Characteristics: Transcending Mainstream Boundaries**
 
@@ -249,7 +249,7 @@ These critiques highlight a perception within mainstream Calvinism that Hyper-Ca
 
 ## VI. Practical Implications For Ecclesiastical Life
 
-![Pasted image 20250612024106.png|500](/img/user/Attachments/Pasted%20image%2020250612024106.png)
+![Pasted image 20250612024106.png\|500](/img/user/Attachments/Pasted%20image%2020250612024106.png)
 
 The theological distinctions between Mainstream Calvinism and Hyper-Calvinism are not confined to academic discourse; they possess profound and tangible implications for the practical life and ministry of the church. These differences frequently manifest in homiletical styles, approaches to pastoral care, evangelistic fervor, and the overall spiritual ethos within a congregation.
 

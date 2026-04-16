@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/the-anatomy-of-apostasy/","noteIcon":"","created":"2025-10-30T02:11:31.143+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/the-anatomy-of-apostasy/","noteIcon":"","created":"2025-10-30T02:11:31.143+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 
-![Pasted image 20251029174927.png|350](/img/user/Attachments/Pasted%20image%2020251029174927.png)
+![Pasted image 20251029174927.png\|350](/img/user/Attachments/Pasted%20image%2020251029174927.png)
 # An Exegetical & Theological Analysis of Hebrews 10:26-29
 
 > [!bible]+ [Hebrews 10:26-29 - KJV](https://www.biblegateway.com/passage/?search=Hebrews+10:26-29&version=kjv)

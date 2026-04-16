@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/lordship-versus-free-grace-and-hyper-grace/","noteIcon":"","created":"2025-07-10T17:30:13.766+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/lordship-versus-free-grace-and-hyper-grace/","noteIcon":"","created":"2025-07-10T17:30:13.766+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Lordship, Free Grace & Hyper-Grace: Analysis of Three Soteriological Doctrines
@@ -15,7 +15,7 @@ These questions place the three doctrines on a theological spectrum. Lordship Sa
 ---
 ## Part I: The Doctrine of Lordship Salvation
 
-![Pasted image 20250709183136.png|600](/img/user/Attachments/Pasted%20image%2020250709183136.png)
+![Pasted image 20250709183136.png\|600](/img/user/Attachments/Pasted%20image%2020250709183136.png)
 
 ### Section 1.1: Defining Lordship Salvation: The Indivisible Christ  
 
@@ -86,7 +86,7 @@ To support this critique, Lordship advocates point to KJV passages that describe
 ---
 ## Part II: The Doctrine of Free Grace
 
-![Pasted image 20250709183946.png|700](/img/user/Attachments/Pasted%20image%2020250709183946.png)
+![Pasted image 20250709183946.png\|700](/img/user/Attachments/Pasted%20image%2020250709183946.png)
 
 ### Section 2.1: Defining Free Grace: The Unconditional Gift  
 
@@ -160,7 +160,7 @@ To support this critique, Free Grace theologians employ several key KJV passages
 ---
 ## Part III: The Doctrine of Hyper-Grace
 
-![Pasted image 20250709183413.png|600](/img/user/Attachments/Pasted%20image%2020250709183413.png)
+![Pasted image 20250709183413.png\|600](/img/user/Attachments/Pasted%20image%2020250709183413.png)
 
 ### Section 3.1: Defining Hyper-Grace: The Super-Abundant Finished Work
 
@@ -292,7 +292,7 @@ Free Grace theology also faces the accusation that it encourages sin because it 
 ---
 ## Conclusion
 
-![Pasted image 20250709183637.png|600](/img/user/Attachments/Pasted%20image%2020250709183637.png)
+![Pasted image 20250709183637.png\|600](/img/user/Attachments/Pasted%20image%2020250709183637.png)
 
 This analysis of Lordship Salvation, Free Grace, and Hyper-Grace, conducted exclusively through the lens of the KJV Bible, reveals three distinct and systematic theologies of salvation. They are not merely different points of emphasis but comprehensive systems that flow from divergent first principles regarding the nature of faith, the work of God, and the meaning of grace.
 

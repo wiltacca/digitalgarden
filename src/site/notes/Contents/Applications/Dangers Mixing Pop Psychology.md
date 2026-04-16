@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/dangers-mixing-pop-psychology/","noteIcon":"","created":"2025-07-21T16:25:14.403+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/dangers-mixing-pop-psychology/","noteIcon":"","created":"2025-07-21T16:25:14.403+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 ![Pasted image 20250721162703.png](/img/user/Attachments/Pasted%20image%2020250721162703.png)

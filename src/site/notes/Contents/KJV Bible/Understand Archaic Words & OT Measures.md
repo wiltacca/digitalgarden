@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-archaic-words-and-ot-measures/","noteIcon":"","created":"2025-04-20T02:53:59.793+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-archaic-words-and-ot-measures/","noteIcon":"","created":"2025-04-20T02:53:59.793+08:00","dg-note-properties":{"aliases":["how to understand archaic words and Old Testament measures?"]}}
 ---
 
-![Pasted image 20250421021214.png|350](/img/user/Attachments/Pasted%20image%2020250421021214.png)
+![Pasted image 20250421021214.png\|350](/img/user/Attachments/Pasted%20image%2020250421021214.png)
 # Definition of Archaic Words
 
 > [!important]+ HOW TO UNDERSTAND THE MEANING FOR A WORD?

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/answers-objections-to-free-grace/","noteIcon":"","created":"2025-11-03T02:37:18.738+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/answers-objections-to-free-grace/","noteIcon":"","created":"2025-11-03T02:37:18.738+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20251103030030.png|500](/img/user/Attachments/Pasted%20image%2020251103030030.png)
+![Pasted image 20251103030030.png\|500](/img/user/Attachments/Pasted%20image%2020251103030030.png)
 #  Answering Common Objections To Free Grace
 
 Since the gospel was first preached, people have objected to the Free Grace teaching that people are saved by the unconditional grace of God through faith alone in Jesus Christ. Often, objections come from misunderstanding the nature of God's grace and what Free Grace teaches. Sometimes objections are merely parroted from others without much thought. Here's how to address the common objections to Free Grace teaching about salvation.

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/contents/doctrines/salvation-work-faith-and-repentance/","noteIcon":"","created":"2025-09-25T15:32:49.308+08:00"}
+{"dg-publish":true,"permalink":"/contents/doctrines/salvation-work-faith-and-repentance/","noteIcon":"","created":"2025-09-25T15:32:49.308+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Justification, Sanctification, &  The Inevitability of Fruit: An Analysis of the Relationship Between Saving Faith & The Christian Life
 
-![Gemini_Generated_Image_s5oct0s5oct0s5oc.png|250](/img/user/Attachments/Gemini_Generated_Image_s5oct0s5oct0s5oc.png)
+![Gemini_Generated_Image_s5oct0s5oct0s5oc.png\|250](/img/user/Attachments/Gemini_Generated_Image_s5oct0s5oct0s5oc.png)
 ## Introduction
 
 The question of whether a genuine, saving faith can exist in the complete absence of a transformed life represents one of the most critical and enduring inquiries in Christian theology. It probes the very heart of the Gospel, forcing a careful examination of the relationship between divine grace and human responsibility, between the initial moment of salvation and the subsequent journey of a believer. The question, can a "True Believer" be justified yet produce a fruitless life and still enter the Kingdom of God? It is not merely an abstract theological puzzle; it carries profound implications for Christian assurance, ethics, and evangelism. It forces a confrontation with the apparent tension between the Apostle Paul’s declaration that salvation is "by grace you have been saved through faith and not a result of works" and the Apostle James’s stark warning that "faith without works is dead".  
@@ -67,7 +67,7 @@ Discipleship is the practical, lived experience of sanctification. It is the ear
 ---
 # Section 2: The Unseverable Bond: The Relationship Between Justification & Sanctification
 
-![Pasted image 20250925152937.png|400](/img/user/Attachments/Pasted%20image%2020250925152937.png)
+![Pasted image 20250925152937.png\|400](/img/user/Attachments/Pasted%20image%2020250925152937.png)
 
 While the doctrines of justification and sanctification must be carefully distinguished to preserve the clarity of the Gospel, they must never be separated. The New Testament presents them as two inseparable components of a single, unified work of salvation in Christ. Their relationship is not one of simple cause and effect but of a shared, indivisible source.
 
@@ -95,7 +95,7 @@ _Temporally_, however, justification and the beginning of sanctification (regene
 
 # Section 3: The Nature of Evidence: Biblical "Fruit" As The Manifestation of A New Nature
 
-![Gemini_Generated_Image_9yn0em9yn0em9yn0.png|400](/img/user/Attachments/Gemini_Generated_Image_9yn0em9yn0em9yn0.png)
+![Gemini_Generated_Image_9yn0em9yn0em9yn0.png\|400](/img/user/Attachments/Gemini_Generated_Image_9yn0em9yn0em9yn0.png)
 
 The New Testament consistently employs the agricultural metaphor of "fruit" to describe the observable outcomes of a person's spiritual state. This metaphor is not accidental; it provides a profound theological insight into the nature of the Christian life. Fruit is not something mechanically constructed or externally attached; it is the organic, natural, and inevitable expression of the life that is within the plant.
 
@@ -161,7 +161,7 @@ The Lordship Salvation view, articulated by theologians like John MacArthur, arg
 
 ## 5.2 The Free Grace Position
 
-![Pasted image 20250925153037.png|400](/img/user/Attachments/Pasted%20image%2020250925153037.png)
+![Pasted image 20250925153037.png\|400](/img/user/Attachments/Pasted%20image%2020250925153037.png)
 
 The Free Grace position, represented by theologians like Zane Hodges and Charles Ryrie, emphasizes a sharp distinction between salvation and discipleship.
 

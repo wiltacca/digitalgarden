@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/applications/three-worlds-in-conflict/","noteIcon":"","created":"2025-07-10T15:54:14.827+08:00"}
+{"dg-publish":true,"permalink":"/contents/applications/three-worlds-in-conflict/","noteIcon":"","created":"2025-07-10T15:54:14.827+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20250628022813.png|300](/img/user/Attachments/Pasted%20image%2020250628022813.png)
+![Pasted image 20250628022813.png\|300](/img/user/Attachments/Pasted%20image%2020250628022813.png)
 # The Three Worlds In Conflict: A Biblical Analysis of Cosmic Spiritual Warfare
 
 The theological framework of "three worlds in conflict" represents a foundational understanding of cosmic spiritual warfare as presented throughout Scripture, wherein the Kingdom of God, the realm of humanity, and Satan's dominion engage in perpetual conflict for supremacy and influence. This biblical paradigm reveals that all of creation exists within a cosmic battlefield where divine sovereignty confronts satanic rebellion, with humanity serving as both the contested prize and active participants in this spiritual warfare. The Bible provides abundant evidence for this tripartite conflict structure, demonstrating how these three realms operate in constant tension, each seeking to establish dominion over the others through distinct means and purposes. This cosmic struggle encompasses not merely abstract theological concepts but practical realities that affect every aspect of human existence, spiritual development, and eternal destiny.

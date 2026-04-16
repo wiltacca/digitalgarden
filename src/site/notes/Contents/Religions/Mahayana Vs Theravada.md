@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/mahayana-vs-theravada/","noteIcon":"","created":"2025-07-21T17:47:55.650+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/mahayana-vs-theravada/","noteIcon":"","created":"2025-07-21T17:47:55.650+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20251106165139.png|500](/img/user/Attachments/Pasted%20image%2020251106165139.png)
+![Pasted image 20251106165139.png\|500](/img/user/Attachments/Pasted%20image%2020251106165139.png)
 
 # Mahayana Buddhism & Theravada Buddhism
 

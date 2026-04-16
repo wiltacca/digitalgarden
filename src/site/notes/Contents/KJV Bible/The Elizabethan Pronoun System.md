@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/the-elizabethan-pronoun-system/","noteIcon":"","created":"2025-05-28T02:45:10.207+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/the-elizabethan-pronoun-system/","noteIcon":"","created":"2025-05-28T02:45:10.207+08:00","dg-note-properties":{"aliases":["Understand why the Modern English Bibles that do not use The Elizabethan Pronoun System"]}}
 ---
 
-![Pasted image 20250528030351.png|350](/img/user/Attachments/Pasted%20image%2020250528030351.png)
+![Pasted image 20250528030351.png\|350](/img/user/Attachments/Pasted%20image%2020250528030351.png)
 
 The Elizabethan pronoun system represents a sophisticated linguistic framework that distinguished between formal and informal address, singular and plural forms, and various grammatical cases in ways that modern English has largely abandoned. This system, prevalent during the Early Modern English period (roughly 1500-1700), was particularly evident in the works of William Shakespeare and the King James Version of the Bible.
 

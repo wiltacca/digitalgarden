@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-kjv-bible-personal-verbs/","noteIcon":"","created":"2025-04-21T17:22:16.101+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/understand-kjv-bible-personal-verbs/","noteIcon":"","created":"2025-04-21T17:22:16.101+08:00","dg-note-properties":{"aliases":["how to understand KJV Bible personal verbs?"]}}
 ---
 
 # Why You Need To Understand KJV Verbs?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/textual-preservation/","noteIcon":"","created":"2025-08-14T16:51:54.618+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/textual-preservation/","noteIcon":"","created":"2025-08-14T16:51:54.618+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Verbal Plenary Preservation (VPP): Theological Basis &  History
@@ -48,7 +48,7 @@ In the mid–late 20th century VPP became a self-conscious doctrine among some c
 
 # Verbal Plenary Inspiration Versus Preservation
 
-![Pasted image 20250814164059.png|300](/img/user/Attachments/Pasted%20image%2020250814164059.png)
+![Pasted image 20250814164059.png\|300](/img/user/Attachments/Pasted%20image%2020250814164059.png)
 
 VPP is an outgrowth of the older doctrine of Verbal Plenary Inspiration (VPI), but the two are distinct. VPI teaches that all words of the original manuscripts were God-breathed (inspired) and without error. VPP adds that those very words have been preserved to the present. 
 

@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/origin-of-pure-land-buddhism/","noteIcon":"","created":"2025-07-24T16:24:55.340+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/origin-of-pure-land-buddhism/","noteIcon":"","created":"2025-07-24T16:24:55.340+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 # Other-Power & Divine Grace: A Comparative Theological Analysis of Soteriology In Pure Land Buddhism & Christianity
 
 # 他力與神恩：淨土宗與基督教救贖論的比較神學分析
 
-![Pasted image 20250718180138.png|500](/img/user/Attachments/Pasted%20image%2020250718180138.png)
+![Pasted image 20250718180138.png\|500](/img/user/Attachments/Pasted%20image%2020250718180138.png)
 # Part I: The Path of Other-Power (_Tariki_) In Pure Land Buddhism
 
 # 第一部分：佛教淨土宗的他力（_Tariki_）之道

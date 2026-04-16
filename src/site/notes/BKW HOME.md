@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bkw-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-12T18:35:38.364+08:00"}
+{"dg-publish":true,"permalink":"/bkw-home/","tags":["gardenEntry"],"noteIcon":"","created":"2025-04-12T18:35:38.364+08:00","dg-note-properties":{}}
 ---
 
 ![bible_knowledge_banner.png](/img/user/Attachments/bible_knowledge_banner.png)
@@ -81,7 +81,7 @@ Literal Interpretation: The KJV’s language is often interpreted literally, ali
 
 # ✝️New Testament Manuscript Lineage
 
-![Pasted image 20250624181235.png|500](/img/user/Attachments/Pasted%20image%2020250624181235.png)
+![Pasted image 20250624181235.png\|500](/img/user/Attachments/Pasted%20image%2020250624181235.png)
 
 The chart illustrates three primary streams or families of New Testament manuscripts, you can see the very hand of God in the providential preservation of His Holy Word. 
 
@@ -89,7 +89,7 @@ The Lord Jesus Christ Himself declared, **"Heaven and earth shall pass away, but
 
 ## 📜The Traditional Text (The Textus Receptus)
 
-![Good Fruit Tree.png|500](/img/user/Attachments/Good%20Fruit%20Tree.png)
+![Good Fruit Tree.png\|500](/img/user/Attachments/Good%20Fruit%20Tree.png)
 
 This stream, coloured blue in the chart, is identified as the "Lost Manuscripts of the Traditional Text," which it rightly states are **"Almost identical with originals in text."** This line of transmission is also known to scholars as the Byzantine text-type.
 
@@ -103,7 +103,7 @@ This is the stream of God's preserved Word, continuously used by believers and c
 
 ## 📜The Alexandrian Text
 
-![Evil Fruit Tree.png|500](/img/user/Attachments/Evil%20Fruit%20Tree.png)
+![Evil Fruit Tree.png\|500](/img/user/Attachments/Evil%20Fruit%20Tree.png)
 
 The stream coloured yellow in the chart represents the Alexandrian text-type. Note how the chart itself describes its supposed ancestor as **"Text an abbreviation of original text."** This is a critical observation.
 
@@ -154,7 +154,7 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
 
 # 🌐 Resources
 
-[![Pasted image 20250414161919.png|140](/img/user/Attachments/Pasted%20image%2020250414161919.png)](https://kjbrc.org/) [![Pasted image 20250415022549.png|120](/img/user/Attachments/Pasted%20image%2020250415022549.png)](https://textusreceptusbibles.com/)[![Pasted image 20250414161752.png|65](/img/user/Attachments/Pasted%20image%2020250414161752.png)](https://www.kingjamesbibleonline.org/)
+[![Pasted image 20250414161919.png\|140](/img/user/Attachments/Pasted%20image%2020250414161919.png)](https://kjbrc.org/) [![Pasted image 20250415022549.png\|120](/img/user/Attachments/Pasted%20image%2020250415022549.png)](https://textusreceptusbibles.com/)[![Pasted image 20250414161752.png\|65](/img/user/Attachments/Pasted%20image%2020250414161752.png)](https://www.kingjamesbibleonline.org/)
 
 # ✉️ Contact Us
 
@@ -187,3 +187,6 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
 <!-- AddToAny END -->
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
+
+<script async type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
+<zapier-interfaces-chatbot-embed is-popup='false' chatbot-id='cmo194226000xp23omqmdxzdj' height='600px' width='400px'></zapier-interfaces-chatbot-embed>

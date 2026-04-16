@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/contents/kjv-bible/history-of-kjv-bible/","noteIcon":"","created":"2025-08-05T16:38:13.689+08:00"}
+{"dg-publish":true,"permalink":"/contents/kjv-bible/history-of-kjv-bible/","noteIcon":"","created":"2025-08-05T16:38:13.689+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 
-![Pasted image 20250805164320.png|400](/img/user/Attachments/Pasted%20image%2020250805164320.png)
+![Pasted image 20250805164320.png\|400](/img/user/Attachments/Pasted%20image%2020250805164320.png)
 
 # The History of The King James Version of The Holy Bible 1611
 

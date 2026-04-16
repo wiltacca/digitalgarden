@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contents/religions/spirit-world-of-mortals/","noteIcon":"","created":"2025-08-06T17:33:13.744+08:00"}
+{"dg-publish":true,"permalink":"/contents/religions/spirit-world-of-mortals/","noteIcon":"","created":"2025-08-06T17:33:13.744+08:00","dg-note-properties":{"aliases":null}}
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6zvUZw0vanU?si=tzXhKhkn3robgFJ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
