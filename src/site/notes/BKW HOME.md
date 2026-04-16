@@ -189,4 +189,4 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 <script async type='module' src='https://interfaces.zapier.com/assets/web-components/zapier-interfaces/zapier-interfaces.esm.js'></script>
-<zapier-interfaces-chatbot-embed is-popup='false' chatbot-id='cmo194226000xp23omqmdxzdj' height='600px' width='400px'></zapier-interfaces-chatbot-embed>
+<zapier-interfaces-chatbot-embed is-popup='true' chatbot-id='cmo194226000xp23omqmdxzdj'></zapier-interfaces-chatbot-embed>
