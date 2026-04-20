@@ -30,17 +30,17 @@ This was a "top-secret" transition. The first presentation of the death, burial,
 
 ## 4. The Danger of the "Plus" (Why Adding Baptism or Works is Fatal)
 
-Modern religion is obsessed with the "plus." Preachers take Acts 2:38 (baptism for remission of sins) or James 2:24 (justification by works) and try to weld them onto the Christian gospel. However, they use a "common sense" test: if a verse doesn't centre on the death, burial, and resurrection (1 Cor 15:1-4), is it actually the Christian Gospel?
+Modern religion is obsessed with the "plus." Preachers take Acts 2:38 (baptism for remission of sins) or James 2:24 (justification by works) and try to weld them onto the Christian gospel. However, they use a "common sense" test: if a verse doesn't centre on the death, burial, and resurrection 1 Cor 15:1-4, is it actually the Christian Gospel?
 
-James 2:24 is a prime example of "wrongly dividing." James explicitly addresses the "twelve tribes scattered abroad" (James 1:1) and points to a "last days" context (James 5:3). This is a message for Jews in the Tribulation, not Christians in the Age of Grace.
+James 2:24 is a prime example of "wrongly dividing." James explicitly addresses the "twelve tribes scattered abroad" James 1:1 and points to a "last days" context James 5:3. This is a message for Jews in the Tribulation, not Christians in the Age of Grace.
 
 Adding water baptism or "quitting all sins" to the gospel isn't just a theological error; it is a "serious crime" against the Saviour. Some theologians reframe this with raw emotional weight: Imagine someone tortured, bled, and died to pay a debt for you. How would you feel if they looked at your sacrifice and said, "It’s not enough; I need to get dunked in water and turn over a new leaf to make it count"? Adding a "plus" suggests Christ’s death was "incomplete" or "in vain," a direct offense to the God who gave His all.
 
 ## 5. The "Kingdom Gospel" vs. The "Grace Gospel"
 
-To avoid confusion, we must distinguish the "Gospel of the Kingdom" from the "Gospel of Grace." The Kingdom Gospel was preached by Jesus to Israel, focusing on an earthly, messianic kingdom. Its hallmark was **sight**. Jews require a sign (1 Cor 1:22). Therefore, Jesus’s earthly ministry featured physical healings, tongues, and the requirement to "endure to the end" for salvation (Matt 24:13).
+To avoid confusion, we must distinguish the "Gospel of the Kingdom" from the "Gospel of Grace." The Kingdom Gospel was preached by Jesus to Israel, focusing on an earthly, messianic kingdom. Its hallmark was **sight**. Jews require a sign 1 Cor 1:22. Therefore, Jesus’s earthly ministry featured physical healings, tongues, and the requirement to "endure to the end" for salvation (Matt 24:13).
 
-Contrast this with the Pauline Gospel of Grace, which is defined by **faith**. Paul writes, "For we walk by faith, not by sight" (2 Cor 5:7). In our dispensation, we don't look for signs or physical kingdoms; we preach Christ crucified. Conflating these two—trying to bring "Kingdom signs" like healing or tongues into the "Grace Age"—is a dispensational error that leaves believers seeking physical evidence for a spiritual reality.
+Contrast this with the Pauline Gospel of Grace, which is defined by **faith**. Paul writes, "For we walk by faith, not by sight" 2 Cor 5:7. In our dispensation, we don't look for signs or physical kingdoms; we preach Christ crucified. Conflating these two—trying to bring "Kingdom signs" like healing or tongues into the "Grace Age"—is a dispensational error that leaves believers seeking physical evidence for a spiritual reality.
 
 ## 6. "Deceptive Harmonization" and the Trap of Spiritual Lingo
 
