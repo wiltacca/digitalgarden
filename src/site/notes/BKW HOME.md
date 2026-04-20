@@ -154,7 +154,7 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
 
 # 🌐 Resources
 
-[![Pasted image 20250414161919.png\|140](/img/user/Attachments/Pasted%20image%2020250414161919.png)](https://kjbrc.org/) [![Pasted image 20250415022549.png\|120](/img/user/Attachments/Pasted%20image%2020250415022549.png)](https://textusreceptusbibles.com/)[![Pasted image 20250414161752.png\|65](/img/user/Attachments/Pasted%20image%2020250414161752.png)](https://www.kingjamesbibleonline.org/)![BibleVersions.jpg\|70](/img/user/Attachments/BibleVersions.jpg)[](https://kjvcompare.com/mark-5-13)
+[![Pasted image 20250414161919.png\|140](/img/user/Attachments/Pasted%20image%2020250414161919.png)](https://kjbrc.org/) [![Pasted image 20250415022549.png\|120](/img/user/Attachments/Pasted%20image%2020250415022549.png)](https://textusreceptusbibles.com/)[![Pasted image 20250414161752.png\|65](/img/user/Attachments/Pasted%20image%2020250414161752.png)](https://www.kingjamesbibleonline.org/)[![BibleVersions.jpg\|70](/img/user/Attachments/BibleVersions.jpg)](https://kjvcompare.com/mark-5-13)
 
 # ✉️ Contact Us
 
