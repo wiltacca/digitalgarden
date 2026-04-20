@@ -58,7 +58,7 @@ The irony of modern theology is that even atheist scholars like Bart Ehrman can 
 
 Plain honesty reveals true spiritual maturity. If the words in the Bible are different, the meanings are different. We must "rightly divide" the word to keep the finished work of Christ pure and distinct from the requirements given to other people at other times.
 
-### **Final Question:** Are you resting in the finished work of the death, burial, and resurrection, or are you still trying to "plus" your way into heaven?
+#### **Final Question:** Are you resting in the finished work of the death, burial, and resurrection, or are you still trying to "plus" your way into heaven?
 
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
