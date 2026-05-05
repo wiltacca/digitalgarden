@@ -190,3 +190,5 @@ Let go to explore [[Contents/KJV Bible/Read & Understand KJV Bible English\|how 
 
 <script src='https://cdn.jotfor.ms/agent/embedjs/019d9a59b9dc7f74a0f2650c0afd7a209e2e/embed.js'>
 </script>
+
+<iframe width="300" scrolling="no" height="300" frameborder="0" src="https://www.bibliatodo.com/en/online/versiculo-del-dia-texto" version="KJV"></iframe>
