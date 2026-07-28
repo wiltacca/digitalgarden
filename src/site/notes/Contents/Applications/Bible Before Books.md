@@ -40,7 +40,7 @@ The Bible is the authority; books about the Bible are only servants.
 
 # The Balance
 
-While the quote rightly cautions against relying _solely_ on secondary sources, reading what others have said isn't inherently bad. Historical context, linguistic translation, and expert commentary can unlock confusing passages and prevent deep misunderstandings. The key takeaway is the ratio: the secondary material should illuminate the primary text, not replace it.
+Historical context, linguistic translation, and expert commentary can unlock confusing passages and prevent deep misunderstandings. The key takeaway is the ratio: the secondary material should illuminate the primary text, not replace it.
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
