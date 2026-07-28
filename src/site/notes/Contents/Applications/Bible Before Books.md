@@ -17,24 +17,24 @@ At its heart, the quote warns against the danger of **secondhand knowledge**. Wh
 The Bible itself commands:
 
 > “Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.”  
-> —2 Timothy 2:15
+> 2 Timothy 2:15
 
 Books, sermons, and commentaries may be helpful, but they must remain subordinate to the inspired Word of God. The Bereans were commended because they tested what they heard by Scripture:
 
 > “They received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.”  
-> —Acts 17:11
+> Acts 17:11
 
 The danger arises when a believer knows what a favourite preacher, author, or theological system teaches, but cannot personally show those doctrines from the Bible. Scripture warns:
 
 > “Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?”  
-> —Isaiah 2:22
+> Isaiah 2:22
 
 A faithful order is:
 
 **Read the Bible first. Believe the Bible as written. Compare Scripture with Scripture. Then consult human helps carefully and test everything by God’s Word.**
 
 > “Prove all things; hold fast that which is good.”  
-> —1 Thessalonians 5:21
+> 1 Thessalonians 5:21
 
 The Bible is the authority; books about the Bible are only servants.
 
@@ -46,6 +46,6 @@ While the quote rightly cautions against relying _solely_ on secondary sources, 
 
 ---
 Also see:
-- 
-- 
-- 
+- [[Contents/Applications/Hear God Word\|Hear God Word]]
+- [[Contents/Applications/Voyage of Life\|Voyage of Life]]
+- [[Contents/Applications/Wesley Heavenly Surprise\|Wesley Heavenly Surprise]]
