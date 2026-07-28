@@ -5,7 +5,8 @@
 ![Pasted image 20260729025401.png](/img/user/Attachments/Pasted%20image%2020260729025401.png)
 
 
-> [!cite]+ “Those who spend more time reading books about the Bible than they do reading the Bible are likely to be influenced more by what men said about the Bible than by what God said in the Bible.” - R.B. Ouellette
+> [!NOTE]+ Quote
+> “Those who spend more time reading books about the Bible than they do reading the Bible are likely to be influenced more by what men said about the Bible than by what God said in the Bible.” - R.B. Ouellette
 
 # The Source: R.B. Ouellette
 
