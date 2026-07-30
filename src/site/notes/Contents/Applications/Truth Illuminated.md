@@ -106,7 +106,7 @@ Tozer’s central concern is sound: correct doctrine alone, when held merely int
 The proper prayer is therefore not for doctrine to be replaced by spiritual experience, but for sound doctrine to be made living and powerful through the gracious ministry of the Holy Ghost:
 
 > “Quicken thou me according to thy word.”  
-> —Psalm 119:25, KJV
+> Psalm 119:25, KJV
 
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
