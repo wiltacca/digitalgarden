@@ -98,7 +98,7 @@ The Landmark controversy provides several enduring lessons for modern church pol
 Ultimately, Landmarkism’s attempt to defend Baptist identity through historical successionism is viewed by many as an unnecessary burden. The historic Baptist pattern remains an "unqualified submission to Scripture" as the sole authority for faith and practice.
 
 ---
-# :LiYoutube: What Is A Baptist Brider? (Part 1) "Local Church Only-ism"
+# What Is A Baptist Brider? (Part 1) "Local Church Only-ism"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vqB64ofVFvg?si=5HaXnYLZnrBBbO7Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -121,7 +121,7 @@ This video, led by _Pastor Shane Montgomery_, provides a detailed examination an
 _Pastor Montgomery_ emphasizes that this movement deviates from the biblical view of the church beginning at _Pentecost_ and warns that it can lead to legalism and unnecessary division within the broader Christian community.
 
 ---
-# :LiYoutube: What Is A Baptist Brider? (Part 2) "Local Church Only-ism"
+# What Is A Baptist Brider? (Part 2) "Local Church Only-ism"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmqMQvr40XU?si=ttMIM_jnV8kuFx87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -135,7 +135,7 @@ This video, presented by Pastor Shane Montgomery, continues a critique of the "B
 The speaker concludes that these doctrines are not supported by a correct reading of scripture and encourages discernment, promising to provide a set of specific questions next time to help identify these teachings in other church settings.
 
 ---
-# :LiYoutube: What Is A Baptist Brider? (Part 3) "Local Church Only-ism"
+# What Is A Baptist Brider? (Part 3) "Local Church Only-ism"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CGxrLjccH2U?si=EXESkuvqn2q7z7zz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
