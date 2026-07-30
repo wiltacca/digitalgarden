@@ -155,6 +155,6 @@ Ultimately, the pastor encourages his audience not to feel inferior or doctrinal
 
 ---
 Also see:
+- [[Contents/Doctrines/Trail of Blood\|Trail of Blood]]
 - [[Contents/Doctrines/Mainstream Calvinism Versus Hyper-Calvinism\|Mainstream Calvinism Versus Hyper-Calvinism]]
 - [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
-- [[Contents/Doctrines/Glory Vs Cross-Two Theologies\|Glory Vs Cross-Two Theologies]]
