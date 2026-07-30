@@ -7,6 +7,10 @@
 >[!NOTE]+ QUOTE
 “We need to learn that truth consists not in correct doctrine, but in correct doctrine plus the inward enlightenment of the Holy Spirit. This vital truth could result in a fresh breath from God upon a stale and suffocating orthodoxy.” – A.W. Tozer
 
+# The Source: A.W. Tozer
+
+Tozer served as a pastor for 44 years, most prominently at Southside Alliance Church in Chicago (1928–1959), where his preaching drew students from Moody Bible Institute, Wheaton College, and the University of Chicago.
+
 Tozer’s statement contains an important warning, though it should be expressed with careful biblical balance. 
 
 Correct doctrine is indispensable. Scripture repeatedly commands believers to hold “sound doctrine” and to reject error:
@@ -109,6 +113,6 @@ The proper prayer is therefore not for doctrine to be replaced by spiritual expe
 
 ---
 Also see:
-- 
-- 
-- 
+- [[Contents/Applications/Bible Before Books\|Bible Before Books]]
+- [[Contents/Applications/Voyage of Life\|Voyage of Life]]
+- [[Contents/Applications/The Armor of God\|The Armor of God]]
