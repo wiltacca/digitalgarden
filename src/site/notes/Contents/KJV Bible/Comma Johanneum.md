@@ -88,7 +88,7 @@ Modern historians add an important piece of context regarding the manuscript tha
 
 There is a popular legend that Erasmus made a "rash wager," promising his critics he would insert the verse if they could produce just _one_ Greek manuscript containing it. According to the eminent textual scholar Bruce Metzger, there is no evidence in Erasmus's writings that he ever actually made this wager.
 
-However, the reality is just as dramatic. The manuscript presented to him—Codex Montfortianus—was not an ancient document. Scholars today know it was created around **1520**, right in the middle of the controversy, likely by a Franciscan friar named Froy. It is widely believed that this manuscript was "made to order"—specifically forged by translating the Latin Vulgate's text back into Greek just to give Erasmus the excuse he needed to include it.
+However, the reality is just as dramatic. The manuscript presented to him—Codex Montfortianus—was not an ancient document. Scholars today know it was created around 1520,right in the middle of the controversy, likely by a Franciscan friar named Froy. It is widely believed that this manuscript was "made to order"—specifically forged by translating the Latin Vulgate's text back into Greek just to give Erasmus the excuse he needed to include it.
 
 Erasmus was no fool. In his notes for the 1522 edition, he explicitly stated his suspicion that the manuscript had been retro-translated from Latin into Greek to deceive him. Nevertheless, rather than endure continued accusations of heresy, he inserted the Comma Johanneum into the text, where it remained in the dominant Greek text (the _Textus Receptus_) for over 300 years.
 
