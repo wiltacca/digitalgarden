@@ -8,7 +8,6 @@
 > 7. For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 > 8. And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one.
 
-
 1 John 5:7 is famously known as the **Comma Johanneum** (Latin for "Johannine clause"). It is one of the most well-known textual differences in the New Testament. 
 
 To see the difference clearly, we have to look at 1 John 5:7 and 1 John 5:8 together, because the translations that exclude this clause combine the surrounding text.
@@ -21,15 +20,15 @@ These Bibles are based on the _Textus Receptus_ (a Greek text compiled in the 15
 
 - **King James Version (KJV)**
     
-    > "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one." (1 John 5:7-8)
+    > "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one. And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one." 1 John 5:7-8
     
 - **New King James Version (NKJV)**
     
-    > "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one." (1 John 5:7-8)
+    > "For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one. And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one." 1 John 5:7-8
     
 - **Douay-Rheims (Catholic)**
     
-    > "And there are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three are one. And there are three that give testimony on earth: the spirit, and the water, and the blood: and these three are one." (1 John 5:7-8)
+    > "And there are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three are one. And there are three that give testimony on earth: the spirit, and the water, and the blood: and these three are one." 1 John 5:7-8
 
 # 2. Translations That EXCLUDE The Comma
 
@@ -37,19 +36,19 @@ Modern translations are based on "Critical Texts" (like the Nestle-Aland or Unit
 
 - **English Standard Version (ESV)**
     
-    > "For there are three that testify: the Spirit and the water and the blood; and these three agree." (1 John 5:7-8)
+    > "For there are three that testify: the Spirit and the water and the blood; and these three agree." 1 John 5:7-8
     
 - **New International Version (NIV)**
     
-    > "For there are three that testify: the Spirit, the water and the blood; and the three are in agreement." (1 John 5:7-8)
+    > "For there are three that testify: the Spirit, the water and the blood; and the three are in agreement." 1 John 5:7-8
     
 - **New American Standard Bible (NASB)**
     
-    > "For there are three that testify: the Spirit and the water and the blood; and the three are in agreement." (1 John 5:7-8)
+    > "For there are three that testify: the Spirit and the water and the blood; and the three are in agreement." 1 John 5:7-8
     
 - **New Revised Standard Version (NRSV)**
     
-    > "There are three that testify: the Spirit and the water and the blood, and these three agree." (1 John 5:7-8)
+    > "There are three that testify: the Spirit and the water and the blood, and these three agree." 1 John 5:7-8
 
 # Why The Difference Exists
 
