@@ -2,22 +2,9 @@
 {"dg-publish":true,"permalink":"/contents/doctrines/once-saved-always-saved/","noteIcon":"","created":"2025-05-30T03:15:27.567+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JVN7NXqwjro?si=aHho4Z8Md124-DAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Pasted image 20260801015524.png](/img/user/Attachments/Pasted%20image%2020260801015524.png)
 
-This documentary, *Once Saved, Always Saved?*, provides a critical examination of the doctrine of eternal security, which posits that a person's salvation cannot be lost once they have accepted Christ. Through the perspectives of various scholars, theologians, and religious leaders, the film challenges this view by arguing that it is not supported by the early church's historical teachings or the broader biblical narrative.
-
-**Key arguments presented include:**
-
-* **Historical Context:** The documentary argues that the early church fathers, who were discipled by the apostles, did not subscribe to the idea of eternal security. It suggests that this doctrine only gained prominence through the later teachings of *Augustine of Hippo* and was later reinforced during the Reformation.
-
-* **Biblical Warnings:** A major focus of the film is the presentation of numerous New Testament passages—such as those found in *Hebrews*, *1 Corinthians*, *2 Peter*, and *James*—that warn believers of the possibility of turning away from the faith and losing their salvation. The speakers emphasize that these warnings are intended for genuine believers and highlight the necessity of perseverance and holy living.
-
-* **Reinterpreting Key Verses:** The film addresses and offers alternative interpretations for common scriptural arguments used to support eternal security, including passages in *Ephesians* about being "sealed" by the Holy Spirit, the "golden chain" in *Romans*, and Jesus's promise in *John 10* regarding his sheep. The presenters argue that these verses, when read in their full context, do not guarantee unconditional security but rather underscore the ongoing relationship and faithfulness required of a believer.
-
-* **The Nature of Discipleship and Repentance:** The documentary concludes by emphasizing that true salvation leads to a transformed life. It challenges the concept of "hyper-grace," suggesting that the Christian life is an active, ongoing process of repentance and obedience. The speakers advocate for a view of faith that involves taking personal responsibility for one's walk with God and fearing the consequences of abandoning that path.
-
----
-# Introduction 
+# The Introduction: Once Saved Always Saved
 
 The doctrine of "once saved, always saved," arguing that it contradicts the Bible's consistent teachings from **Genesis to Revelation**. It posits that this idea, which suggests salvation is guaranteed regardless of post-conversion behaviour, leads to **hypocrisy and a lack of transformed living** within the church. The film traces the origins of this doctrine to **Augustine in the 5th century** and its further development by **John Calvin in the Reformation**, asserting that the **early church fathers and the majority of Christians throughout history** did not subscribe to this view. Instead, the Bible highlights numerous **New Testament passages** that warn believers about the genuine possibility of **apostasy and losing their salvation**, emphasizing the need for **ongoing faith, repentance, and holy living** as the necessary response to God's grace.
 
@@ -405,6 +392,24 @@ A truly born-again believer will never lose their salvation is a truth firmly es
 # Conclusion
 
 In summary, the Word of God is explicitly clear. Salvation begins with a supernatural act of God called the new birth, whereby He imparts spiritual life to a sinner who places their faith in the Lord Jesus Christ. Once this divine transaction occurs, the believer is eternally secure. This security is not a license for sin as for "whom the Lord loveth he chasteneth" Hebrews 12:6—but rather a glorious truth founded upon the immutable promises of God the Father, the finished work and intercession of God the Son, and the indwelling, sealing ministry of God the Holy Spirit. The one who is truly born from above is kept by the power of God and will never perish.
+
+
+---
+# Once Saved Always Saved? A Documentary Film
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JVN7NXqwjro?si=aHho4Z8Md124-DAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This documentary, *Once Saved, Always Saved?*, provides a critical examination of the doctrine of eternal security, which posits that a person's salvation cannot be lost once they have accepted Christ. Through the perspectives of various scholars, theologians, and religious leaders, the film challenges this view by arguing that it is not supported by the early church's historical teachings or the broader biblical narrative.
+
+**Key arguments presented include:**
+
+* **Historical Context:** The documentary argues that the early church fathers, who were discipled by the apostles, did not subscribe to the idea of eternal security. It suggests that this doctrine only gained prominence through the later teachings of *Augustine of Hippo* and was later reinforced during the Reformation.
+
+* **Biblical Warnings:** A major focus of the film is the presentation of numerous New Testament passages—such as those found in *Hebrews*, *1 Corinthians*, *2 Peter*, and *James*—that warn believers of the possibility of turning away from the faith and losing their salvation. The speakers emphasize that these warnings are intended for genuine believers and highlight the necessity of perseverance and holy living.
+
+* **Reinterpreting Key Verses:** The film addresses and offers alternative interpretations for common scriptural arguments used to support eternal security, including passages in *Ephesians* about being "sealed" by the Holy Spirit, the "golden chain" in *Romans*, and Jesus's promise in *John 10* regarding his sheep. The presenters argue that these verses, when read in their full context, do not guarantee unconditional security but rather underscore the ongoing relationship and faithfulness required of a believer.
+
+* **The Nature of Discipleship and Repentance:** The documentary concludes by emphasizing that true salvation leads to a transformed life. It challenges the concept of "hyper-grace," suggesting that the Christian life is an active, ongoing process of repentance and obedience. The speakers advocate for a view of faith that involves taking personal responsibility for one's walk with God and fearing the consequences of abandoning that path.
 
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
