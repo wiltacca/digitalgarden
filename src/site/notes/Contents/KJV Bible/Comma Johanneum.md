@@ -88,6 +88,29 @@ The Greek manuscript that became associated with Erasmus's decision—usually id
 
 However, deliberate forgery for this purpose cannot be demonstrated as a historical fact. What can be established is that Erasmus himself distrusted the manuscript's textual independence: he explicitly suspected that it had been revised according to Latin manuscripts. Nevertheless, after considerable criticism over his omission of the Comma Johanneum, he inserted the passage into his third Greek New Testament of 1522, explaining that he did so that his critics would have no further occasion to attack him. From Erasmus the passage entered later editions associated with the Textus Receptus and consequently appeared in the 1611 King James Version.
 
+---
+# The Great 1 John 5:7 Debate | C. Jay Cox vs. TurretinFan - Is This Text Original?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0MMH2MNo5JM?si=uMZXZSTNyCG46xxi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This debate features C. Jay Cox and TurretinFan, moderated by Donny Budinsky, discussing whether the *Comma Johanneum* (1 John 5:7) is an original part of the New Testament. 
+
+**Key Arguments:**
+
+*   **Arguments for Authenticity (C. Jay Cox):** 
+    *   Cox argues that the verse fits the literary structure and flow of the Johannine style, particularly regarding the use of masculine participles that align with the Father, Word, and Spirit.
+    *   He suggests that the absence of the verse in most early Greek manuscripts could be explained by a scribal error known as *parablepsis*, where a scribe might have accidentally skipped a portion of the text due to the similarity between verses 7 and 8.
+    *   He highlights early patristic evidence, such as citations from *Cyprian* and *Priscilian*, to suggest the text was present in early Latin traditions.
+
+*   **Arguments Against Authenticity (TurretinFan):**
+    *   TurretinFan contends that the *Comma Johanneum* is a late Latin interpolation rather than an original Greek text. He notes that the verse is absent from all ancient Greek, Coptic, Syriac, and other non-Latin versions.
+    *   He points out that the earliest clear evidence for the passage appears in late Latin manuscripts and that various early Latin authors quote the passage in ways that differ significantly from the version found in the *Textus Receptus*.
+    *   He argues that the verse disrupts the theological flow of the passage and that the doctrine of biblical preservation does not necessitate the inclusion of the passage, as the underlying scripture is preserved in its absence.
+
+Ultimately, the debate centers on the interpretation of textual evidence, the reliability of the manuscript tradition, and the historical transmission of the New Testament text.
+
+---
+
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
