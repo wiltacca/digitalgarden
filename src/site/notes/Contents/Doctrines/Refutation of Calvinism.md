@@ -111,6 +111,6 @@ The speaker concludes by explicitly rejecting Calvinism, labeling it as both her
 
 ---
 Also see:
-- 
-- 
-- 
+- [[Contents/Doctrines/Mainstream Calvinism Versus Hyper-Calvinism\|Mainstream Calvinism Versus Hyper-Calvinism]]
+- [[Contents/Doctrines/TULIP VS FACTS\|TULIP VS FACTS]]
+- [[Contents/Doctrines/TULIP VS LOTUS\|TULIP VS LOTUS]]
