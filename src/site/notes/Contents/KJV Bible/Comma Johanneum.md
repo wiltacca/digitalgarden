@@ -62,7 +62,7 @@ The explicit Trinitarian wording ("the Father, the Word, and the Holy Ghost...")
 
 Historians believe the Comma Johanneum started as a "gloss" which is a marginal note written by a scribe in a Latin copy of the Bible hundreds of years after the text was originally authored. The scribe likely wrote it to explain that the "Spirit, water, and blood" were symbolic of the Trinity. Over time, later copyists mistakenly thought this margin note was part of the actual scripture and copied it directly into the main text of the Latin Vulgate.
 
-When the scholar Erasmus compiled the first published Greek New Testament in 1516, he originally left the Comma Johanneum out because he couldn't find a single Greek manuscript that contained it. However, under heavy pressure from church officials who were used to the Latin version, he eventually added it into his later editions. His later edition became the foundation for the Textus Receptus, which the 1611 King James translators relied upon.
+When Erasmus published the first Greek New Testament to reach the public in 1516, he omitted the Comma Johanneum from 1 John 5:7–8 because it was absent from the Greek manuscripts available to him. He also omitted it in his 1519 edition. After considerable theological criticism and after being shown a late Greek manuscript containing the passage, Erasmus included it in his third edition of 1522, although he expressed doubts about the manuscript. Erasmus's editions subsequently influenced those of Stephanus and Beza, creating the textual tradition later called the Textus Receptus. The 1611 King James translators relied especially on editions of Beza and other printed Greek texts belonging to this tradition, and consequently the Comma Johanneum appeared in the KJV.
 
 Here is exactly how it happened:
 
@@ -82,16 +82,11 @@ Here is exactly how it happened:
 
 >Subsequent publishers of the Greek New Testament—such as Robert Estienne (Stephanus) in 1550 and Theodore Beza in 1598—based their work on Erasmus's later editions. The 1611 King James translators relied heavily on Beza's Greek text, cementing the Comma Johanneum into the English Bible for centuries.
 
-# The Nuance: The "Made-To-Order" Manuscript
+# Conclusion
 
-Modern historians add an important piece of context regarding the manuscript that forced Erasmus's hand.
+The Greek manuscript that became associated with Erasmus's decision—usually identified as Codex Montfortianus (Minuscule 61)—is itself an extremely late witness, dating from the sixteenth century. Some scholars have proposed that it was produced around 1520, possibly by or in connection with a Franciscan named Froy or Roy, and the famous suggestion that it was “made to order” to answer Erasmus's challenge has often been repeated in textual-critical literature. 
 
-There is a popular legend that Erasmus made a "rash wager," promising his critics he would insert the verse if they could produce just _one_ Greek manuscript containing it. According to the eminent textual scholar Bruce Metzger, there is no evidence in Erasmus's writings that he ever actually made this wager.
-
-However, the reality is just as dramatic. The manuscript presented to him—Codex Montfortianus—was not an ancient document. Scholars today know it was created around 1520,right in the middle of the controversy, likely by a Franciscan friar named Froy. It is widely believed that this manuscript was "made to order"—specifically forged by translating the Latin Vulgate's text back into Greek just to give Erasmus the excuse he needed to include it.
-
-Erasmus was no fool. In his notes for the 1522 edition, he explicitly stated his suspicion that the manuscript had been retro-translated from Latin into Greek to deceive him. Nevertheless, rather than endure continued accusations of heresy, he inserted the Comma Johanneum into the text, where it remained in the dominant Greek text (the _Textus Receptus_) for over 300 years.
-
+However, deliberate forgery for this purpose cannot be demonstrated as a historical fact. What can be established is that Erasmus himself distrusted the manuscript's textual independence: he explicitly suspected that it had been revised according to Latin manuscripts. Nevertheless, after considerable criticism over his omission of the Comma Johanneum, he inserted the passage into his third Greek New Testament of 1522, explaining that he did so that his critics would have no further occasion to attack him. From Erasmus the passage entered later editions associated with the Textus Receptus and consequently appeared in the 1611 King James Version.
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
