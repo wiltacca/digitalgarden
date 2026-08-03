@@ -96,7 +96,7 @@ Salvation and discipleship must be carefully distinguished, but they should neve
 
 **Discipleship** is the believer’s continuing life of learning, obedience, service, sacrifice, and spiritual growth.
 
-We are not saved **by good works**, but we are saved **unto good works**.
+⚠ We are <u>not</u> saved **by good works**, but we are saved **unto good works**.
 
 ## Not By Works, But Unto Good Works
 
