@@ -100,11 +100,11 @@ We are not saved **by good works**, but we are saved **unto good works**.
 
 ## Not By Works, But Unto Good Works
 
-- **Saved by His grace.  
+- Saved by His grace.  
 - Saved through faith.  
 - Saved to follow Christ.  
 - Saved to serve Him.  
-- Saved to glorify Him.**
+- Saved to glorify Him.
 
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
