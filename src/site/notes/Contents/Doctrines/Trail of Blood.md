@@ -225,6 +225,6 @@ Therefore, the booklet may be useful as an introduction to Baptist concerns abou
 
 ---
 Also see:
-- [[Contents/Doctrines/Landmark (Brider) Controversy\|Landmark (Brider) Controversy]]
+- [[Contents/Doctrines/Landmark (Baptist Brider) Controversy\|Landmark (Baptist Brider) Controversy]]
 - [[Contents/Doctrines/Mainstream Calvinism Versus Hyper-Calvinism\|Mainstream Calvinism Versus Hyper-Calvinism]]
 - [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
