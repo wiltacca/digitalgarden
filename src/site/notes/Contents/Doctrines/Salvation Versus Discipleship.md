@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/doctrines/salvation-versus-discipleship/","noteIcon":"","created":"2026-08-03T15:46:57.589+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Pasted image 20260803154809.png\|600](/img/user/Attachments/Pasted%20image%2020260803154809.png)
+![Pasted image 20260803154809.png\|700](/img/user/Attachments/Pasted%20image%2020260803154809.png)
 
 # Salvation & Discipleship Distinguished, But Not Separated
 
