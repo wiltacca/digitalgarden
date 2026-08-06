@@ -165,6 +165,25 @@ Key takeaways include:
 
 Ultimately, the message encourages believers to focus on their shared union with Christ rather than dividing over denominational labels and different practices.
 
+---
+# Some Baptist Heresies
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ZRQoDdRNGs?si=32u3dO7jkgvgrDaG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this sermon, independent Baptist pastor Robert Breaker discusses various theological teachings and traditions within the Baptist movement that he identifies as heresies. He emphasizes the importance of prioritizing the Bible over human traditions, arguing that when Baptist teachings deviate from scripture, they should be rejected.
+
+Key points addressed include:
+
+* **The origin of the church:** The speaker rejects the teaching that the church began with John the Baptist, maintaining that it started with Jesus Christ.
+* **The nature of the church:** He critiques the "Landmark" Baptist view that denies the existence of a universal body of Christ, arguing that the church consists of all saved individuals.
+* **Baptismal theology:** He warns against the error of equating water baptism with salvation or membership into the body of Christ, suggesting that some traditions place undue emphasis on the act rather than faith.
+* **Dispensationalism:** The pastor advocates for a dispensational understanding of the Bible, criticizing those who dismiss or avoid the teaching of dispensations.
+* **Calvinism:** He strongly critiques Calvinist doctrines, such as total depravity, unconditional election, and irresistible grace, labeling them as unbiblical and derived from extrabiblical influences.
+* **Separation of church and state:** He underscores the historical Baptist principle of the separation of church and state, arguing that the government should not interfere in the affairs of the church.
+
+Throughout the presentation, the pastor calls for Baptists to return to a firm reliance on the scriptures, encouraging believers to study the Bible independently rather than following the traditions of men or denominational leaders.
+
+
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
