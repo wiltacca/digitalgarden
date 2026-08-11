@@ -116,9 +116,7 @@ And Paul writes:
 
 > **“For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.” Romans 10:10**
 
-There is therefore an enormous difference between saying:
-
-**“I believe that Jesus exists.”** and truly trusting:
+There is therefore an enormous difference between saying, **“I believe that Jesus exists.”** and truly trusting:
 
 - **“I believe on the Lord Jesus Christ.”**
 - The devils believe **about** Christ.
