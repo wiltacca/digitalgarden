@@ -105,6 +105,19 @@ Here’s a **comparison chart** showing how **Verbal Plenary Inspiration (VPI)**
 
 In summary, VPP teaches that God has maintained the exact wording of Scripture for us today; it is supported by a strand of conservative Protestants who see scriptural and confessional warrant for “preservation.” Critics reply that this view extends biblical inerrancy beyond what was historically taught, relies on a narrow textual tradition, and risks elevating one Bible version over others. The debate continues, with proponents citing providence and passages like Matthew 5:18, and opponents emphasizing broader church tradition and the realities of textual evidence.
 
+---
+# James White Versus Thomas Ross | When a Bible Translation Debate Became A Preservation Debate
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0bOJ5qHAjE?si=q1vRfIYL2FzoWEBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This video features a debate between *James White* and *Thomas Ross* regarding the reliability and superiority of the *Legacy Standard Bible* (LSB) versus the *King James Version* (KJV). The discussion centers on textual criticism, the underlying Greek manuscripts, and the biblical doctrine of the preservation of Scripture.
+
+*   **Arguments for the Modern Critical Text:** *James White* defends modern translations like the LSB, arguing that they rely on more accurate, older manuscript evidence and that textual criticism allows for a transparent, scholarly understanding of the original intent of the biblical authors. He emphasizes that advances in the study of papyri and manuscripts provide a more solid foundation for the text than the *Textus Receptus* (the base for the KJV).
+
+*   **Arguments for the Textus Receptus:** *Thomas Ross* advocates for the KJV and the *Textus Receptus*, arguing that this text aligns with the biblical teaching that God has sovereignly preserved His exact words for every generation. He challenges the modern critical method, suggesting that its editors often lack certainty and sometimes rely on readings that lack sufficient manuscript support or contain errors that undermine the doctrine of inerrancy.
+
+*   **Key Themes:** The debate frequently shifts from translation differences to foundational theological disagreements about how God preserves His Word. *Ross* maintains that the church is the guardian of the preserved text, while *White* contends that utilizing scholarly tools and historical data is essential for a faithful defense of Scripture.
+
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
