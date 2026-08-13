@@ -106,7 +106,7 @@ Here’s a **comparison chart** showing how **Verbal Plenary Inspiration (VPI)**
 In summary, VPP teaches that God has maintained the exact wording of Scripture for us today; it is supported by a strand of conservative Protestants who see scriptural and confessional warrant for “preservation.” Critics reply that this view extends biblical inerrancy beyond what was historically taught, relies on a narrow textual tradition, and risks elevating one Bible version over others. The debate continues, with proponents citing providence and passages like Matthew 5:18, and opponents emphasizing broader church tradition and the realities of textual evidence.
 
 ---
-# James White Versus Thomas Ross | When a Bible Translation Debate Became A Preservation Debate
+# James White Versus Thomas Ross | When A Bible Translation Debate Became A Preservation Debate
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0bOJ5qHAjE?si=q1vRfIYL2FzoWEBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
