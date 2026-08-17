@@ -56,7 +56,7 @@ Nowhere in the Acts of the Apostles or in the Epistles of Paul, Peter, James, Jo
 
 ## **No Levitical System** in the New Testament Church
 
-⚠️ The tithe was specifically for the maintenance of the Levitical priesthood and the temple. The New Testament Church is <font color="#ff0000">not bound</font> to the Levitical system. Believers are now "a royal priesthood" 1 Peter 2:9.
+⚠️ The tithe was specifically for the maintenance of the Levitical priesthood and the temple. The New Testament Church is <font color="#de7802">not bound</font> to the Levitical system. Believers are now"a royal priesthood" 1 Peter 2:9.
 
 ## **Giving Out of Grace, Not Obligation**  
 

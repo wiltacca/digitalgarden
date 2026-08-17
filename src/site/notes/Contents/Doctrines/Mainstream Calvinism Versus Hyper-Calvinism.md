@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/doctrines/mainstream-calvinism-versus-hyper-calvinism/","noteIcon":"","created":"2025-07-14T18:34:59.487+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-# A Comparative Theological Analysis of Mainstream Calvinism & Hyper-Calvinism
+## A Comparative Theological Analysis of Mainstream Calvinism & Hyper-Calvinism
 
 ## I. Introduction: An Examination of The Complex Terrain of Calvinistic Theology
 

@@ -432,16 +432,6 @@ A parent’s love for offspring is demonstrated in careful guidance and discipli
 6. Conclusion: Moses’ Death and Joshua’s Succession (34:1–12)
 
 
-
-
-
-
-
-
-
-
-
-
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---

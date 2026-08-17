@@ -76,7 +76,8 @@ A man may say:
 - “I believe Jesus is the Son of God.”
 - “I believe the Bible is true.”
 - “I believe there is a heaven and hell.”
-- Yet the devils believe comparable truths.
+
+ Yet the devils believe comparable truths.
 
 The question is not merely, **What facts do you believe?** The deeper question is whether the heart has truly trusted Christ.
 
