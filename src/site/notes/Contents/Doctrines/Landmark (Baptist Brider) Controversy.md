@@ -188,6 +188,5 @@ Throughout the presentation, the pastor calls for Baptists to return to a firm r
 
 ---
 Also see:
+- [[Contents/Doctrines/One True Church Controversy\|One True Church Controversy]]
 - [[Contents/Doctrines/Trail of Blood\|Trail of Blood]]
-- [[Contents/Doctrines/Mainstream Calvinism Versus Hyper-Calvinism\|Mainstream Calvinism Versus Hyper-Calvinism]]
-- [[Contents/Doctrines/Lordship Versus Free Grace & Hyper Grace\|Lordship Versus Free Grace & Hyper Grace]]
