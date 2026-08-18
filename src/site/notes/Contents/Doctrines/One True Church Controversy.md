@@ -50,11 +50,11 @@ The "Great Apostasy" narrative serves as the strategic foundation for restoratio
 
 Latter-day Saint theology presents the restoration of the Aaronic and Melchizedek priesthoods not as a static event, but as an "ongoing process." While the 1829 visitations of John the Baptist and the Apostles Peter, James, and John provide the initial successional narrative, the tradition emphasizes the "Chamber of Father Whitmer" as a critical developmental site where the "word of the Lord" directed the ordination of elders and the organization of the Church. This process model is reinforced by the 1836 restoration of temple-related keys by Moses, Elias, and Elijah in the Kirtland Temple. The institutional implication is a "Continuing Prophetic" model where authority is not merely held but is part of an evolving dispensational whole.
 
-### La Luz del Mundo
+### La Luz del Mundo (The Light of the World Church)
 
 La Luz del Mundo utilizes an "Apostle-centric" model where a dynastic leader is viewed as the sole mediator of divine truth. Absolute devotion functions as the primary boundary-maintenance mechanism, persisting even under extreme external pressure. The strategic resilience of this devotion is evidenced by the membership’s continued recognition of Naasón Joaquín García as the "living Apostle" despite his 2022 sexual abuse conviction and the subsequent September 2025 federal grand jury indictment in New York for racketeering conspiracy and sex trafficking. Further demonstrating this insulation was the late September 2025 arrest of 38 members in Michoacán, Mexico, for conducting tactical training with replica weapons, illustrating a militarized commitment to the institutional head.
 
-### Iglesia ni Cristo
+### Iglesia ni Cristo (Church of Christ)
 
 Iglesia ni Cristo utilizes a Unitarian Christology and positions its founder, Felix Manalo, as the "last messenger." The tradition employs a "Ministerial Exclusivity" model where only ordained ministers possess the authority to interpret scripture. This model effectively resolves the "scriptural paradox"—using the Protestant 66-book canon finalized by "apostate" bodies—by asserting that the Executive Minister’s authority reclaims the text, nullifying its apostate origins through centralized, error-free interpretation.
 
