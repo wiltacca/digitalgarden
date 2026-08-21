@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/contents/applications/four-types-of-hearers/","noteIcon":"","created":"2026-08-21T02:03:53.142+08:00","dg-note-properties":{"aliases":null}}
 ---
 
-![Four Types of Faith.png\|700](/img/user/Attachments/Four%20Types%20of%20Faith.png)
+![Pasted image 20260821234625.png\|700](/img/user/Attachments/Pasted%20image%2020260821234625.png)
 
 > [!bible]+ [Mark 4:3-20 - KJV](https://www.biblegateway.com/passage/?search=Mark+4:3-20&version=kjv)
 > 3. Hearken; Behold, there went out a sower to sow:
