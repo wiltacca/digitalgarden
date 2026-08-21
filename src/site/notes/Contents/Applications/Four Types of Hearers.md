@@ -203,7 +203,7 @@ The decisive question is: **Did it bring forth fruit?**
 
 ![Pasted image 20260821152723.png\|200](/img/user/Attachments/Pasted%20image%2020260821152723.png)
 
-# 4. The Good Ground
+# 4. The Good Ground Hearer
 
 > Mark 4:8 “And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.”
 
