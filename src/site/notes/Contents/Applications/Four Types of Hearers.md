@@ -149,7 +149,7 @@ Christ gives an unusually detailed interpretation: Mark 4:18–19 “And these a
 
 Here the danger is neither immediate satanic removal nor persecution. It is **competition**. Christ identifies three competing influences.
 
-### The cares of this world
+### The Cares of This World
 
 These are the anxieties, occupations, pressures, worries, and concerns connected with temporal life.
 
@@ -159,7 +159,7 @@ And: Matthew 6:33 “But seek ye first the kingdom of God, and his righteousness
 
 Ordinary earthly concerns can become spiritually destructive when they dominate the heart.
 
-### The deceitfulness of riches
+### The Deceitfulness of Riches
 
 Christ does not merely say “riches.” He says: “the **deceitfulness** of riches.”
 
@@ -173,7 +173,7 @@ Riches deceive because they can make a person feel self-sufficient while spiritu
 
 Christ said: Mark 8:36 “For what shall it profit a man, if he shall gain the whole world, and lose his own soul?”
 
-### “The lusts of other things”
+### “The Lusts of Other Things”
 
 This broad expression reaches beyond money. It includes desires for anything that enters the heart and rivals God's Word.
 
