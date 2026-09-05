@@ -104,6 +104,34 @@ Key points of the presentation include:
 
 Ultimately, the speaker concludes that the evidence from historical usage and the internal patterns of the text confirm that the _Johannine Comma_ belongs in the Holy Scriptures.
 
+---
+# Defense of I John 5:7 | Dr. Phil Stringer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pYE7KSx-Gtc?si=uXC8lgNz4GP0yj00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this sermon, Dr. Phil Stringer provides a defense for the inclusion of 1 John 5:7 (often referred to as the "Johannine Comma") in the King James Bible.
+##### **The Importance of 1 John 5:7**
+
+- **Explicit Trinitarian Proof:** The verse ("For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one") serves as a clear statement on the Trinity.
+
+- **Doctrinal Defense:** Dr. Stringer argues that retaining this verse refutes false doctrines and movements that deny the Trinity or the deity of Jesus Christ, such as Jehovah's Witnesses and Islam.
+##### **Historical and Manuscript Evidence**
+
+- **Latin Vulgate and Old Latin:** The verse was included in Jerome's Latin Vulgate (around 400 AD) as well as the Old Latin (_Itala_) Bibles used by early, independent Christian groups long before the 16th century. Jerome noted that certain manuscript lines omitted the verse because early heretics removed it.
+
+- **Church Fathers and Early Councils:** Early church figures, including Cyprian (c. 250 AD) and Athanasius (300s AD), as well as the Council of Carthage (485 AD), cited or alluded to the trinitarian passage in their writings.
+
+- **Greek Manuscripts:** Contrary to claims that no Greek manuscripts contain the verse, historical scholars like John Gil documented multiple Greek minuscules containing or referencing the text.
+##### **Critique of Modern Textual Criticism**
+
+- **Scofield Reference Bible and Modern Translations:** Dr. Stringer addresses common criticisms and footnotes in reference Bibles (like Scofield) and modern translations that call the verse spurious, attributing these dismissals to a reliance on minority Greek manuscripts.
+
+- **Wescott and Hort:** He argues that 19th-century textual critics wrongly prioritized corrupt or incomplete Alexandrian manuscripts over the majority tradition.
+##### **Personal Testimony and Conclusion**
+
+- **Faith in the KJV:** Dr. Stringer shares his personal journey from initially doubting textual additions to adopting complete confidence in the King James Bible through detailed historical study (such as examining the ending of Mark).
+
+- **Reliability of the KJV:** He concludes that the King James Bible accurately preserves the word of God in English, and believers can confidently trust its textual integrity without relying on modern critical alterations.
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
