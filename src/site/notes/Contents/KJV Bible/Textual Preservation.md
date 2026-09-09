@@ -118,6 +118,37 @@ This video features a debate between *James White* and *Thomas Ross* regarding t
 
 *   **Key Themes:** The debate frequently shifts from translation differences to foundational theological disagreements about how God preserves His Word. *Ross* maintains that the church is the guardian of the preserved text, while *White* contends that utilizing scholarly tools and historical data is essential for a faithful defense of Scripture.
 
+---
+# Dr David Sorenson The Critical Text Vs The Traditional Text
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02A7lNf0Rrs?si=ZgmB-0V9ysc7KZLr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Dr. David Sorenson** outlines the fundamental differences between the **Traditional Text** (which underlies the King James Version) and the **Critical Text** (which underlies most modern Bible translations), presenting seven main arguments in favour of the Traditional Text.
+
+### Key Overview & Core Arguments
+
+- **Nature of the Debate:** The controversy is not merely about translation preferences—such as modern language or readability—but rather about the underlying Greek manuscripts used to translate the New Testament.
+
+- **Translation Differences:** The King James Bible is presented as the primary major English translation derived from the Traditional Text (Textus Receptus), whereas modern versions (e.g., NIV, ESV, NASB, NKJV) depend heavily on the Critical Text.
+
+- **Origins & Historical Lineage:**
+
+    - The **Traditional Text** is traced to Antioch and the Syrian _Peshitta_ (c. 150 AD), carried forward through history by churches, missionaries, and martyrs (e.g., Ulfilas, the Waldensians, William Tyndale).
+
+    - The **Critical Text** is traced to 4th-century Alexandria, Egypt, which Dr. Sorenson characterizes as a hub of gnosticism and early apostasy involving figures like Origen and Eusebius.
+
+- **Textual Transmission:** The Traditional Text was standardized in print by Erasmus and preserved through various editions (Stephanus, Beza) to become the basis of the KJV. By contrast, the Critical Text was compiled by 19th-century scholars like Westcott and Hort, and updated frequently by modern editors.
+
+- **Manuscript Evidence:**
+
+    - Approximately **99%** of extant ancient Greek manuscripts align with the Traditional/Byzantine Text family.
+
+    - The Critical Text relies overwhelmingly on two primary codices: **Codex Vaticanus** and **Codex Sinaiticus**, both of which Dr. Sorenson criticizes as corrupt, heavily altered, or potentially counterfeit.
+
+- **Church Usage vs. "Oldest & Best":** The Traditional Text has seen continuous usage by Bible-believing churches throughout church history, whereas the Critical Text relies on modern academic theories prioritizing the age and exclusivity of a few manuscripts.
+
+- **Doctrinal Alterations:** Dr. Sorenson argues that the Critical Text removes roughly 17 entire verses, thousands of words, and specific phrasing, which he asserts results in a systematic diminishing of the deity, virgin birth, and title (_Lord_, _Christ_) of Jesus Christ.
+
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
