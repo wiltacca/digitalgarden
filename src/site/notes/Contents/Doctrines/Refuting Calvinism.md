@@ -106,6 +106,12 @@ Key arguments presented include:
 
 The speaker concludes by explicitly rejecting Calvinism, labeling it as both heretical and blasphemous. He encourages his congregation to trust in the power of the _Bible_ to lead people to faith through the proclamation of the gospel, rather than relying on theological systems that he believes limit the scope of God’s grace.
 
+---
+# Jesus Vs Calvinism: Exposing False Doctrines of TULIP Theology
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQDb_lRHHww?si=Av2jpX4rY5sfWssG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Words of Jesus in the Bible are true and make Calvinism false, and in fact if the reformed theology and doctrines of grace, the 5 points of Calvinism known as TULIP were actually true, then the words of Jesus in Scripture must be a lie and we know that isn't the case so they have a Biblical and theological problem they cannot resolve. In this video I prove that Calvinism is a lie and Scripture is God's Word and always true.
 
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
