@@ -82,6 +82,14 @@ A biblical and historically grounded ecclesiology recognizes that baptism rests 
 
 While early figures like Justin Martyr (AD 100–165) began to conflate the rite with the remission of sins through the doctrine of "Baptismal Regeneration," the Scriptures offer a sharp correction. Titus 3:5 affirms that salvation is "not by works of righteousness which we have done," but by the "washing of regeneration and renewing of the Holy Ghost." It is the Spirit of God, not the water of the pool, that grants new life. Furthermore, when St. Peter calls for baptism "for the remission of sins" Acts 2:38, the linguistic nuance suggests baptism _because_ sins have been forgiven, much as one offers a sacrifice _for_ (because of) a cleansing already received. Adhering to the biblical pattern of believer’s baptism preserves the spiritual growth of the individual and ensures that the local church remains a pure and regenerate body, securely founded upon the Word of God.
 
+---
+
+# Bogus Baptisms
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1uL7iOb39Ks?si=0JEYDEZAvdFoCTCJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The sermon addresses theological perspectives on baptism, specifically challenging practices like infant baptism (paedobaptism) and examining what the speaker considers invalid or unbiblical forms of baptism ("bogus baptisms").
+
 <script> var refTagger = { settings: { bibleVersion: 'KJV', tooltipStyle: 'dark' } }; (function(d, t) { var n=d.querySelector('[nonce]'); refTagger.settings.nonce = n && (n.nonce||n.getAttribute('nonce')); var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = 'https://api.reftagger.com/v2/RefTagger.js'; g.nonce = refTagger.settings.nonce; s.parentNode.insertBefore(g, s); }(document, 'script')); </script>
 
 ---
