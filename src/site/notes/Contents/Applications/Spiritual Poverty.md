@@ -79,6 +79,6 @@ The Scriptures call all men to examine their hearts and determine where their tr
 
 ---
 Also see:
-- [[Contents/Applications/Love of Money\|Love of Money]]
+- [[Contents/Applications/Love of Money (Part 1 of 2)\|Love of Money (Part 1 of 2)]]
 - 
 - 
